@@ -5,7 +5,13 @@
 
 # My Two Cents
 
-This is (or will one day be) a digital garden.
+An attempt to cultivate some thoughts and ideas across a broad range of topics.
+
+## Some Thoughts
+
+- [[Resources/Garden/The kernel of a good strategy includes three things\|The kernel of a good strategy includes three things]]
+
+## Tasks
 
 fix:
 - [ ] tags
