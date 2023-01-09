@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/the-kernel-of-a-good-strategy-includes-three-things/"}
 ---
 
+tags:: #strategic
+
+-----
 
 # The kernel of a good strategy includes three things
 
