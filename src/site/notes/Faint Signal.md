@@ -24,4 +24,5 @@ fix:
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | #strategic(2) | <ul><li>[[Test note.md\\|Test note]]</li><li>[[The kernel of a good strategy includes three things.md\\|The kernel of a good strategy includes three things]]</li></ul> |
 | #test(1)      | <ul><li>[[Test note.md\\|Test note]]</li></ul>                                                                                                                          |
+| #test2(1)     | <ul><li>[[Test note.md\\|Test note]]</li></ul>                                                                                                                          |
 
