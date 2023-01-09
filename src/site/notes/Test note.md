@@ -3,10 +3,10 @@
 ---
 
 
-tags:: #test, #strategic
-
 Testing tags
 
+----
+#test #strategic #test2
 
 see also:
 - [[Faint Signal\|Faint Signal]]
