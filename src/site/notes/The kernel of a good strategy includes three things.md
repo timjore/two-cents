@@ -7,6 +7,8 @@
 
 The kernel of a good strategy includes a **diagnosis** of the challenge, a **guiding policy** for dealing with the challenge, and a **set of actions** that carry out the guiding policy.
 
+---
+
 > The kernel of a strategy contains three elements:
 > 
 > ==A **diagnosis** that defines or explains the nature of the challenge.== A good diagnosis simplifies the often overwhelming complexity of reality by identifying certain aspects of the situation as critical.
