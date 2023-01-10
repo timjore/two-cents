@@ -12,4 +12,4 @@ When a complex system scales up, it becomes disproportionately *more* complex.
 source: Utley, Jeremy, and Perry Klebahn. _Ideaflow: The Only Business Metric That Matters_. Portfolio, 2022.
 
 ---
-#system-thinking
+#systems-thinking
