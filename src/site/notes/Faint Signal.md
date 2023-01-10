@@ -9,8 +9,8 @@ An active cultivation of thoughts and ideas across a broad range of topics.
 
 
 
-| Tags                 | Files                                                                                                                              |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| #strategic (1)       | <ul><li>[[The kernel of a good strategy includes three things.md\\|The kernel of a good strategy includes three things]]</li></ul> |
-| #system-thinking (1) | <ul><li>[[Scale magnifies complexity.md\\|Scale magnifies complexity]]</li></ul>                                                   |
+| Tags                  | Files                                                                                                                              |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| #strategic (1)        | <ul><li>[[The kernel of a good strategy includes three things.md\\|The kernel of a good strategy includes three things]]</li></ul> |
+| #systems-thinking (1) | <ul><li>[[Scale magnifies complexity.md\\|Scale magnifies complexity]]</li></ul>                                                   |
 
