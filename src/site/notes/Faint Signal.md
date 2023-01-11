@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/faint-signal/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/faint-signal/","tags":["gardenEntry"]}
 ---
 
 # Faint Signal
