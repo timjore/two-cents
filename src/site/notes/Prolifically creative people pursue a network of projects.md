@@ -11,7 +11,7 @@ People who are prolifically creative tend to concurrently work on **an interconn
 
 > According to the American psychologist Howard Gruber, ==prolific creative workers pursue **an interconnected network of related projects** at any one time==. 
 
-source: Utley, Jeremy, and Perry Klebahn. _Ideaflow: The Only Business Metric That Matters_. Portfolio, 2022.
+source: [[References/Ideaflow- The only business metric that matters – Jeremy Utley, Perry Klebahn (2022)\|Ideaflow- The only business metric that matters – Jeremy Utley, Perry Klebahn (2022)]]
 
 ---
 #innovation-creativity
