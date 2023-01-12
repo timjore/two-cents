@@ -5,7 +5,7 @@
 
 # Trolley Problem
 
-The Trolley Problem is an ethics dilemma (described below in *The Molecule Of More*):
+The Trolley Problem is an ethics dilemma (described below in [[References/The Molecule of More – Daniel Z. Lieberman, Michael E. Long (2018)\|The Molecule of More – Daniel Z. Lieberman, Michael E. Long (2018)]]):
 
 > A runaway train hurtles down the tracks toward a group of five workers. **If nothing is done, they will all die.** It’s possible, however, to stop the train by pushing a bystander onto the tracks. His death will slow down the train enough to save the five workers. **Would you push the bystander onto the tracks?**
 
