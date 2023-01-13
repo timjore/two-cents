@@ -16,7 +16,7 @@ An active cultivation of thoughts and ideas across a broad range of topics.
 | #cognition (3)             | <ul><li>[[Familiarity is not easily distinguished from truth.md\\|Familiarity is not easily distinguished from truth]]</li><li>[[Substitution.md\\|Substitution]]</li><li>[[The clarity of a map is easily confused with its accuracy.md\\|The clarity of a map is easily confused with its accuracy]]</li></ul>                                       |
 | #innovation-creativity (3) | <ul><li>[[Ideaflow is the single most important creative metric.md\\|Ideaflow is the single most important creative metric]]</li><li>[[Prolifically creative people pursue a network of projects.md\\|Prolifically creative people pursue a network of projects]]</li><li>[[Quality arises from quantity.md\\|Quality arises from quantity]]</li></ul> |
 | #psychology (3)            | <ul><li>[[Familiarity is not easily distinguished from truth.md\\|Familiarity is not easily distinguished from truth]]</li><li>[[Perception is Reality.md\\|Perception is Reality]]</li><li>[[Tactical Empathy.md\\|Tactical Empathy]]</li></ul>                                                                                                       |
-| #strategic (2)             | <ul><li>[[Grand strategies link means to ends.md\\|Grand strategies link means to ends]]</li><li>[[The kernel of a good strategy includes three things.md\\|The kernel of a good strategy includes three things]]</li></ul>                                                                                                                            |
+| #strategic (3)             | <ul><li>[[Grand strategies link means to ends.md\\|Grand strategies link means to ends]]</li><li>[[Scenario Planning.md\\|Scenario Planning]]</li><li>[[The kernel of a good strategy includes three things.md\\|The kernel of a good strategy includes three things]]</li></ul>                                                                       |
 | #bias (1)                  | <ul><li>[[Substitution.md\\|Substitution]]</li></ul>                                                                                                                                                                                                                                                                                                   |
 | #biology (1)               | <ul><li>[[Trolley Problem.md\\|Trolley Problem]]</li></ul>                                                                                                                                                                                                                                                                                             |
 | #ethics (1)                | <ul><li>[[Trolley Problem.md\\|Trolley Problem]]</li></ul>                                                                                                                                                                                                                                                                                             |
@@ -29,6 +29,5 @@ An active cultivation of thoughts and ideas across a broad range of topics.
 
 # Faint Signal
 
-## About
-
-- All references managed using [[References/Zotero\|Zotero]].
+- Built with [Obsidian](https://obsidian.md).
+- References managed using [[References/Zotero\|Zotero]].
