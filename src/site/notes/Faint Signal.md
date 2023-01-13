@@ -30,5 +30,7 @@ An active cultivation of thoughts and ideas across a broad range of topics.
 # Faint Signal
 
 - Built with [Obsidian](https://obsidian.md).
-- References managed using [[References/Zotero\|Zotero]].
+- References managed using [Zotero](https://zotero.org) and the [Citations](obsidian://show-plugin?id=obsidian-citation-plugin) ([GitHub](https://github.com/hans/obsidian-citation-plugin)) Obsidian plugin.
 - Published with [Obsidian Digital Garden](https://dg-docs.ole.dev/digital-garden-overview/).
+
+
