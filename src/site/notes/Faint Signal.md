@@ -31,3 +31,4 @@ An active cultivation of thoughts and ideas across a broad range of topics.
 
 - Built with [Obsidian](https://obsidian.md).
 - References managed using [[References/Zotero\|Zotero]].
+- Published with [Obsidian Digital Garden](https://dg-docs.ole.dev/digital-garden-overview/).
