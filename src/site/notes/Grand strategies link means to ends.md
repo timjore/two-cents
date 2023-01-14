@@ -16,7 +16,7 @@ A Grand Strategy:
 
 > ==Successful grand strategies—the long-term doctrines that link means to ends thus leverage a whole country’s resources, public and private. They accurately **assess the complex global** environment, are **realistic about goals**, and are **efficient in execution**. They must also be **comprehensive**.==
 >
-> source: [[References/Connectography – Parag Khanna (2016)\|Connectography – Parag Khanna (2016)]]
+> source: [[References/Connectography – Khanna (2016)\|Connectography – Khanna (2016)]]
 
 ---
 #strategic 
