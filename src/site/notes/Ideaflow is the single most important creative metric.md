@@ -7,7 +7,7 @@
 
 > ==The most useful measure of creativity we’ve found is as follows: **the number of novel ideas a person or group can generate around a given problem in a given amount of time**. We call this metric **ideaflow**.== An organization with low ideaflow is in trouble because it’s running out of an essential resource
 
-source: [[References/Ideaflow – Jeremy Utley, Perry Klebahn (2022)\|Ideaflow – Jeremy Utley, Perry Klebahn (2022)]]
+source: [[References/Ideaflow – Utley, Klebahn (2022)\|Ideaflow – Utley, Klebahn (2022)]]
 
 ---
 #innovation-creativity 
