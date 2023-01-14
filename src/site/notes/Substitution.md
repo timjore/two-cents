@@ -13,7 +13,7 @@ When faced with a difficult question, we often **answer an easier one instead**,
 > …
 > If a satisfactory answer to a hard question is not found quickly, **System 1 will find a related question that is easier and will answer it.** I call the operation of answering one question in place of another substitution... **People are asked for a prediction but they substitute an evaluation of the evidence, without noticing that the question they answer is not the one they were asked.** This process is guaranteed to generate predictions that are systematically biased; they completely ignore [[Regression to the Mean\|Regression to the Mean]]. 
 
-source: [[References/Thinking, Fast and Slow – Daniel Kahneman (2013)\|Thinking, Fast and Slow – Daniel Kahneman (2013)]] § “Taming Intuitive Predictions”
+source: [[References/Thinking, Fast and Slow – Kahneman (2013)\|Thinking, Fast and Slow – Kahneman (2013)]] § “Taming Intuitive Predictions”
 
 ---
 #cognition #bias 
