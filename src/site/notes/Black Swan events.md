@@ -13,7 +13,7 @@ A Black Swan is ==an event or occurrence that is **highly improbable**, has a **
 > …
 > First, it is ==an _outlier,_== as it lies outside the realm of regular expectations, because nothing in the past can convincingly point to its possibility. Sec­ond, it carries an ==extreme impact==. Third, in spite of its outlier status, ==human nature makes us concoct explanations for its occurrence _after_ the fact==, making it explainable and predictable.
 
-source: [[References/The Black Swan – Taleb (2010)\|The Black Swan – Taleb (2010)]]
+source: [[References/The Black Swan – Taleb (2010)\|The Black Swan – Taleb (2010)]], § “Prologue”
 
 ---
 #strategic #foresight
