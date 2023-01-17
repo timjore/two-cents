@@ -45,3 +45,4 @@ Here’s the math:
 see also:
 - [[Complex Systems\|Complex Systems]]
 - [[Power Law distributions\|Power Law distributions]]
+- [[Straight Line Instinct\|Straight Line Instinct]]
