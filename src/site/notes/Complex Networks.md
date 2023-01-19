@@ -32,6 +32,6 @@ from [[References/Linked – Barabási, Frangos (2002)\|Linked – Barabási, Fr
 #networks #complex-systems 
 
 see also: 
-- [[Staging/Networks at Scale\|Networks at Scale]]
+- [[Networks at Scale\|Networks at Scale]]
 - [[Power Law distributions\|Power Law distributions]]
 - [[Complex Systems\|Complex Systems]]
