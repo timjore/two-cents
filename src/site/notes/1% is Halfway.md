@@ -14,7 +14,7 @@ In an exponential progression (doubling every generation), the halfway point is 
 > 
 > When Ray Kurzweil was asked his perspective, however, his view of the “impending disaster” was quite different. ==“1 percent,” he said. “That means we’re halfway done.”== What Kurzweil got that no one else did was that the amount sequenced was doubling every year. ==**1 percent doubling seven times** is 100 percent.== Kurzweil’s math was correct, and in fact the project was completed in 2001, early and under budget. The so-called experts had missed the end point by 696 years.
 
-source: [[References/Exponential Organizations – Ismail, Malone, van Geest, Diamandis (2014)\|Exponential Organizations – Ismail, Malone, van Geest, Diamandis (2014)]], ch. 1.
+source: [[References/Exponential Organizations – Ismail, et al. (2014)\|Exponential Organizations – Ismail, et al. (2014)]], ch. 1.
 
 Here’s the math:
 
