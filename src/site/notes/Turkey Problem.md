@@ -21,4 +21,4 @@ source: [[References/The Black Swan – Taleb (2010)\|The Black Swan – Taleb (
 #foresight 
 
 see also:
-- [[Black Swan events\|Black Swan events]]
+- [[Black Swan events are rare, impactful, and retrospectively predictable\|Black Swan events are rare, impactful, and retrospectively predictable]]
