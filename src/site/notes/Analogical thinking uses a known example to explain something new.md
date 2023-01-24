@@ -12,7 +12,7 @@ Analogical thinking can be in problem-solving, decision-making, and creativity. 
 
 Epstein notes that it can be employed to help solve wicked problems:
 
-> Deep ==**analogical thinking** is the practice of recognizing conceptual similarities in multiple domains== or scenarios that may seem to have little in common on the surface. ==It is a **powerful tool for solving [[Staging/Wicked Problems\|Wicked Problems]]**==
+> Deep ==**analogical thinking** is the practice of recognizing conceptual similarities in multiple domains== or scenarios that may seem to have little in common on the surface. ==It is a **powerful tool for solving [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]**==
 
 source: [[References/Range – Epstein (2019)\|Range – Epstein (2019)]], ch. 5.
 
@@ -20,4 +20,4 @@ source: [[References/Range – Epstein (2019)\|Range – Epstein (2019)]], ch. 5
 #cognition #strategic 
 
 see also:
-- [[Staging/Wicked Problems\|Wicked Problems]]
+- [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]
