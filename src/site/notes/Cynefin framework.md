@@ -44,7 +44,7 @@ In a chaotic context, searching for right answers would be pointless: The ==rela
 see also:
 - [[Complex Systems\|Complex Systems]]
 - [[Scale magnifies complexity\|Scale magnifies complexity]]
-- [[Staging/Wicked Problems\|Wicked Problems]]
+- [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]
 - [[Strategic forecasting guides decision-making and catalyzes innovation\|Strategic forecasting guides decision-making and catalyzes innovation]]
 
 
