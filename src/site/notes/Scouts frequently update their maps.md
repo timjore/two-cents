@@ -27,7 +27,9 @@ The solution to both is to acknowledge the value of the first maps in light of i
 
 Updating maps requires actively seeking out information that could indicate the map is inaccurate:
 
-> **Seek out information that goes against your views.** You can fight confirmation bias, burst filter bubbles, and escape echo chambers by actively engaging with ideas that challenge your assumptions. An easy place to start is to follow people who make you think—even if you usually disagree with what they think.^[[[Think Again – Grant (2021)\|[Think Again – Grant (2021)]]]
+> **Seek out information that goes against your views.** You can fight confirmation bias, burst filter bubbles, and escape echo chambers by actively engaging with ideas that challenge your assumptions. An easy place to start is to follow people who make you think—even if you usually disagree with what they think.
+
+source: [[[Think Again – Grant (2021)\|[Think Again – Grant (2021)]]]
 
 Updating a map is not the same as admitting error.
 
@@ -39,7 +41,9 @@ Updating a map is not the same as admitting error.
 >…
 > Even the language scouts use to describe being wrong reflects this attitude. ==Instead of “admitting a mistake,” **scouts will sometimes talk about “updating.”**== That’s a reference to Bayesian
 >…
-> You don’t necessarily need to speak this way. ==But if you at least **start to think in terms of “updating”** instead of “admitting you were wrong,” you may find that it takes a lot of friction out of the process.== An update is routine. Low-key. It’s the opposite of an overwrought confession of sin. An update makes something better or more current without implying that its previous form was a failure.^[[[The Scout Mindset – Galef (2021)\|[The Scout Mindset – Galef (2021)]] § “‘Admitting a Mistake’ vs. ‘Updating’”]
+> You don’t necessarily need to speak this way. ==But if you at least **start to think in terms of “updating”** instead of “admitting you were wrong,” you may find that it takes a lot of friction out of the process.== An update is routine. Low-key. It’s the opposite of an overwrought confession of sin. An update makes something better or more current without implying that its previous form was a failure.
+
+source: [[References/The Scout Mindset – Galef (2021)\|The Scout Mindset – Galef (2021)]] § “‘Admitting a Mistake’ vs. ‘Updating’”
 
 ---
 #strategic #strategic-cartography 
