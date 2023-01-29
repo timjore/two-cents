@@ -46,8 +46,9 @@ Updating a map is not the same as admitting error.
 source: [[References/The Scout Mindset – Galef (2021)\|The Scout Mindset – Galef (2021)]] § “‘Admitting a Mistake’ vs. ‘Updating’”
 
 ---
-#strategic #strategic-cartography 
+#strategic #strategic-cartography #cognition 
 
 See also:
 - [[The tools that we use both illuminate and limit our understanding\|The tools that we use both illuminate and limit our understanding]]
-- [[Staging/The Map is Not the Territory\|The Map is Not the Territory]]
+- [[The map is not the territory\|The map is not the territory]]
+- [[The clarity of a map is easily confused with its accuracy\|The clarity of a map is easily confused with its accuracy]]
