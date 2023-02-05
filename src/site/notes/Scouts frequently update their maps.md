@@ -4,7 +4,7 @@
 
 # Scouts frequently update their maps
 
-Scouts (those who are motivated to see things as they are, not as they wish they were) actively look for ways to update their mental maps with better information. This is a 
+Scouts (those who are motivated to see things as they are, not as they wish they were) actively look for ways to update their mental maps with better information. This enables them to learn faster, tending to make them more innovative and more able (over time) to understand things as they are.
 
 ---
 
