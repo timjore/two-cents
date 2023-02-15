@@ -16,4 +16,3 @@ see also:
 - [[Perception is Reality\|Perception is Reality]]
 - [[It is impossible to make someone understand what their salary depends on them not understanding\|It is impossible to make someone understand what their salary depends on them not understanding]]
 
-%% source:: quote by Hirsch in [[B- The Starfish and the Spirit\|B- The Starfish and the Spirit]]
