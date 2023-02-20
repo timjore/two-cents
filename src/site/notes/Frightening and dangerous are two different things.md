@@ -19,4 +19,3 @@ see also:
 
 [^1]: [[References/Factfulness – Rosling, et al. (2018)\|Factfulness – Rosling, et al. (2018)]], p. 122.
 
-%% [[B- Factfulness\|B- Factfulness]]
