@@ -8,7 +8,7 @@ Incompetence not only causes people to overestimate their competence, but preven
 
 ---
 
-Kruger and Dunning observed:
+In a 1999 study, Kruger and Dunning observed:
 
 > The authors suggest that this overestimation occurs, in part, because people who are unskilled in these domains suffer a dual burden: Not only do these people reach erroneous conclusions and make unfortunate choices, but ==their incompetence robs them of the metacognitive ability to realize it==.[^1]
 
