@@ -28,4 +28,4 @@ From [[References/Thinking, Fast and Slow – Kahneman (2013)\|Thinking, Fast an
 #cognition #bias 
 
 See also:
-- [[Staging/Availability Heuristic\|Availability Heuristic]]
+- [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]
