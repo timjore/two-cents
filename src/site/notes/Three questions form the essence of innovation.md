@@ -18,8 +18,8 @@ In *[[References/A More Beautiful Question – Berger (2014)\|A More Beautiful Q
 #innovation-creativity 
 
 See also:
-- [[The Adjacent Possible is the edge of the future\|The Adjacent Possible is the edge of the future]]
+- [[Adjacent Possible is the edge of the future\|Adjacent Possible is the edge of the future]]
 
-[^1]: [[References/A More Beautiful Question – Berger (2014)\|A More Beautiful Question – Berger (2014)]], § “Why do we have to wait for the picture?” Note that, as Sebastian Thrun observes, questions beget more innovation which, in turn generates new questions because it pushes outward the boundary of the [[The Adjacent Possible is the edge of the future\|Adjacent Possible]]:
+[^1]: [[References/A More Beautiful Question – Berger (2014)\|A More Beautiful Question – Berger (2014)]], § “Why do we have to wait for the picture?” Note that, as Sebastian Thrun observes, questions beget more innovation which, in turn generates new questions because it pushes outward the boundary of the [[Adjacent Possible is the edge of the future\|Adjacent Possible]]:
 	
 	> The changes are fueled by the questions being asked—but those changes, in turn, fuel more questions. That’s because with each new advance... one must pause to ask, “Now that we know what we now know, what’s possible now?“ (§ “What business are we in now—and is there still a job for me?”)
