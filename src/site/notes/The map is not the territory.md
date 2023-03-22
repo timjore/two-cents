@@ -25,12 +25,12 @@ Map limitations may include:^[Borrowed from: https://fs.blog/2015/11/map-and-ter
 
 Kahneman observes:
 
-> ==The world in our heads is not a precise replica of reality==; our expectations about the frequency of events are distorted by the prevalence and emotional intensity of the messages to which we are exposed. (see [[Staging/Availability Heuristic\|Availability Heuristic]])
+> ==The world in our heads is not a precise replica of reality==; our expectations about the frequency of events are distorted by the prevalence and emotional intensity of the messages to which we are exposed. (see [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]])
 
 ---
 #cognition #metacognition #strategic #strategic-cartography 
 
 See also:
-- [[Staging/Availability Heuristic\|Availability Heuristic]]
+- [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]
 - [[Scouts frequently update their maps\|Scouts frequently update their maps]]
 - [[The clarity of a map is easily confused with its accuracy\|The clarity of a map is easily confused with its accuracy]]
