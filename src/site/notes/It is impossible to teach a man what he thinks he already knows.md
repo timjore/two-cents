@@ -14,5 +14,5 @@ The pursuit of knowledge depends on recognized lack thereof. If someone believes
 
 see also:
 - [[Perception is Reality\|Perception is Reality]]
-- [[It is impossible to make someone understand what their salary depends on them not understanding\|It is impossible to make someone understand what their salary depends on them not understanding]]
+- [[It is difficult to make someone understand what their salary depends on them not understanding\|It is difficult to make someone understand what their salary depends on them not understanding]]
 
