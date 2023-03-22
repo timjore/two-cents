@@ -9,7 +9,7 @@ One’s **subjective perception of objective reality** is what determines action
 
 ---
 
-This has implications for many things, including [[Scenario Planning\|Scenario Planning]]:
+This has implications for many things, including [[Scenario Planning envisions the future\|Scenario Planning envisions the future]]:
 
 > Scenarios deal with two worlds; the world of facts and the world of perceptions. ==They **explore for facts** but they **aim at perceptions** inside the heads of decision- makers.== Their purpose is to gather and transform information of strategic significance into fresh perceptions. —Pierre Wack[^1]
 
