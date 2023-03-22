@@ -19,5 +19,5 @@ source: [[References/The Black Swan – Taleb (2010)\|The Black Swan – Taleb (
 #strategic #foresight
 
 see also:
-- [[Antifragile Systems\|Antifragile Systems]]
+- [[Antifragile Systems become stronger with shocks\|Antifragile Systems become stronger with shocks]]
 - [[Turkey Problem\|Turkey Problem]]
