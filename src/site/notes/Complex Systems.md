@@ -25,7 +25,7 @@ A complex system has the following characteristics:[^1]
 #complex-systems #systems-thinking 
 
 see also:
-- [[Scenario Planning\|Scenario Planning]]
+- [[Scenario Planning envisions the future\|Scenario Planning envisions the future]]
 - [[Complex Networks\|Complex Networks]]
 
 [^1]: Snowden, David J., and Mary E. Boone. “A Leader’s Framework for Decision Making.” _Harvard Business Review_, November 1, 2007. [https://hbr.org/2007/11/a-leaders-framework-for-decision-making](https://hbr.org/2007/11/a-leaders-framework-for-decision-making).
