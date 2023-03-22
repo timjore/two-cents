@@ -18,6 +18,6 @@ source: [[References/The Scout Mindset – Galef (2021)\|The Scout Mindset – G
 See also:
 - [[Scouts frequently update their maps\|Scouts frequently update their maps]]
 - [[Metaphors form the basis of our ability to think\|Metaphors form the basis of our ability to think]]
-- [[Staging/Confirmation Bias\|Confirmation Bias]]
+- [[Confirmation Bias is motivated reasoning to defend one's assumptions\|Confirmation Bias is motivated reasoning to defend one's assumptions]]
 
 [^1]: Described in [[References/Metaphors We Live By –  Lakoff and Johnson (2008)\|Metaphors We Live By –  Lakoff and Johnson (2008)]].
