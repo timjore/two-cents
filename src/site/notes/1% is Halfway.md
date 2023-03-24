@@ -17,7 +17,7 @@ In an exponential progression (doubling every generation), the halfway point is 
 source: [[References/Exponential Organizations – Ismail, et al. (2014)\|Exponential Organizations – Ismail, et al. (2014)]], ch. 1.
 
 Here’s the math:
-| generation | % |
+| generation | % complete |
 | ------ | -------- |
 | **0**  | 0.007%   |
 | **1**  | 0.013%   |
