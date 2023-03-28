@@ -19,4 +19,4 @@ source: [[References/Thinking, Fast and Slow – Kahneman (2013)\|Thinking, Fast
 #cognition #bias 
 
 see also:
-- [[The clarity of a map is easily confused with its accuracy\|The clarity of a map is easily confused with its accuracy]]
+- [[The clarity of a map is not easily distinguished from its accuracy\|The clarity of a map is not easily distinguished from its accuracy]]
