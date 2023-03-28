@@ -15,3 +15,6 @@ source: [[References/Thinking, Fast and Slow – Kahneman (2013)\|Thinking, Fast
 
 ---
 #psychology #cognition 
+
+See also:
+- [[The clarity of a map is not easily distinguished from its accuracy\|The clarity of a map is not easily distinguished from its accuracy]]
