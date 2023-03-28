@@ -33,4 +33,4 @@ Kahneman observes:
 See also:
 - [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]
 - [[Scouts frequently update their maps\|Scouts frequently update their maps]]
-- [[The clarity of a map is easily confused with its accuracy\|The clarity of a map is easily confused with its accuracy]]
+- [[The clarity of a map is not easily distinguished from its accuracy\|The clarity of a map is not easily distinguished from its accuracy]]
