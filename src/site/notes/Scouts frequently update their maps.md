@@ -51,4 +51,4 @@ source: [[References/The Scout Mindset – Galef (2021)\|The Scout Mindset – G
 See also:
 - [[The tools that we use both illuminate and limit our understanding\|The tools that we use both illuminate and limit our understanding]]
 - [[The map is not the territory\|The map is not the territory]]
-- [[The clarity of a map is easily confused with its accuracy\|The clarity of a map is easily confused with its accuracy]]
+- [[The clarity of a map is not easily distinguished from its accuracy\|The clarity of a map is not easily distinguished from its accuracy]]
