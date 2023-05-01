@@ -15,4 +15,4 @@ By contrast, a map that is muddled, imprecise, and unattractive may be perceived
 see also:  
 - [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]
 - [[Perception is Reality\|Perception is Reality]]
-- [[Substitution\|Substitution]]
+- [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]
