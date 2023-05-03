@@ -38,7 +38,7 @@ Meaning: as long those in the paradigm only attempt to answer their questions an
 #paradigms #metacognition 
 
 see also:
-- [[Staging/Paradigm Shifts reconstruct the field from new fundamentals\|Paradigm Shifts reconstruct the field from new fundamentals]]
+- [[Paradigm Shifts reconstruct the field from new fundamentals\|Paradigm Shifts reconstruct the field from new fundamentals]]
 - [[Scouts frequently update their maps\|Scouts frequently update their maps]]
 
 [^1]: Recounted in [[References/Taking the Medicine – Burch (2009)\|Taking the Medicine – Burch (2009)]], ch. 3 “Self-confidence and Quinine.” 
