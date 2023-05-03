@@ -14,11 +14,11 @@ One of the reasons that Galen, the second century physician to Roman emperors, w
 
 > All who drink of this treatment recover in a short time, except those whom it does not help, who all die. It is obvious, therefore, that it fails only in incurable cases.
 
-The obvious [[Confirmation Bias is motivated reasoning to defend one's assumptions\|confirmation bias]] in Galen’s statement is typical of the high priests of paradigms who enthusiastically perform the rituals and ordinances of the paradigm without ever questioning their own assumptions about its efficacy. This self-assuredness tends toward blindness as to the deficiencies of the paradigm while increasing the sense of importance of those who lead it. Galen said of himself: 
+The obvious [[Confirmation Bias is motivated reasoning to defend one's assumptions\|confirmation bias]] in Galen’s statement is typical of the priests of paradigms who enthusiastically perform the rituals and ordinances of the paradigm without ever questioning their own assumptions about its efficacy. This self-assuredness tends toward blindness as to the deficiencies of the paradigm while increasing the sense of importance of those who lead it. Galen said of himself: 
 
 > It is I, and I alone, who have revealed the true path of medicine.
 
-And what was this “true path” of medicine? One of Galen’s most enduring errors was the belief that fevers are caused by an excess of blood—an assumption devoid of even the slightest connection to reality. The treatment was self-evident: remove the excess blood of the afflicted. A patient with a fever should be bled twice a day, the second time to the point where they fainted. (Galen’s belief in blood-letting was extreme—He even recommended it as a cure for blood loss.)[^1]
+And what was this “true path” of medicine? One of Galen’s most enduring errors was the belief that fevers are caused by an excess of blood—an assumption devoid of even the slightest connection to reality. The treatment was self-evident: remove the excess blood of the afflicted. “A patient with a fever should be bled twice a day, the second time to the point where they fainted. (Galen’s belief in blood-letting was extreme—He even recommended it as a cure for blood loss.)“[^1]
 
 What is astonishing about the paradigm of blood-letting as a cure for sickness is not only how utterly wrong it is, but for how long it persisted. Sir William Osler, a founding professor at Johns Hopkins University and later the Regius Professor of Medicine at Oxford, on pneumonia:
 
