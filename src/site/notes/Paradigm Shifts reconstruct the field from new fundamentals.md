@@ -1,0 +1,39 @@
+---
+{"dg-publish":true,"permalink":"/paradigm-shifts-reconstruct-the-field-from-new-fundamentals/"}
+---
+
+# Paradigm Shifts reconstruct the field from new fundamentals
+
+In *[[References/The Structure of Scientific Revolutions – Kuhn (1962)\|The Structure of Scientific Revolutions]]*, Thomas Kuhn, a philosopher of science, argues that scientific progress does not simply involve the accumulation of new knowledge but rather is characterized by periods of normal science, in which a scientific community operates within a dominant paradigm, and occasional periods of revolutionary science, in which the dominant paradigm is replaced by a new one. **A paradigm shift occurs ==when the dominant paradigm no longer adequately explains or solves the problems that it was designed to address==.** At this point, anomalies and inconsistencies within the existing paradigm become more noticeable, and some may begin to explore alternative approaches and theories.
+
+### Unresolvable Anomalies
+
+For many centuries, the dominant paradigm of the cosmos posited that the Earth was at the center of the universe and the planets, including the Sun, moved around it. This model was widely accepted in ancient Greece and later adopted by medieval scholars and the Catholic Church. In the 16th century, the Polish astronomer Nicolaus Copernicus challenged the geocentric model with his heliocentric model, which proposed that the Sun was at the center of the solar system, and the Earth and other planets revolved around it.[^1] Despite initial resistance, Copernicus's model gained acceptance over time, thanks to the work of Galileo Galilei and Johannes Kepler, who provided further evidence to support the heliocentric model.[^2] 
+
+One of the key factors that contributed to the paradigm shift from a geocentric to a heliocentric model of the solar system was the observation of the anomalous orbit of the planet Mars. In the geocentric model, planets were thought to move in circular orbits around the Earth, with uniform motion at a constant speed. However, as astronomers (especially Kepler) began to make more precise observations of the planets’ positions, they noticed that the planet Mars appeared to move backward in its orbit (a phenomenon known as retrograde motion) for a short period of time before resuming its forward motion.
+
+This behavior was difficult to explain within the geocentric model, as it required complex and ad-hoc modifications to the circular orbits of the planets. However, in the heliocentric model proposed by Copernicus, the retrograde motion of Mars could be easily explained as a result of the relative positions of Earth and Mars as they moved around the Sun. The apparent backward motion was due to Earth overtaking Mars in its orbit, causing it to appear to move backward before resuming its forward motion.
+
+The observation of the anomalous orbit of Mars was a significant challenge to the geocentric model and provided support for the heliocentric model, which was able to explain the retrograde motion of Mars and other planets with relative simplicity. This observation, along with other evidence, helped to shift the scientific consensus away from the geocentric model and towards the heliocentric model, which eventually revolutionized astronomy and challenged long-held beliefs about the nature of the universe, paving the way for the scientific revolution and the emergence of modern science.
+
+### Reconstruction of the Field
+
+As a new paradigm emerges, there is a fundamental shift in the way people understand and approach the field. Kuhn notes:
+
+> The transition from a paradigm in crisis to a new one from which a new tradition of normal science can emerge is far from a cumulative process, one achieved by… _extension_ of the old paradigm. Rather ==it is a **reconstruction of the field** from new fundamentals==, a reconstruction that changes some of the field’s most elementary theoretical generalizations as well as many of its paradigm methods and applications…[^3]
+
+This reconstruction includes new assumptions, concepts, methods, and practices. The new paradigm provides a new lens through which scientists can view the subject and generates new research questions, approaches, and discoveries. During the transition period between the two paradigms, Kuhn observes, “==there will be **a large but never complete overlap** between the problems that can be solved by the old and by the new paradigm==. But there will also be ==a decisive difference in the modes of solution==. When the transition is complete, the profession will have **changed its view** of the field, its methods, and its goals.”
+
+The reconstruction of the field from new fundamentals can be a messy and contentious process, as scientists with different perspectives and interests vie for dominance in the new paradigm. However, Kuhn argues that paradigm shifts are essential for scientific progress, as they enable scientists to see their subject in a new light, explore new questions, and make new discoveries that were not possible within the old paradigm.
+
+-----
+#cognition #paradigms 
+
+See also:
+- [[Staging/First Principles thinking allows you to see the obvious hiding in plain sight\|First Principles thinking allows you to see the obvious hiding in plain sight]] 
+- [[Paradigms can have phenomenal longevity\|Paradigms can have phenomenal longevity]]
+- [[Staging/Old theological paradigms live on\|Old theological paradigms live on]]
+
+[^1]: As is often the case, the person historically associated with the paradigm shift was not the first one to note the anomalies of contemporary models and propose a new one. Bahcall notes, “The heliocentric idea first appeared in the fourth century BC, then periodically resurfaced, and was quashed, sometimes brutally, for nearly two thousand years. In the sixth century, the Indian astronomer Aryabhata suggested that the earth rotates about its axis every 24 hours, explaining the daily rotation of the stars and the sun in the sky. Hints of theories incorporating the motion of the earth appeared in both Christian Europe and outposts of the Islamic empire in the fourteenth and fifteenth centuries.” ([[References/Loonshots – Bahcall (2019)\|Loonshots – Bahcall (2019)]], ch. 9 § “Eight Minutes That Changed the World.”)
+[^2]: “In 1589, the most prominent Italian astronomer, Giovanni Magini, wrote of Copernicus’s ideas: ‘His hypotheses are rejected by practically everybody as being absurd.‘ One historian identified only five scholars across all Europe around that time, five decades after Copernicus’s death, who believed in his sun-centered world. One of those five was a teacher at the University of Tübingen in Germany named Michael Maestlin, whose lectures on planetary motion impressed a 17- year-old student named Johannes Kepler.“ ([[References/Loonshots – Bahcall (2019)\|Ibid.]])
+[^3]: [[References/The Structure of Scientific Revolutions – Kuhn (1962)\|The Structure of Scientific Revolutions – Kuhn (1962)]]
