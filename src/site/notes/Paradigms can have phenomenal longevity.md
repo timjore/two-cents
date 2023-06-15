@@ -41,7 +41,7 @@ see also:
 - [[Paradigm Shifts reconstruct the field from new fundamentals\|Paradigm Shifts reconstruct the field from new fundamentals]]
 - [[Scouts frequently update their maps\|Scouts frequently update their maps]]
 
-[^1]: Recounted in [[References/Taking the Medicine – Burch (2009)\|Taking the Medicine – Burch (2009)]], ch. 3 “Self-confidence and Quinine.” 
+[^1]: Recounted in [[References/Taking the Medicine – Burch (2009)\|Taking the Medicine – Burch (2009)]], ch. 3 “Self-confidence and Quinine.” Sentence order modified from the original.
 [^2]: Ibid.
 [^3]: Recounted in [[References/Superforecasting – Tetlock, Gardner (2015)\|Superforecasting – Tetlock, Gardner (2015)]], ch. 2 “Illusions of Knowledge” § “Blind Men Arguing.”
 [^4]: Ibid.
