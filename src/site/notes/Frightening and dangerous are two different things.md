@@ -12,10 +12,10 @@ Rosling explains:
 
 
 ---
-#cognition 
+#cognition #strategic 
 
 see also:
 - [[Perception is Reality\|Perception is Reality]]
+- [[Fear Instinct hinders thinking by confusing risk with fear\|Fear Instinct hinders thinking by confusing risk with fear]]
 
-[^1]: [[References/Factfulness – Rosling, et al. (2018)\|Factfulness – Rosling, et al. (2018)]], p. 122.
-
+[^1]: [[References/Factfulness – Rosling, et al. (2018)\|Factfulness – Rosling, et al. (2018)]], ch. 4, § “Fear vs. Danger: Being Afraid of the Right Things” (p. 122).
