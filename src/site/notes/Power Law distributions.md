@@ -29,3 +29,5 @@ from [[References/Linked – Barabási, Frangos (2002)\|Linked – Barabási, Fr
 see also: 
 - [[Complex Networks\|Complex Networks]] 
 - [[Complex Systems\|Complex Systems]]
+- [[1% is Halfway\|1% is Halfway]]
+- [[Pareto Principle leverages effort for maximum impact\|Pareto Principle leverages effort for maximum impact]]
