@@ -11,4 +11,4 @@ The halo effect is a cognitive bias where ==**one’s overall impression of a pe
 
 see also:
 - [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]
-- [[Staging/Generalization Instinct\|Generalization Instinct]]
+- [[Staging/Generalization Instinct hinders thinking by using misleading categories\|Generalization Instinct hinders thinking by using misleading categories]]
