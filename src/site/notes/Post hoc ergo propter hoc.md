@@ -15,4 +15,4 @@ A simple example is “the rooster crows immediately before sunrise; therefore t
 #fallacy #cognition 
 
 see also:
-- [[Straight Line Instinct predisposes us to assume trends will continue\|Straight Line Instinct predisposes us to assume trends will continue]]
+- [[Straight Line Instinct hinders thinking by assuming trends will continue\|Straight Line Instinct hinders thinking by assuming trends will continue]]
