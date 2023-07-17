@@ -45,4 +45,4 @@ Here’s the math:
 see also:
 - [[Complex Systems\|Complex Systems]]
 - [[Power Law distributions\|Power Law distributions]]
-- [[Straight Line Instinct predisposes us to assume trends will continue\|Straight Line Instinct predisposes us to assume trends will continue]]
+- [[Straight Line Instinct hinders thinking by assuming trends will continue\|Straight Line Instinct hinders thinking by assuming trends will continue]]
