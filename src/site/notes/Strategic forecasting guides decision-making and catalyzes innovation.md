@@ -20,7 +20,7 @@ The goal is to ==identify potential threats and opportunities==, and to provide 
 #strategic #foresight 
 
 see also:
-- [[Straight Line Instinct predisposes us to assume trends will continue\|Straight Line Instinct predisposes us to assume trends will continue]]
+- [[Straight Line Instinct hinders thinking by assuming trends will continue\|Straight Line Instinct hinders thinking by assuming trends will continue]]
 - [[Black Swan events are rare, impactful, and retrospectively predictable\|Black Swan events are rare, impactful, and retrospectively predictable]]
 - [[Staging/Innovation often occurs in the gaps between major domains\|Innovation often occurs in the gaps between major domains]]
 - [[Staging/Generalists are better positioned for the future than specialists\|Generalists are better positioned for the future than specialists]]
