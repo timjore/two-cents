@@ -90,5 +90,5 @@ See also:
 
 [^1]: See: [[References/Factfulness – Rosling, et al. (2018)\|Factfulness – Rosling, et al. (2018)]], [[References/Thinking, Fast and Slow – Kahneman (2013)\|Thinking, Fast and Slow – Kahneman (2013)]]
 [^2]: See: [[Staging/Growth mindset sees failure as learning\|Growth mindset sees failure as learning]]
-[^3]: See: [[Staging/Grit is what leads to mastery\|Grit is what leads to mastery]]
+[^3]: See: [[Staging/Grit leads to mastery\|Grit leads to mastery]]
 [^4]: From [[References/Superforecasting – Tetlock, Gardner (2015)\|Superforecasting – Tetlock, Gardner (2015)]]
