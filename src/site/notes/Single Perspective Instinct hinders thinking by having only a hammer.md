@@ -36,7 +36,7 @@ Others in this series:
 3. [[Straight Line Instinct hinders thinking by assuming trends will continue\|Straight Line Instinct hinders thinking by assuming trends will continue]]
 4. [[Fear Instinct hinders thinking by confusing risk with fear\|Fear Instinct hinders thinking by confusing risk with fear]]
 5. [[Size Instinct hinders thinking by considering a number without context\|Size Instinct hinders thinking by considering a number without context]]
-6. [[Staging/Generalization Instinct hinders thinking by using misleading categories\|Generalization Instinct hinders thinking by using misleading categories]]
+6. [[Generalization Instinct hinders thinking by using misleading categories\|Generalization Instinct hinders thinking by using misleading categories]]
 7. [[Destiny Instinct hinders thinking by forgetting that small changes add up\|Destiny Instinct hinders thinking by forgetting that small changes add up]]
 8. Single Perspective Instinct hinders thinking by having only a hammer
 9. [[Blame Instinct hinders thinking by pointing fingers\|Blame Instinct hinders thinking by pointing fingers]]
