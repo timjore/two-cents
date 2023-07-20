@@ -9,9 +9,13 @@ In order to perpetuate its institutional existence, an organization formed to so
 
 ---
 
-> …an organization that commits to helping society manage a problem also ==**commits itself to the preservation of that same problem**, as **its institutional existence** hinges on society’s continued need for its management.== 
-
-source: [[References/Cognitive Surplus – Shirky (2010)\|Cognitive Surplus – Shirky (2010)]], p. 35.
+> …an organization that commits to helping society manage a problem also ==**commits itself to the preservation of that same problem**, as **its institutional existence** hinges on society’s continued need for its management.==[^1]
 
 ---
 #institutions #scarcity 
+
+See also:
+- [[Prime directive of institutions is self-preservation\|Prime directive of institutions is self-preservation]]
+- [[It is difficult to make someone understand what their salary depends on them not understanding\|It is difficult to make someone understand what their salary depends on them not understanding]]
+
+[^1]: [[References/Cognitive Surplus – Shirky (2010)\|Cognitive Surplus – Shirky (2010)]], p. 35.
