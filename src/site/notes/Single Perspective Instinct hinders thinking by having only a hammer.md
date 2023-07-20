@@ -28,7 +28,7 @@ To control the single perspective instinct, ==get a toolbox, not a hammer==.
 See also:
 - [[Specialization tends to reduce range\|Specialization tends to reduce range]]
 - [[Lateral thinking is range in action\|Lateral thinking is range in action]]
-- [[Cynefin framework\|Cynefin framework]]
+- [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]
 
 Others in this series:
 1. [[Gap Instinct hinders thinking by ignoring the middle majority\|Gap Instinct hinders thinking by ignoring the middle majority]]
