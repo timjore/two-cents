@@ -13,14 +13,14 @@ To control the blame instinct, ==resist finding a scapegoat==.
 
 - **Look for causes, not villains.** When something goes wrong don’t look for an individual or a group to blame. Accept that *bad things can happen without anyone intending them to*. Instead spend your energy on understanding the multiple interacting causes, or system, that created the situation. (see [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]])
 
-- **Look for systems, not heroes.** When someone claims to have caused something good, ask whether the outcome might have happened anyway, even if that individual had done nothing. Give the system some credit. (see [[Systems Thinking\|Systems Thinking]])
+- **Look for systems, not heroes.** When someone claims to have caused something good, ask whether the outcome might have happened anyway, even if that individual had done nothing. Give the system some credit. (see [[Staging/Systems Thinking\|Systems Thinking]])
 
 ---
 #bias 
 
 See also:
 - [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]
-- [[Systems Thinking\|Systems Thinking]]
+- [[Staging/Systems Thinking\|Systems Thinking]]
 
 Others in this series:
 1. [[Gap Instinct hinders thinking by ignoring the middle majority\|Gap Instinct hinders thinking by ignoring the middle majority]]
