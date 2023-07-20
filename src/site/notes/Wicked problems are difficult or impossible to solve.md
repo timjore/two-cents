@@ -49,7 +49,7 @@ The difference between “wicked” and “hard but ordinary” problems:^[Camil
 #complex-systems #cognition 
 
 See also: 
-- [[Cynefin framework\|Cynefin framework]]: 
+- [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]: 
 	- *Experts can exacerbate the problem when moving from a Complicated to a Complex context*
 	- *Complexity = interdependency = dispositional not predictable*
 - [[Kind vs. Wicked Learning Environments\|Kind vs. Wicked Learning Environments]]
