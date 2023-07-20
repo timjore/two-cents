@@ -17,7 +17,7 @@ See also:
 - [[Staging/Question storms foster innovative thinking\|Question storms foster innovative thinking]]
 - [[Three questions form the essence of innovation\|Three questions form the essence of innovation]]
 - [[The kernel of a good strategy includes three things\|The kernel of a good strategy includes three things]]
-- [[Cynefin framework\|Cynefin framework]]
+- [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]
 
 
 
