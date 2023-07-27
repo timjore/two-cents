@@ -20,4 +20,4 @@ source: [[References/The Black Swan – Taleb (2010)\|The Black Swan – Taleb (
 
 see also:
 - [[Antifragile Systems become stronger with shocks\|Antifragile Systems become stronger with shocks]]
-- [[Turkey Problem\|Turkey Problem]]
+- [[Turkey problem illustrates erroneously predicting the future based on a false narrative of the past\|Turkey problem illustrates erroneously predicting the future based on a false narrative of the past]]
