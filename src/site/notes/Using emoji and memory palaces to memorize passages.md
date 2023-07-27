@@ -12,13 +12,20 @@ For most people, this is challenging task, because the human brain is not partic
 
 
 > 👟 Flee from youthful passions, and 
+> 
 > pursue 💯 righteousness, ⚓️ faith, ❤️ love, and 🕊️ peace, 
+> 
 > along with those who ☎️ call on the Lord from a pure heart. 
+> 
 > But 🙅‍♂️ reject foolish and
+> 
 > ignorant 🤬 disputes, because you know that 
 > they breed 🤬 quarrels. The Lord’s servant must not 🤬 quarrel, but 
+> 
 > must be 🐶 gentle to everyone, able to 🎓 teach, and 💣 patient, 🎓 instructing his opponents with 🐶 gentleness. 
+> 
 > Perhaps God will grant them ↩️ repentance leading them to the 🕯️ knowledge of the truth. 
+> 
 > Then they may 🤔 come to their senses and escape the 🪤 trap of the devil, who has taken them ⛓️ captive to do his will (2 Tim. 2:22-26 CSB).
 
 Then, we could orient the emoji in order around a physical space we know well, such as a dining room table:
