@@ -42,7 +42,7 @@ In a chaotic context, searching for right answers would be pointless: The ==rela
 #strategic #complex-systems 
 
 see also:
-- [[Complex Systems\|Complex Systems]]
+- [[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]]
 - [[Scale magnifies complexity\|Scale magnifies complexity]]
 - [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]
 - [[Strategic forecasting guides decision-making and catalyzes innovation\|Strategic forecasting guides decision-making and catalyzes innovation]]
