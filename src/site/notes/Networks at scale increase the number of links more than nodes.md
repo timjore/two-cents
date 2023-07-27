@@ -19,4 +19,4 @@ For example, this helps explain why a small team has much less complexity and ov
 #networks 
 
 see also:
-- [[Complex Networks\|Complex Networks]]
+- [[Complex networks have unique topological features\|Complex networks have unique topological features]]
