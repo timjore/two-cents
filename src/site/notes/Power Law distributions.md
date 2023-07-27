@@ -5,7 +5,7 @@
 
 # Power Law distributions
 
-A power law distribution is a type of probability distribution that follows a pattern where **a small number of items** (such as events or entities) have **a disproportionately large number of occurrences**, while many items have very few occurrences. This kind of distribution is also known as a “scale-free“ distribution because it does not have a characteristic scale, and it is often found in [[Complex Systems\|Complex Systems]] such as the internet, social networks, and the distribution of wealth.
+A power law distribution is a type of probability distribution that follows a pattern where **a small number of items** (such as events or entities) have **a disproportionately large number of occurrences**, while many items have very few occurrences. This kind of distribution is also known as a “scale-free“ distribution because it does not have a characteristic scale, and it is often found in [[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]] such as the internet, social networks, and the distribution of wealth.
 
 ![Long_tail.png](/img/user/Attachments/Long_tail.png)
 
@@ -21,13 +21,13 @@ from [[References/Linked – Barabási, Frangos (2002)\|Linked – Barabási, Fr
 > …
 > **Power laws formulate in mathematical terms the notion that ==a few large events carry most of the action==**. 
 > …
-> But **power laws are at the heart of some of the most stunning conceptual advances in the second half of the twentieth century**, emerging in fields like chaos, fractals, and phase transitions. Spotting them in networks signaled unsuspected links to other natural phenomena and **placed networks at the forefront of our understanding of [[Complex Systems\|Complex Systems]]** in general. 
+> But **power laws are at the heart of some of the most stunning conceptual advances in the second half of the twentieth century**, emerging in fields like chaos, fractals, and phase transitions. Spotting them in networks signaled unsuspected links to other natural phenomena and **placed networks at the forefront of our understanding of [[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]]** in general. 
 
 ---
 #complex-systems #networks #mathematics 
 
 see also: 
-- [[Complex Networks\|Complex Networks]] 
-- [[Complex Systems\|Complex Systems]]
+- [[Complex networks have unique topological features\|Complex networks have unique topological features]] 
+- [[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]]
 - [[1% is Halfway\|1% is Halfway]]
 - [[Pareto Principle leverages effort for maximum impact\|Pareto Principle leverages effort for maximum impact]]
