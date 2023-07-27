@@ -5,7 +5,7 @@
 
 # Antifragile Systems become stronger with shocks
 
-An antifragile system is ==a system that **becomes stronger and more resilient** in response to stressors, shocks, or disturbances==. The concept of antifragility is the opposite of fragility, where a system becomes weaker or breaks down in response to stressors. Antifragile systems are necessarily ==[[Complex Systems\|complex systems]] that are composed of fragile elements==, whose breaks and failures provide the means of strengthening the system as a whole.
+An antifragile system is ==a system that **becomes stronger and more resilient** in response to stressors, shocks, or disturbances==. The concept of antifragility is the opposite of fragility, where a system becomes weaker or breaks down in response to stressors. Antifragile systems are necessarily ==[[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]] that are composed of fragile elements==, whose breaks and failures provide the means of strengthening the system as a whole.
 
 Examples of antifragility can be found in natural systems such as living organisms, ecological systems, and economies.
 
@@ -21,4 +21,4 @@ source: [[References/Antifragile – Taleb (2012)\|Antifragile – Taleb (2012)]
 #strategic #complex-systems 
 
 see also:
-- [[Complex Systems\|Complex Systems]]
+- [[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]]
