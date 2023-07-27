@@ -14,7 +14,7 @@ When faced with complex challenges, humans tend to rely on experts to create com
 #complex-systems #networks #strategic 
 
 See also:
-- [[Complex Networks\|Complex Networks]]
+- [[Complex networks have unique topological features\|Complex networks have unique topological features]]
 - [[Missional/Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]]
 
 
