@@ -43,6 +43,6 @@ Here’s the math:
 #mathematics #strategic #complex-systems 
 
 see also:
-- [[Complex Systems\|Complex Systems]]
+- [[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]]
 - [[Power Law distributions\|Power Law distributions]]
 - [[Straight Line Instinct hinders thinking by assuming trends will continue\|Straight Line Instinct hinders thinking by assuming trends will continue]]
