@@ -11,7 +11,7 @@
 
 see also:
 - [[Tactical Empathy understands another's feelings and mindset\|Tactical Empathy understands another's feelings and mindset]]
-- [[Missional/Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]]
-- [[Missional/Use of funding for training does not disrupt movements\|Use of funding for training does not disrupt movements]]
+- [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]]
+- [[Use of funding for training does not disrupt movements\|Use of funding for training does not disrupt movements]]
 
 [^1]: [[References/When Helping Hurts – Corbett and Fikkert (2012)\|When Helping Hurts – Corbett and Fikkert (2012)]]
