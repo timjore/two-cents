@@ -28,7 +28,7 @@ For most people, this is challenging task, because the human brain is not partic
 > 
 > Then they may 🤔 come to their senses and escape the 🪤 trap of the devil, who has taken them ⛓️ captive to do his will (2 Tim. 2:22-26 CSB).
 
-Then, we could orient the emoji in order around a physical space we know well, such as a dining room table:
+Then, we could orient the emoji in order around a well-known physical space, such as a dining room table:
 
 ![table-memory-palace.jpg](/img/user/Attachments/table-memory-palace.jpg)
 
