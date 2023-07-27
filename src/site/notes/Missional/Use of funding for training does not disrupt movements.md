@@ -12,6 +12,6 @@ Well-intended but misguided use of funds to advance discipleship movements can s
 #movements #strategic #missiology
 
 see also:
-- [[Complex Networks\|Complex Networks]]
+- [[Complex networks have unique topological features\|Complex networks have unique topological features]]
 
 [^1]: [[References/Movements That Move – Reach (2016)\|Movements That Move – Reach (2016)]], ch. 3, § “Don’t Pay Leaders of Simple Churches!”
