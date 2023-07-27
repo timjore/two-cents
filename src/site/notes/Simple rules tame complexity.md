@@ -15,7 +15,7 @@ When faced with complex challenges, humans tend to rely on experts to create com
 
 See also:
 - [[Complex networks have unique topological features\|Complex networks have unique topological features]]
-- [[Missional/Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]]
+- [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]]
 
 
 [^1]: See: [[References/Simple Rules for a Complex World – Sull and Eisenhardt (2012)\|Simple Rules for a Complex World – Sull and Eisenhardt (2012)]] and [“Simple Rules for a Complex World”](https://hbr.org/2012/09/simple-rules-for-a-complex-world)
