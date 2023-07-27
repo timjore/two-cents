@@ -13,3 +13,8 @@ Sources:
 
 ---
 #strategic 
+
+See also:
+- [[Premortem works backward from an undesirable outcome in order to prevent it\|Premortem works backward from an undesirable outcome in order to prevent it]]
+- [[Backcasting works backward from a desired outcome\|Backcasting works backward from a desired outcome]]
+- [[Strategic forecasting guides decision-making and catalyzes innovation\|Strategic forecasting guides decision-making and catalyzes innovation]]
