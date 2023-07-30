@@ -4,7 +4,7 @@
 
 # Causal Loop Diagrams model system dynamics
 
-A "Causal Loop Diagram" (CLD) is a tool used in [[Staging/Systems Thinking\|Systems Thinking]] to visually represent and analyze the interactions and feedback loops among different variables within a system. It helps in understanding the complex web of cause and effect relationships that influence behavior in a system over time.
+A "Causal Loop Diagram" (CLD) is a tool used in [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]] to visually represent and analyze the interactions and feedback loops among different variables within a system. It helps in understanding the complex web of cause and effect relationships that influence behavior in a system over time.
 
 ![Causal Loop Diagrams.png](/img/user/Attachments/Causal%20Loop%20Diagrams.png)
 
