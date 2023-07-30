@@ -15,4 +15,4 @@ When someone’s livelihood is provided for by a given system, they will be stro
 
 see also:
 - [[It is impossible to teach a man what he thinks he already knows\|It is impossible to teach a man what he thinks he already knows]]
-- [[Staging/Systems Thinking\|Systems thinking]]
+- [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]]
