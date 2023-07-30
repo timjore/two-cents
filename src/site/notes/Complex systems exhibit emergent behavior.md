@@ -15,7 +15,7 @@ A complex system has the following characteristics:[^1]
 
  1. It involves **==large numbers== of interacting elements**. 
  2. **The interactions are ==nonlinear==**, and minor changes can produce disproportionately major consequences. 
- 3. **The system is ==dynamic==**, **the ==whole is greater than the sum of its parts==**, and **solutions can’t be imposed; rather, ==solutions arise from the circumstances==**. This is frequently referred to as [[Emergence\|Emergence]].
+ 3. **The system is ==dynamic==**, **the ==whole is greater than the sum of its parts==**, and **solutions can’t be imposed; rather, ==solutions arise from the circumstances==**. This is frequently referred to as [[Staging/Emergence\|Emergence]].
  4. **The system has a history, and ==the past is integrated with the present==**; the elements evolve with one another and with the environment; and evolution is irreversible.
  5. Though a complex system may, in retrospect, appear to be ordered and predictable, **==hindsight does not lead to foresight== because the external conditions and systems constantly change.**
  6. Unlike in ordered systems (where the system constrains the agents), or chaotic systems (where there are no constraints), in a complex system **the agents and the system constrain one another, especially over time. This means that ==we cannot forecast or predict what will happen==.** 
