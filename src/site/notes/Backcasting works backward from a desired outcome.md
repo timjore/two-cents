@@ -10,7 +10,7 @@ In contrast to [[Forecasting calculates the future from known data\|forecasting]
 
 Though both techniques postulate a future state as a frame for strategic planning, Backcasting is the opposite of a [[Premortem works backward from an undesirable outcome in order to prevent it\|Premortem]]:
 
-> Think of premortems as the opposite of backcasting, which we explored in the chapter on moonshot thinking. ==Backcasting works backward from a desired outcome. A premortem works backward from an undesired outcome.== It forces you to think about what could go wrong before you act.[^1]
+> Think of premortems as the opposite of backcasting... ==Backcasting works backward from a desired outcome. A premortem works backward from an undesired outcome.== It forces you to think about what could go wrong before you act.[^1]
 
 ---
 #strategic 
