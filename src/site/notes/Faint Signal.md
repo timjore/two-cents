@@ -5,12 +5,15 @@
 
 
 
-![FaintSignal.png|500](/img/user/Attachments/FaintSignal.png)
+![FaintSignal.png|300](/img/user/Attachments/FaintSignal.png)
 
 # Faint Signal
 
-An active cultivation of thoughts and ideas across a broad range of topics.
+An active cultivation of thoughts and ideas across a broad range of topics. Start with one of these:
 
+- [[Faint signals are whispers from the future\|Faint signals are whispers from the future]]
+- [[Lateral thinking is range in action\|Lateral thinking is range in action]]
+- [[Premortem works backward from an undesirable outcome in order to prevent it\|Premortem works backward from an undesirable outcome in order to prevent it]]
 
 ## About
 
