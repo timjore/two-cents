@@ -18,7 +18,7 @@ As Guillén observes:
 ---
 #innovation #cognition 
 
-see also:
+See also:
 - [[Lateral thinking with withered technology\|Lateral thinking with withered technology]]
 - [[Specialization tends to reduce range\|Specialization tends to reduce range]]
 - [[Superforecasting is the intersection of range and mindset\|Superforecasting is the intersection of range and mindset]]
