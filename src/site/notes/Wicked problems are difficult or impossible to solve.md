@@ -13,6 +13,8 @@ Solving a wicked problem requires a systemic approach that takes into account th
 
 The term "wicked problem" was first coined by Horst Rittel and Melvin Webber in the 1970s to describe the challenges of urban planning. They argued that traditional problem-solving methods were not effective in addressing these types of problems because they involve multiple perspectives, are constantly evolving, and are difficult to fully understand. Examples of wicked problems include issues such as poverty, climate change, and healthcare. 
 
+> ==The kinds of problems that planners deal with-societal problems-are inherently different from the problems that scientists and perhaps some classes of engineers deal with. **Planning problems are inherently wicked**.==[^1]
+
 ---
 
 A wicked problem is a “social or cultural problem that is difficult or impossible to solve for as many as four reasons: 
@@ -53,3 +55,5 @@ See also:
 	- *Experts can exacerbate the problem when moving from a Complicated to a Complex context*
 	- *Complexity = interdependency = dispositional not predictable*
 - [[Kind vs. Wicked Learning Environments\|Kind vs. Wicked Learning Environments]]
+
+[^1]: Rittel, Horst W. J., and Melvin M. Webber. “Dilemmas in a General Theory of Planning.” _Policy Sciences_ 4, no. 2 (1973): 160.
