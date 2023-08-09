@@ -5,7 +5,7 @@
 
 
 
-![FaintSignal.png|300](/img/user/Attachments/FaintSignal.png)
+![FaintSignal.png|280](/img/user/Attachments/FaintSignal.png)
 
 # Faint Signal
 
