@@ -11,7 +11,7 @@ People who are prolifically creative tend to concurrently work on **an interconn
 
 > According to the American psychologist Howard Gruber, ==prolific creative workers pursue **an interconnected network of related projects** at any one time==. 
 
-source: [[References/Ideaflow – Utley, Klebahn (2022)\|Ideaflow – Utley, Klebahn (2022)]]
+source: [[References/Ideaflow – Utley and Klebahn (2022)\|Ideaflow – Utley and Klebahn (2022)]]
 
 ---
 #innovation-creativity
