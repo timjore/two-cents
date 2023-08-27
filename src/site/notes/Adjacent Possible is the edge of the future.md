@@ -14,6 +14,10 @@ The shadow future, comprised of the set of **all first-order combinations** (i.e
 ---
 #cognition #innovation #strategic 
 
+See also:
+- [[Faint signals are whispers from the future\|Faint signals are whispers from the future]]
+- [[Overton Window is a range of possibilities\|Overton Window is a range of possibilities]]
+
 
 
 [^1]: [[References/Where Good Ideas Come From – Johnson (2011)\|Where Good Ideas Come From – Johnson (2011)]], ch. 1
