@@ -25,4 +25,4 @@ see also:
 - [[Straight Line Instinct hinders thinking by assuming trends will continue\|Straight Line Instinct hinders thinking by assuming trends will continue]]
 - [[Black Swan events are rare, impactful, and retrospectively predictable\|Black Swan events are rare, impactful, and retrospectively predictable]]
 - [[Staging/Innovation often occurs in the gaps between major domains\|Innovation often occurs in the gaps between major domains]]
-- [[Staging/Integrative, Macroscopic Thinking is antithetical to higher education\|Integrative, Macroscopic Thinking is antithetical to higher education]]
+- [[Integrative, Macroscopic Thinking is antithetical to higher education\|Integrative, Macroscopic Thinking is antithetical to higher education]]
