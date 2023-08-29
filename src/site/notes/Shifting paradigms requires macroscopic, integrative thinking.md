@@ -19,7 +19,7 @@ The ability to shift a paradigm requires, among other things, the ability to see
 
 See also:
 - [[Staging/Integrative, Macroscopic Thinking\|Integrative, Macroscopic Thinking]]
-- [[Staging/Integrative, Macroscopic Thinking is antithetical to higher education\|Integrative, Macroscopic Thinking is antithetical to higher education]]
+- [[Integrative, Macroscopic Thinking is antithetical to higher education\|Integrative, Macroscopic Thinking is antithetical to higher education]]
 - [[Paradigm shifts create a new framework of thinking\|Paradigm shifts create a new framework of thinking]]
 - [[Paradigm Shifts reconstruct the field from new fundamentals\|Paradigm Shifts reconstruct the field from new fundamentals]]
 - [[Three questions form the essence of innovation\|Three questions form the essence of innovation]]
