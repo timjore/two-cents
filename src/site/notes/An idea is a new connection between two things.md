@@ -13,7 +13,7 @@ See also:
 - [[Liquid Networks foster innovation\|Liquid Networks foster innovation]]
 - [[Lateral thinking is range in action\|Lateral thinking is range in action]]
 - [[Specialization tends to reduce range\|Specialization tends to reduce range]]
-- [[Staging/Integrative, Macroscopic Thinking is antithetical to higher education\|Integrative, Macroscopic Thinking is antithetical to higher education]]
+- [[Integrative, Macroscopic Thinking is antithetical to higher education\|Integrative, Macroscopic Thinking is antithetical to higher education]]
 - [[Idea quotas foster creativity\|Idea quotas foster creativity]]
 
 [^1]: [[References/Ideaflow – Utley and Klebahn (2022)\|Ideaflow – Utley and Klebahn (2022)]], ch. 1, § “The Dangerous Business of New Ideas”
