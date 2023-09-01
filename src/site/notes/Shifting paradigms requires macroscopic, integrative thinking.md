@@ -21,7 +21,7 @@ See also:
 - [[Staging/Integrative, Macroscopic Thinking\|Integrative, Macroscopic Thinking]]
 - [[Integrative, Macroscopic Thinking is antithetical to higher education\|Integrative, Macroscopic Thinking is antithetical to higher education]]
 - [[Paradigm shifts create a new framework of thinking\|Paradigm shifts create a new framework of thinking]]
-- [[Paradigm Shifts reconstruct the field from new fundamentals\|Paradigm Shifts reconstruct the field from new fundamentals]]
+- [[Paradigm shifts reconstruct the field from new fundamentals\|Paradigm shifts reconstruct the field from new fundamentals]]
 - [[Three questions form the essence of innovation\|Three questions form the essence of innovation]]
 
 [^1]: [[References/Elastic – Mlodinow (2018)\|Elastic – Mlodinow (2018)]], ch. 5, § “A Paradigm Shift in Popcorn”
