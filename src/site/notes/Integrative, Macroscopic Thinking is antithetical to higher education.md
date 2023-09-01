@@ -6,7 +6,7 @@
 
 In general, higher education has emphasized specialization (and even ultra-specialization). Advanced degrees tend to prioritize deeper specialization with less scope or connectivity into other specializations. This is the opposite of “range.”
 
-> The modern graduate degree has become the realm of the ultraspecialized. A typical doctoral thesis focuses on a topic so insanely obscure that few can decipher its title, forget about content. ==While such extreme narrowness is important to [[Specialization tends to reduce range\|specialization]]… it has also created a world where the best universities rarely produce [[Staging/Integrative, Macroscopic Thinking\|integrative, macroscopic thinkers]].==[^2]
+> The modern graduate degree has become the realm of the ultraspecialized. A typical doctoral thesis focuses on a topic so insanely obscure that few can decipher its title, forget about content. ==While such extreme narrowness is important to [[Specialization tends to reduce range\|specialization]]… it has also created a world where **the best universities rarely produce [[Staging/Integrative, Macroscopic Thinking\|integrative, macroscopic thinkers]]**.==[^2]
 
 A clear example of this (though by no means the only one) is in the domain of medicine. Gawande notes that specialization does not prevent mistakes (or missed opportunities) that would otherwise be addressed with greater range across domains.
 
