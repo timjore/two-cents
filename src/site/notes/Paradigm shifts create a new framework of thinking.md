@@ -13,6 +13,6 @@ Incremental discoveries and breakthroughs in understanding occur within the exis
 
 See also:
 - [[Shifting paradigms requires macroscopic, integrative thinking\|Shifting paradigms requires macroscopic, integrative thinking]]
-- [[Paradigm Shifts reconstruct the field from new fundamentals\|Paradigm Shifts reconstruct the field from new fundamentals]]
+- [[Paradigm shifts reconstruct the field from new fundamentals\|Paradigm shifts reconstruct the field from new fundamentals]]
 
 [^1]: [[References/Elastic – Mlodinow (2018)\|Elastic – Mlodinow (2018)]], ch. 5, § “A Paradigm Shift in Popcorn”
