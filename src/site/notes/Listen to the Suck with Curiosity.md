@@ -16,7 +16,7 @@ Effective leaders do not block out criticism or attacks and instead seek to inve
 #cognition #strategic 
 
 See also:
-- [[Confirmation Bias is motivated reasoning to defend one's assumptions\|Confirmation Bias is motivated reasoning to defend one's assumptions]]
+- [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]
 - [[Motivated reasoning is the soldier mindset\|Motivated reasoning is the soldier mindset]]
 - [[Sunk Cost Fallacy\|Sunk Cost Fallacy]]
 
