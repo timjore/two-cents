@@ -14,7 +14,7 @@ In order to overcome this bias, one must consciously identify the operative assu
 #strategic #bias 
 
 see also:
-- [[Confirmation Bias is motivated reasoning to defend one's assumptions\|Confirmation Bias is motivated reasoning to defend one's assumptions]]
+- [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]
 - [[Motivated reasoning is the soldier mindset\|Motivated reasoning is the soldier mindset]]
 - [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]
 - [[Scouts frequently update their maps\|Scouts frequently update their maps]]
