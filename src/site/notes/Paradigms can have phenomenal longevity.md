@@ -14,7 +14,7 @@ One of the reasons that Galen, the second century physician to Roman emperors, w
 
 > All who drink of this treatment recover in a short time, except those whom it does not help, who all die. It is obvious, therefore, that it fails only in incurable cases.
 
-The obvious [[Confirmation Bias is motivated reasoning to defend one's assumptions\|confirmation bias]] in Galen’s statement is typical of the priests of paradigms who enthusiastically perform the rituals and ordinances of the paradigm without ever questioning their own assumptions about its efficacy. This self-assuredness tends toward blindness as to the deficiencies of the paradigm while increasing the sense of importance of those who lead it. Galen said of himself: 
+The obvious [[Confirmation Bias defends one's assumptions\|confirmation bias]] in Galen’s statement is typical of the priests of paradigms who enthusiastically perform the rituals and ordinances of the paradigm without ever questioning their own assumptions about its efficacy. This self-assuredness tends toward blindness as to the deficiencies of the paradigm while increasing the sense of importance of those who lead it. Galen said of himself: 
 
 > It is I, and I alone, who have revealed the true path of medicine.
 
