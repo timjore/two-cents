@@ -7,7 +7,7 @@
 
 A power law distribution is a type of probability distribution that follows a pattern where **a small number of items** (such as events or entities) have **a disproportionately large number of occurrences**, while many items have very few occurrences. This kind of distribution is also known as a “scale-free“ distribution because it does not have a characteristic scale, and it is often found in [[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]] such as the internet, social networks, and the distribution of wealth.
 
-![Long_tail.png](/img/user/Attachments/Long_tail.png)
+![Long_tail.png|undefined](/img/user/Attachments/Long_tail.png)
 
 An example of a power-law graph showing the long tail 80-20 distribution ([[Pareto Principle\|Pareto Principle]]).
 
