@@ -6,9 +6,9 @@
 
 Metcalfe’s Law states that the network itself increases exponentially as the number of nodes increases.
 
-![networks-scale.001.jpg](/img/user/Attachments/networks-scale.001.jpg)
+![networks-scale.001.jpg|undefined](/img/user/Attachments/networks-scale.001.jpg)
 
-![networks-scale.002.jpg](/img/user/Attachments/networks-scale.002.jpg)
+![networks-scale.002.jpg|undefined](/img/user/Attachments/networks-scale.002.jpg)
 
 
 
