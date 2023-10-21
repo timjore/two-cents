@@ -15,13 +15,13 @@ When early cartographers made maps of the so-called “New World” they were th
 
 The solution to both is to acknowledge the value of the first maps in light of its own context, and then continue to update the maps to more closely align them with reality.
 
-![updating-maps1.jpg](/img/user/Attachments/updating-maps1.jpg)
+![updating-maps1.jpg|undefined](/img/user/Attachments/updating-maps1.jpg)
 <small>1540s: Münster’s Cosmographia – considered to be the first to show the entire continents of North and South America.</small>
 
-![updating-maps2.jpg](/img/user/Attachments/updating-maps2.jpg)
+![updating-maps2.jpg|undefined](/img/user/Attachments/updating-maps2.jpg)
 <small>1594: Orbis Terrarum</small>
 
-![updating-maps3.jpg](/img/user/Attachments/updating-maps3.jpg)
+![updating-maps3.jpg|undefined](/img/user/Attachments/updating-maps3.jpg)
 
 ---
 
