@@ -6,7 +6,7 @@
 # 1% is Halfway  
 In an exponential progression (doubling every generation), the halfway point is 1%.
 
-![1-percent-halfway.png](/img/user/Attachments/1-percent-halfway.png)
+![1-percent-halfway.png|undefined](/img/user/Attachments/1-percent-halfway.png)
 
 ---
 
@@ -35,9 +35,9 @@ Here’s the math:
 | **13** | 53.248%  |
 | **14** | 106.496% |
 
-![1-percent-halfway-2-trend-line.png](/img/user/Attachments/1-percent-halfway-2-trend-line.png)
+![1-percent-halfway-2-trend-line.png|undefined](/img/user/Attachments/1-percent-halfway-2-trend-line.png)
 
-![1-percent-halfway-3-linear-too-steep.png](/img/user/Attachments/1-percent-halfway-3-linear-too-steep.png)
+![1-percent-halfway-3-linear-too-steep.png|undefined](/img/user/Attachments/1-percent-halfway-3-linear-too-steep.png)
 
 ---
 #mathematics #strategic #complex-systems 
