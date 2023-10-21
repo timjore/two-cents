@@ -15,7 +15,7 @@
 
 
 
-![Factfulness - 10 Rules of Thumb.jpg](/img/user/Attachments/Factfulness%20-%2010%20Rules%20of%20Thumb.jpg)
+![Factfulness - 10 Rules of Thumb.jpg|undefined](/img/user/Attachments/Factfulness%20-%2010%20Rules%20of%20Thumb.jpg)
 
 10 Instincts to overcome for better thinking:
 1. [[Gap Instinct hinders thinking by ignoring the middle majority\|Gap Instinct hinders thinking by ignoring the middle majority]]
