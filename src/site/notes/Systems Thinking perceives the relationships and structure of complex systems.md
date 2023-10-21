@@ -7,7 +7,7 @@
 The ability to perceive a complex system and understand the relationships between relationships of which it is comprised.
 
 
-![Basic Systems Diagram.png](/img/user/Attachments/Basic%20Systems%20Diagram.png)
+![Basic Systems Diagram.png|undefined](/img/user/Attachments/Basic%20Systems%20Diagram.png)
 
 ---
 
