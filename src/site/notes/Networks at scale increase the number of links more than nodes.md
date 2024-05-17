@@ -9,11 +9,11 @@ As a network grows, ==the number of links required to connect all the nodes grow
 
 For example, this helps explain why a small team has much less complexity and overhead in communications and maintenance of relationships, but as the team grows larger, it becomes impossible to retain the same strength of connection with all the other members of the team.
 
-![networks-scale.001.jpg|undefined](/img/user/Attachments/networks-scale.001.jpg)
+![networks-scale.001.jpg](/img/user/Attachments/networks-scale.001.jpg)
 
-![networks-scale.002.jpg|undefined](/img/user/Attachments/networks-scale.002.jpg)
+![networks-scale.002.jpg](/img/user/Attachments/networks-scale.002.jpg)
 
-![networks-scale.003.jpg|undefined](/img/user/Attachments/networks-scale.003.jpg)
+![networks-scale.003.jpg](/img/user/Attachments/networks-scale.003.jpg)
 
 ---
 #networks 
