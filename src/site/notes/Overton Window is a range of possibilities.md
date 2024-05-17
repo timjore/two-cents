@@ -23,7 +23,7 @@ graph LR;
     1([Social Change])-->2([Political Change])-->3([Policy Change]);
 ```
 
-![Overton Window Example.png|undefined](/img/user/Attachments/Overton%20Window%20Example.png)
+![Overton Window Example.png](/img/user/Attachments/Overton%20Window%20Example.png)
 
 ---
 #politics #sociology
