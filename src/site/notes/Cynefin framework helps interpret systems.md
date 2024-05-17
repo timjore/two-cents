@@ -12,7 +12,7 @@ Cynefin is ==a sense-making framework for identifying and understanding the kind
 Most of the information below is borrowed from “A Leader’s Framework for Decision Making” (Snowden and Boone). ^[Snowden, David J., and Mary E. Boone. “A Leader’s Framework for Decision Making.” Harvard Business Review, no. November 2007, Nov. 2007. https://hbr.org/2007/11/a-leaders-framework-for-decision-making.] See also: [[References/Cynefin – Snowden, et al. (2020)\|Cynefin – Snowden, et al. (2020)]]
 
 
-![Cynefin Framework.png|undefined](/img/user/Attachments/Cynefin%20Framework.png)
+![Cynefin Framework.png](/img/user/Attachments/Cynefin%20Framework.png)
 
 
 - **Simple and complicated contexts assume an ordered universe**, where *cause-and-effect relationships are perceptible, and right answers can be determined based on the facts*. 
@@ -36,7 +36,7 @@ In a complicated context, at least one right answer exists. In a complex context
 
 In a chaotic context, searching for right answers would be pointless: The ==relationships between cause and effect are impossible to determine== because they shift constantly and no manageable patterns 
 
-![The Cynefin Framework (Table).png|undefined](/img/user/Attachments/The%20Cynefin%20Framework%20(Table).png)
+![The Cynefin Framework (Table).png](/img/user/Attachments/The%20Cynefin%20Framework%20(Table).png)
 
 ---
 #strategic #complex-systems 
