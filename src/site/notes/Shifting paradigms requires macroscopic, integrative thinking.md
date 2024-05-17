@@ -18,7 +18,7 @@ The ability to shift a paradigm requires, among other things, the ability to see
 #cognition #strategic #paradigms #systems-thinking 
 
 See also:
-- [[Staging/Integrative, Macroscopic Thinking\|Integrative, Macroscopic Thinking]]
+- [[Resources/Garden/Staging/Integrative, Macroscopic Thinking\|Resources/Garden/Staging/Integrative, Macroscopic Thinking]]
 - [[Integrative, Macroscopic Thinking is antithetical to higher education\|Integrative, Macroscopic Thinking is antithetical to higher education]]
 - [[Paradigm shifts create a new framework of thinking\|Paradigm shifts create a new framework of thinking]]
 - [[Paradigm shifts reconstruct the field from new fundamentals\|Paradigm shifts reconstruct the field from new fundamentals]]
