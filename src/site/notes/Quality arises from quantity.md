@@ -17,6 +17,12 @@ source: [[References/Ideaflow – Utley and Klebahn (2022)\|Ideaflow – Utley a
 
 source: [[References/Originals – Grant, Sandberg (2016)\|Originals – Grant, Sandberg (2016)]]
 
+Liquid networks create environments where partial ideas can connect:
+
+> A metropolis shares one key characteristic with the Web: ==both environments are dense, liquid networks where information easily flows along multiple unpredictable paths.==...**Liquid networks create an environment where those partial ideas can connect**; they provide a kind of dating service for promising hunches. They make it easier to disseminate good ideas, of course, but they also do something more sublime: **they help complete ideas.** 
+
+source: [[References/Where Good Ideas Come From – Johnson (2011)\|Where Good Ideas Come From – Johnson (2011)]],  (p. 47)
+
 ---
 #innovation-creativity
 
