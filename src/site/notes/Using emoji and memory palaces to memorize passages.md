@@ -30,7 +30,7 @@ For most people, this is challenging task, because the human brain is not partic
 
 Then, we could orient the emoji in order around a well-known physical space, such as a dining room table:
 
-![table-memory-palace.jpg|undefined](/img/user/Attachments/table-memory-palace.jpg)
+![table-memory-palace.jpg](/img/user/Attachments/table-memory-palace.jpg)
 
 The strength of this approach has to do with the iconic nature of emoji, thus providing a visual abstraction of textual content making it easier to memorize.
 
