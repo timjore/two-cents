@@ -13,7 +13,7 @@ Most patterns of thinking (especially as typically taught in [[Integrative, Macr
 
 See also:
 - [[Lateral thinking is range in action\|Lateral thinking is range in action]]
-- [[Staging/Integrative, Macroscopic Thinking\|Integrative, Macroscopic Thinking]]
+- [[Resources/Garden/Staging/Integrative, Macroscopic Thinking\|Resources/Garden/Staging/Integrative, Macroscopic Thinking]]
 - [[Integrative, Macroscopic Thinking is antithetical to higher education\|Integrative, Macroscopic Thinking is antithetical to higher education]]
 - [[Lateral thinking is range in action\|Lateral thinking is range in action]]
 
