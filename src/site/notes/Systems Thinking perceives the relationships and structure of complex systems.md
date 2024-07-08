@@ -34,10 +34,10 @@ Pink suggests that success in the Conceptual Age requires Systems Thinking:
 
 See also: 
 - [[Systems Theory studies the relationships and structure of systems\|Systems Theory studies the relationships and structure of systems]]
+- [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]]
 - [[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]]
 - [[Complex systems are characterized by VUCA\|Complex systems are characterized by VUCA]]
 
-[^1]: [[References/Loonshots – Bahcall (2019)\|Loonshots – Bahcall (2019)]], ch. 5, § “How to Win at Chess.” Bahcall continues, “Evaluating decisions and outcomes separately is equally important in the opposite case: bad decisions may occasionally result in good outcomes. You may have a flawed strategy, but your opponent made an unforced error, so you won anyway. You kicked the ball weakly toward the goalkeeper, but he slipped on some mud, and you scored. Which is why probing wins, critically, is as important, if not more so, as probing losses. Failing to analyze wins can reinforce a bad process or strategy. You may not be lucky next time.”
 [^2]:  [[References/Team of Teams – McChrystal, et al. (2015)\|Team of Teams – McChrystal, et al. (2015)]], ch. 7, § “New Metal Alloys, Some of Which Have Not Yet Been Invented”
 [^3]: [[References/The Three-Box Solution – Govindarajan (2016)\|The Three-Box Solution – Govindarajan (2016)]], ch. 2, § “Building New Box 3 Capabilities and Processes”
 [^4]: [[References/A Whole New Mind – Pink (2006)\|A Whole New Mind – Pink (2006)]], ch. 6, § “Seeing the Big Picture”
