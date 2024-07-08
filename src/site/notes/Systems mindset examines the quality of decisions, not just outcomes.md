@@ -4,7 +4,7 @@
 
 # Systems mindset examines the quality of decisions, not just outcomes
 
-The default mindset for most people (or teams, organizations, etc.) is oriented around outcomes: what worked vs. what did not work. ==The most strategic teams develop a **systems mindset** that probes not merely the outcome, but the decision-making process that led to it.== Bahcall explains the difference in *Loonshots*:
+The default mindset for most people (or teams, organizations, etc.) is oriented around outcomes: what worked vs. what did not work. ==The most strategic teams develop a **systems mindset** that probes not merely the outcome, but the decision-making process that led to it.== Bahcall explains the difference in *Loonshots*:[^1]
 
 > The weakest teams don’t analyze failures at all. They just keep going. That’s zero strategy.
 > 
