@@ -14,7 +14,7 @@ What will happen when the decision is made to change course to the initial desti
 The solution is to ==**take frequent bearings** from the ship’s current location to the destination *without reference to current trajectory* and then **change course early and often**.== The more often these bearings are taken and the ship’s course reset to the same destination, the less abrupt the change in course will be. It may not even be noticeable.
 
 
-![[On course-correcting early and often]]
+![On course-correcting early and often.png](/img/user/Attachments/On%20course-correcting%20early%20and%20often.png)
 
 See: https://www.desmos.com/calculator/fow5t4gqkm
 
