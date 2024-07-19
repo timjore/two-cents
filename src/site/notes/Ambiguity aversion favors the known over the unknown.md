@@ -13,7 +13,7 @@ Humans tend to continue in a default course of action (or paradigm) even in the 
 
 See also:
 - [[Paradigms can have phenomenal longevity\|Paradigms can have phenomenal longevity]]
-- [[Binary Bias\|Binary Bias]]
+- [[Dichotomous thinking simplistically resolves ambiguity\|Dichotomous thinking simplistically resolves ambiguity]]
 - [[Fear Instinct hinders thinking by confusing risk with fear\|Fear Instinct hinders thinking by confusing risk with fear]]
 
 [^1]: [[References/The Voltage Effect – List (2022)\|The Voltage Effect – List (2022)]], ch. 8, § “Knowing When to Quit.”
