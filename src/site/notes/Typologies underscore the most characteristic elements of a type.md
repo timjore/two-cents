@@ -12,6 +12,6 @@ When depicting a typology, it is necessary to emphasize the most characteristic 
 #cognition #typology
 
 See also:
-- [[Binary Bias\|Binary Bias]]
+- [[Dichotomous thinking simplistically resolves ambiguity\|Dichotomous thinking simplistically resolves ambiguity]]
 
 [^1]: Gonzalez, Justo L. _Christian Thought Revisited: Three Types of Theology_. Revised, Subsequent edition. ORBIS, 2013. ch. 1.
