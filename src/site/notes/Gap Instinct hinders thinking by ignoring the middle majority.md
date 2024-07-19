@@ -13,7 +13,7 @@ To control the gap instinct, look for the majority.
 
 - **Beware comparisons of averages.** If you could check the spreads you would probably find they overlap. There is probably no gap at all.
 
-- **Beware comparisons of extremes.** In all groups, of countries or people, there are some at the top and some at the bottom. The difference is sometimes extremely unfair. But even then the majority is usually somewhere in between, right where the gap is supposed to be. (See: [[Binary Bias\|Binary Bias]])
+- **Beware comparisons of extremes.** In all groups, of countries or people, there are some at the top and some at the bottom. The difference is sometimes extremely unfair. But even then the majority is usually somewhere in between, right where the gap is supposed to be. (See: [[Dichotomous thinking simplistically resolves ambiguity\|Dichotomous thinking simplistically resolves ambiguity]])
 
 - **The view from up here.** Remember, looking down from above distorts the view. Everything else looks equally short, but it’s not.
 
@@ -21,7 +21,7 @@ To control the gap instinct, look for the majority.
 #bias 
 
 See also:
-- [[Binary Bias\|Binary Bias]]
+- [[Dichotomous thinking simplistically resolves ambiguity\|Dichotomous thinking simplistically resolves ambiguity]]
 
 Others in this series:
 1. Gap Instinct hinders thinking by ignoring the middle majority
