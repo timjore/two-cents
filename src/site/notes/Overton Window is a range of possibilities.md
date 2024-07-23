@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/overton-window-is-a-range-of-possibilities/"}
 ---
 
-
 # Overton Window is a range of possibilities
 
 The Overton Window (originally intended to describe the domain of politics and generalized here) refers to ==some group of **adjacent outcomes along a spectrum that fall into a window of possibility**==. Outcomes inside the window are deemed **acceptable by those who hold power**, meaning they could support the outcome and not lose power. Policies outside the window are unacceptable at the moment. ==**Ideas**, over time, can shift the size or spread of the window of possible outcomes.== Social change affects political change which makes possible policy change.[^1]
