@@ -35,12 +35,12 @@ At a high level, the steps involved in the design thinking process are simple:
 	- *The goal of all the steps that come before this is to **have the best possible solution before you move into implementing the design**. Your team will spend most of its time, its money, and its energy on this stage.*
 
 -----
-#innovation-creativity 
+#innovation-creativity #design 
 
 See also:
 - [[Staging/First Principles thinking allows you to see the obvious hiding in plain sight\|First Principles thinking allows you to see the obvious hiding in plain sight]]
-
-
+- [[Human-centered design is the process of ensuring that people’s actual needs are met\|Human-centered design is the process of ensuring that people’s actual needs are met]]
+- [[Double diamond implements design thinking\|Double diamond implements design thinking]]
 
 [^1]: [[References/Creative Confidence – Kelley and Kelley (2013)\|Creative Confidence – Kelley and Kelley (2013)]], §  “Introduction”
 [^2]: Source: https://mitsloan.mit.edu/ideas-made-to-matter/design-thinking-explained
