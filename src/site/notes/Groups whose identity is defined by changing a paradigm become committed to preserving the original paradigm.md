@@ -6,7 +6,7 @@
 
 *Or: “Never forget that whoever is not against you is for you.”*
 
-In a close analog of [[Institutions become committed to preserving the problem they were formed to solve\|Institutions become committed to preserving the problem they were formed to solve]], ==a group whose identity is defined by changing a paradigm will tend to become **committed to the preservation of the original paradigm in order to not lose their identity**.==
+In a close analog of “[[Institutions become committed to preserving the problem they were formed to solve\|Institutions become committed to preserving the problem they were formed to solve]],” ==a group whose identity is defined by changing a paradigm will tend to become **committed to the preservation of the original paradigm in order to not lose their identity**.==
 
 The attempt to preserve the original paradigm may take different forms, but usually follows the pattern of redefining the new paradigm toward greater exclusivity—the earliest “paradigm reformers” tend to reject those who are the earliest “paradigm adopters.”
 
@@ -33,5 +33,6 @@ Ironically, Luther seems to have forgotten the words of Jesus to his disciples w
 
 See also:
 - [[Institutions become committed to preserving the problem they were formed to solve\|Institutions become committed to preserving the problem they were formed to solve]]
+- [[Dichotomous thinking simplistically resolves ambiguity\|Dichotomous thinking simplistically resolves ambiguity]]
 
 [^1]: Metaxas explains that Philip was seeking a unification of different branches of the Reformation, at least for political purposes in order to withstand the anti-Reformation force of the Catholic Church: “Landgrave Philip of Hesse … concluded that unless the Lutheran Wittenberg branch of the Reformation could unite politically with the Zwinglian Swiss branch, the emperor and the Catholic powers would have the upper hand, and the Reformation would be lost. But if the two Reformation parties did unite—at least politically—they could bargain much more effectively.” [[References/Martin Luther – Metaxas (2017)\|Martin Luther – Metaxas (2017)]], ch. 20, § "The Marburg Colloquy”

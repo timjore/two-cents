@@ -4,7 +4,7 @@
 
 # Compartmentalization blinds you to new possibilities
 
-In order to reduce complexity, ==we tend to organize the world into categories that serve as frames of reference==. This helps us navigate ambiguity and retain control, but ==doing so can **blind us to new possibilities**== that do not fit cleanly in a pre-conceived category or that exists as a link between categories.
+In order to reduce complexity, ==we tend to organize the world into categories that serve as frames of reference==. This helps us navigate ambiguity and retain control, but ==doing so can **blind us to new possibilities**== that do not fit cleanly in a pre-conceived category or that exist as a link between categories.
 
 Guillén observes:
 

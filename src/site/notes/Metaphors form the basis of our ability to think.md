@@ -19,7 +19,7 @@ Thus, it is important to be aware of the limitations of the metaphors we use and
 #cognition 
 
 See also:
-- [[The tools that we use both illuminate and limit our understanding\|The tools that we use both illuminate and limit our understanding]]
+- [[Tools both illuminate and limit our understanding\|Tools both illuminate and limit our understanding]]
 - [[Scouts frequently update their maps\|Scouts frequently update their maps]]
 
 [^1]: pg. 158

@@ -45,7 +45,7 @@ Updating a map is not the same as admitting error.
 #strategic #strategic-cartography #cognition 
 
 See also:
-- [[The tools that we use both illuminate and limit our understanding\|The tools that we use both illuminate and limit our understanding]]
+- [[Tools both illuminate and limit our understanding\|Tools both illuminate and limit our understanding]]
 - [[Resources/Garden/The map is not the territory\|Resources/Garden/The map is not the territory]]
 - [[The clarity of a map is not easily distinguished from its accuracy\|The clarity of a map is not easily distinguished from its accuracy]]
 
