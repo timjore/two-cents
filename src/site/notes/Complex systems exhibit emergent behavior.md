@@ -5,7 +5,7 @@
 
 # Complex systems exhibit emergent behavior
 
-A complex system is a system made up of **many interacting components** or agents that **exhibit [[emergent\|emergent]] behavior**, meaning behavior that arises from the interactions among the components, rather than from the behavior of individual components. These systems are often **difficult to predict or control** due to their large number of components, nonlinear interactions, and feedback loops. 
+A complex system is a system made up of **many interacting components** or agents that **exhibit [[Staging/Emergence\|emergent behavior]]**, meaning behavior that arises from the interactions among the components, rather than from the behavior of individual components. These systems are often **difficult to predict or control** due to their large number of components, nonlinear interactions, and feedback loops. 
 
 Examples of complex systems include living organisms, economies, ecosystems, social networks, and the internet. Complex systems are also characterized by having multiple levels of organization, from the microscopic to the macroscopic level, and the properties of the system can be very different from the properties of the individual components.
 
