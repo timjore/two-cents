@@ -4,7 +4,7 @@
 
 # Constant change requires constant reformation 
 
-Circumstances are always changing, so even the system that is best-designed for a circumstance must always be reforming if it is not to become calcified and ineffective over time.
+Circumstances are always changing, so ==even the system that is best-designed for a circumstance **must always be reforming**== if it is not to become calcified and ineffective over time.
 
 > As conditions change the best approaches change—i.e., what  is best depends on the circumstances and the **circumstances are always changing**… For that reason it is a mistake to rigidly believe that any… system is always best because there will certainly be times when that system is not best for the circumstances at hand, and if a society doesn’t adapt it will die. That is why **==constantly reforming systems== to adapt well is best**. –Ray Dalio, *Principles for Dealing With the Changing World Order*, ch. 5, sec. “Conclusion.”
 
