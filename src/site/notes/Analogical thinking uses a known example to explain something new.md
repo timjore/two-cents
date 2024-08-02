@@ -8,16 +8,16 @@ Analogical thinking is ==a cognitive process in which one **uses a known example
 
 ---
 
-Analogical thinking can be in problem-solving, decision-making, and creativity. It allows people to leverage their existing knowledge and understanding to make sense of new information. *For example, using an analogy of a journey to understand a complex process, or using an example of a machine to understand a biological system.*
+Analogical thinking can be in problem-solving, decision-making, and creativity. It allows people to leverage their existing knowledge and understanding to make sense of new information. *For example, using an analogy of a journey to understand a complex process, or using an example of a machine to understand a biological system.* Epstein notes that it can be employed to help solve wicked problems:
 
-Epstein notes that it can be employed to help solve wicked problems:
+> Deep ==**analogical thinking** is the practice of recognizing conceptual similarities in multiple domains== or scenarios that may seem to have little in common on the surface. ==It is a **powerful tool for solving [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]**==.[^1]
 
-> Deep ==**analogical thinking** is the practice of recognizing conceptual similarities in multiple domains== or scenarios that may seem to have little in common on the surface. ==It is a **powerful tool for solving [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]**==
 
-source: [[References/Range – Epstein (2019)\|Range – Epstein (2019)]], ch. 5.
 
 ---
 #cognition #strategic 
 
 see also:
 - [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]
+
+[^1]:  source: [[References/Range – Epstein (2019)\|Range – Epstein (2019)]], ch. 5.

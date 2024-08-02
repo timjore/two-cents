@@ -4,7 +4,6 @@
 
 # Dichotomous thinking simplistically resolves ambiguity
 
-
 Dichotomous thinking (also known as “binary bias”) is ==the tendency to attempt to resolve ambiguity by seeing things in binary, as **all black or all white**==, thus missing the complexities and nuance of the world as it is, which includes lots of shades of gray.
 
 > ...**human beings are prone to dichotomous thinking. We don’t like ambiguity. We like things to be true or false, black or white.** When it comes to facts, this isn’t necessarily problematic, but alas it also applies to our opinions … **Because of this dichotomous thinking, most evidence that the world presents us isn’t overwhelming enough to compel us to completely shift our positions.** Therefore we stick with our original one. And that’s a shame because every time we do, we squander an opportunity to see the world more accurately, or at least more vividly.

@@ -27,5 +27,5 @@ See also:
  - [[Systems mindset examines the quality of decisions, not just outcomes\|Systems mindset examines the quality of decisions, not just outcomes]]
 
 [^2]: Source: [[References/The Tyranny of Metrics – Muller (2018)\|The Tyranny of Metrics – Muller (2018)]], ch. 1.
-[^1]: Source: [[References/Understanding Variation –Wheeler (1993)\|Understanding Variation –Wheeler (1993)]], ch. 2, § “Comparisons to Specifications,” 20-21.
+[^1]: Source: [[References/Understanding Variation – Wheeler (1993)\|Understanding Variation – Wheeler (1993)]]], ch. 2, § “Comparisons to Specifications,” 20-21.
 [^3]: Ibid.

@@ -16,7 +16,7 @@ To control the single perspective instinct, ==get a toolbox, not a hammer==.
 
 - **Limited expertise.** Don’t claim expertise beyond your field: be humble about what you don’t know. Be aware too of the limits of the expertise of others.
 
-- **Hammers and nails.** If you are good with a tool, you may want to use it too often. If you have analyzed a problem in depth, you can end up exaggerating the importance of that problem or of your solution. Remember that no one tool is good for everything. If your favorite idea is a hammer, look for colleagues with screwdrivers, wrenches, and tape measures. Be open to ideas from other fields. (see: [[Mental Models\|Mental Models]], [[Liquid Networks\|Liquid Networks]])
+- **Hammers and nails.** If you are good with a tool, you may want to use it too often. If you have analyzed a problem in depth, you can end up exaggerating the importance of that problem or of your solution. Remember that no one tool is good for everything. If your favorite idea is a hammer, look for colleagues with screwdrivers, wrenches, and tape measures. Be open to ideas from other fields. (see: [[Mental Models\|Mental Models]], [[Liquid Networks foster innovation\|Liquid Networks]])
 
 - **Numbers, but not only numbers.** The world cannot be understood without numbers, and it cannot be understood with numbers alone. Love numbers for what they tell you about real lives.
 
