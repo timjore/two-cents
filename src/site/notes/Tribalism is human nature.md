@@ -22,6 +22,7 @@ From *Team of Teams*:
 
 See also:
 - [[Fundamental Attribution Error blames others and exonerates me\|Fundamental Attribution Error blames others and exonerates me]]
+- [[Dichotomous thinking simplistically resolves ambiguity\|Dichotomous thinking simplistically resolves ambiguity]]
 
 [^1]: Source: Clark, Cory J., Brittany S. Liu, Bo M. Winegard, and Peter H. Ditto. “Tribalism Is Human Nature.” _Current Directions in Psychological Science_ 28, no. 6 (December 1, 2019): 587–92. [https://doi.org/10.1177/0963721419862289](https://doi.org/10.1177/0963721419862289).
 [^2]: Ibid.
