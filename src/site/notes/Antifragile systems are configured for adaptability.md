@@ -16,7 +16,7 @@ The key to designing antifragile systems is ==linking elements together in ways 
 #systems-thinking #complex-systems #antifragility 
 
 See also:
-- [[Increasing the stability and efficiency of a system is at the cost of flexibility\|Increasing the stability and efficiency of a system is at the cost of flexibility]]
+- [[Efficiency is purchased by a loss in flexibility\|Efficiency is purchased by a loss in flexibility]]
 - [[Resilience Thinking creates antifragile systems\|Resilience Thinking creates antifragile systems]]
 - [[Antifragile Systems become stronger with shocks\|Antifragile Systems become stronger with shocks]]
 - [[Complex systems are characterized by VUCA\|Complex systems are characterized by VUCA]]

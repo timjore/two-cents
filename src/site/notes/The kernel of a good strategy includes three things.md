@@ -17,7 +17,7 @@ The kernel of a good strategy includes a **diagnosis** of the challenge, a **gui
 > 
 > ==A set of **coherent actions** that are designed to carry out the guiding policy.== These are steps that are coordinated with one another to work together in accomplishing the guiding policy.
 
-source: [[References/Good Strategy Bad Strategy – Rumelt (2011)\|Good Strategy Bad Strategy – Rumelt (2011)]]
+source: [[References/Good Strategy Bad Strategy – Rumelt (2011)\|Good Strategy Bad Strategy – Rumelt (2011)]], ch. 5, “The Kernel of a Good Strategy”
 
 ---
 #strategic

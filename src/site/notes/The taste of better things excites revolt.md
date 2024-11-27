@@ -14,6 +14,6 @@ It is not as much constant, totalitarian oppression that foments revolt among th
 #freedom #sociology 
 
 See also:
-- [[Tempered radicals change the world\|Tempered radicals change the world]]
+- [[Staging/Tempered radicals change the world\|Tempered radicals change the world]]
 
 [^1]: [[References/The True Believer – Hoffer (2011)\|The True Believer – Hoffer (2011)]], ch. 5, § 22, 26.

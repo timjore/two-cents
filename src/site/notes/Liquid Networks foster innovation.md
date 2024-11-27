@@ -28,7 +28,7 @@ see also:
 - [[Ideaflow is the single most important creative metric\|Ideaflow is the single most important creative metric]]
 - [[Lateral thinking is range in action\|Lateral thinking is range in action]]
 - [[Specialization tends to reduce range\|Specialization tends to reduce range]]
-- [[Increasing the stability and efficiency of a system is at the cost of flexibility\|Increasing the stability and efficiency of a system is at the cost of flexibility]]
+- [[Efficiency is purchased by a loss in flexibility\|Efficiency is purchased by a loss in flexibility]]
 - [[Staging/Generalists are better positioned for the future than specialists\|Generalists are better positioned for the future than specialists]]
 
 [^1]:  source: [[References/Where Good Ideas Come From – Johnson (2011)\|Where Good Ideas Come From – Johnson (2011)]], 47.

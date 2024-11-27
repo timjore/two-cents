@@ -23,6 +23,7 @@ A solution may be to [[Complexifying overcomes binary bias\|complexify]] the top
 
 See also:
 - [[Ambiguity aversion favors the known over the unknown\|Ambiguity aversion favors the known over the unknown]]
+- [[Complexifying overcomes binary bias\|Complexifying overcomes binary bias]]
 
 [^1]: [[References/Think Again – Grant (2021)\|Think Again – Grant (2021)]], ch. 8.
 [^2]: [[References/Persuadable – Pittampalli (2016)\|Persuadable – Pittampalli (2016)]], ch. 6, “Update Your Beliefs Incrementally.”
