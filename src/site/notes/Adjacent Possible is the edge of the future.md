@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/adjacent-possible-is-the-edge-of-the-future/"}
 ---
 
-
 # Adjacent Possible is the edge of the future
 
 The shadow future, comprised of the set of **all first-order combinations** (i.e., next steps, immediate opportunities) **that are possible from the present state of things**. It is the map of all the ways in which the present can change, and the map grows as its boundaries are explored. Each new combination expands the number of connected possibilities.

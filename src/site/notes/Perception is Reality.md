@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/perception-is-reality/"}
 ---
 
-
 # Perception is Reality
 
 One’s **subjective perception of objective reality** is what determines actions, not the objective reality itself.

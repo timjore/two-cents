@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/substitution-answers-an-easier-similar-question-instead/"}
 ---
 
-
 # Substitution answers an easier, similar question instead
 
 When faced with a difficult question, we often **answer an easier one instead**, usually without noticing that we have done so.

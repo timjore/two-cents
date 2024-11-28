@@ -4,7 +4,7 @@
 
 # Divergent ideas come from the right brain
 
-The left brain tends toward order, structure, analytical thinking. The right brain is the source of divergent ideas and breakthrough thinking.
+The left brain tends toward order, structure, analytical thinking. ==The right brain is the source of divergent ideas and breakthrough thinking.==
 
 ---
 
