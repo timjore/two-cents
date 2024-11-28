@@ -12,6 +12,7 @@
 An active cultivation of thoughts and ideas across a broad range of topics. Start with one of these:
 
 - [[Faint signals are whispers from the future\|Faint signals are whispers from the future]]
+- [[Decentralized systems accelerate innovation\|Decentralized systems accelerate innovation]]
 - [[Lateral thinking is range in action\|Lateral thinking is range in action]]
 - [[Premortem works backward from an undesirable outcome in order to prevent it\|Premortem works backward from an undesirable outcome in order to prevent it]]
 - [[Groups whose identity is defined by changing a paradigm become committed to preserving the original paradigm\|Groups whose identity is defined by changing a paradigm become committed to preserving the original paradigm]]
@@ -21,7 +22,6 @@ An active cultivation of thoughts and ideas across a broad range of topics. Star
 - Built with [Obsidian](https://obsidian.md).
 - References managed using [Zotero](https://zotero.org) and the [Citations](obsidian://show-plugin?id=obsidian-citation-plugin) Obsidian plugin ([GitHub](https://github.com/hans/obsidian-citation-plugin)).
 - Published with [Obsidian Digital Garden](https://dg-docs.ole.dev/digital-garden-overview/) ([GitHub](https://github.com/oleeskild/obsidian-digital-garden)).
-- Some definitions of concepts augmented by interaction with [ChatGPT](https://chat.openai.com).
 
 
 
