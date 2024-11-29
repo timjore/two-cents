@@ -12,7 +12,7 @@ The essence of [[Resilience Thinking embraces the reality that things change\|Re
 > Social-ecological systems can exist in more than one kind of stable state. ==If a system changes too much it crosses a threshold and begins behaving in a different way==, with different feedbacks between its component parts and a different structure. It is said to have undergone a “regime shift.”[^1]
 
 - [[Staging/Resilience is the distance between the system and its nearest threshold\|Resilience is the distance between the system and its nearest threshold]]
-- [[Staging/Proximity to a threshold decreases the shock required to cross it\|Proximity to a threshold decreases the shock required to cross it]]
+- [[Proximity to a threshold decreases the shock required to cross it\|Proximity to a threshold decreases the shock required to cross it]]
 
 
 **Adaptive cycles:** the pattern by which an ecosystem organizes itself and responds to a changing world.
@@ -30,7 +30,7 @@ See also:
  - [[Resilience Thinking creates antifragile systems\|Resilience Thinking creates antifragile systems]]
  - [[Staging/Resilience is the capacity to absorb shocks and retain function\|Resilience is the capacity to absorb shocks and retain function]]
  - [[Staging/Resilience is the distance between the system and its nearest threshold\|Resilience is the distance between the system and its nearest threshold]]
- - [[Staging/Proximity to a threshold decreases the shock required to cross it\|Proximity to a threshold decreases the shock required to cross it]]
+ - [[Proximity to a threshold decreases the shock required to cross it\|Proximity to a threshold decreases the shock required to cross it]]
  - [[Staging/Systems of nature tend to follow an adaptive cycle\|Systems of nature tend to follow an adaptive cycle]]
  - [[Staging/Complex adaptive systems are unpredictable and non-linear\|Complex adaptive systems are unpredictable and non-linear]]
 
