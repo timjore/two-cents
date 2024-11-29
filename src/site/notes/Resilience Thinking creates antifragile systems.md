@@ -14,12 +14,13 @@ In *Resilience Thinking*, Walker and Salt note that the drive for efficiency and
 
 
 ---
-#systems-thinking #organizations #antifragility 
+#systems #organizations #antifragility #resilience 
 
 See also:
 - [[Antifragile Systems become stronger with shocks\|Antifragile Systems become stronger with shocks]]
 - [[Antifragile systems are configured for adaptability\|Antifragile systems are configured for adaptability]]
 - [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]]
+- [[Resilience Thinking embraces the reality that things change\|Resilience Thinking embraces the reality that things change]]
 - [[Institutions become committed to preserving the problem they were formed to solve\|Institutions become committed to preserving the problem they were formed to solve]]
 
 [^1]: source: [[References/Team of Teams – McChrystal, et al. (2015)\|Team of Teams – McChrystal, et al. (2015)]], ch. 4, “The Threat from Behind.” McChrystal observes, “Resilient systems are those that can encounter unforeseen threats and, when necessary, put themselves back together again.”
