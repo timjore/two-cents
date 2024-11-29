@@ -9,7 +9,7 @@ Conway’s Law dictates that organizations that design systems necessarily produ
 
 > The basic thesis of this article is that ==organizations which design systems (in the broad sense used here) are **constrained to produce designs which are copies of the communication structures** of these organizations==.[^1]
 
-Thus:
+Thus, to the degree that organizational communication is constrained to lines of command, patterns of communication will reflect the administrative structure:
 
 > To the extent that organizational protocol restricts communication along lines of command, ==the communication structure of an organization will resemble its administrative structure==. This is one reason why military-style organizations design systems which look like their organization charts.[^2]
 
