@@ -11,7 +11,6 @@ A system can encounter two kinds of disturbances: those that can be anticipated,
 
 It is important to note that “optimizing for one form of resilience can reduce other forms of resilience. … ==Managing for specified resilience is important, but so too is maintaining the general capacities of a social-ecological system that allow it to absorb unforeseen disturbances==—that is, general resilience.”[^2]
 
- 
 
 
 ---
