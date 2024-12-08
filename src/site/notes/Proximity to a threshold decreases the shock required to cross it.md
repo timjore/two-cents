@@ -16,7 +16,7 @@ A corollary observation is that ignorance of a threshold also increases the like
 
 See also:
  - [[Resilience Thinking understands thresholds and adaptive cycles\|Resilience Thinking understands thresholds and adaptive cycles]]
- - [[Staging/Resilience is the distance between the system and its nearest threshold\|Resilience is the distance between the system and its nearest threshold]]
+ - [[Resilience is the distance between the system and its nearest threshold\|Resilience is the distance between the system and its nearest threshold]]
 
 [^1]: [[References/Resilience Thinking – Walker and Salt (2012)\|Resilience Thinking – Walker and Salt (2012)]], ch. 2, § “Releasing the Devil.”
 [^2]: Ibid., ch. 4, § “In the Loop.”
