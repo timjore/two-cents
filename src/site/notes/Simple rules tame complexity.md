@@ -11,7 +11,7 @@ When faced with complex challenges, humans tend to rely on experts to create com
 > Applying complicated solutions to complex problems is an understandable approach, but flawed. The parts of a complex system can interact with one another in many different ways, which quickly overwhelms our ability to envision all possible outcomes.
 
 ---
-#complex-systems #networks #strategic 
+#complexity #systems #networks #strategic 
 
 See also:
 - [[Complex networks have unique topological features\|Complex networks have unique topological features]]

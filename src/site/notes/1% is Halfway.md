@@ -40,7 +40,7 @@ Here’s the math:
 ![1-percent-halfway-3-linear-too-steep.png](/img/user/Attachments/1-percent-halfway-3-linear-too-steep.png)
 
 ---
-#mathematics #strategic #complex-systems 
+#mathematics #strategic #complexity #systems 
 
 see also:
 - [[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]]

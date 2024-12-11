@@ -15,7 +15,7 @@ Varol observes that most corporations perish because “they ignore the baby ste
 > In a complex domain we set a new ‘mode of operation’ for the organization – strategy shifts from planning and implementation toward moving in the right direction at the right tempo. ==Risk is managed by taking a broad and diverse perspective, **detecting the weak signals of change, and responding quickly**.== Learning from many small failures is like an immune system for the organization. It provides a signal about where to travel and will often oŀer guidance about what not to do, or what to do less of.[^3]
 
 ---
-#strategic #systems-thinking #complex-systems 
+#strategic #systems-thinking #complexity #systems 
 
 See also:
 - [[Trailblazers amplify weak signals\|Trailblazers amplify weak signals]]

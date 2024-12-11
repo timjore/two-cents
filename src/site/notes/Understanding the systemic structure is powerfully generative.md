@@ -25,7 +25,7 @@
 [^4]: Ibid.
 
 ----
-#systems-thinking #complex-systems #teams #cognition 
+#systems-thinking #complexity #systems #teams #cognition 
 
 See also:
 - [[Systems mindset examines the quality of decisions, not just outcomes\|Systems mindset examines the quality of decisions, not just outcomes]] – Bahcall observes the same phenomena, though only uses two levels of thinking, presumably working from Kahneman’s System 1, System 2 cognitive dichotomy in [[References/Thinking, Fast and Slow – Kahneman (2013)\|Thinking, Fast and Slow – Kahneman (2013)]].

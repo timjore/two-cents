@@ -39,7 +39,7 @@ In a chaotic context, searching for right answers would be pointless: The ==rela
 ![The Cynefin Framework (Table).png](/img/user/Attachments/The%20Cynefin%20Framework%20(Table).png)
 
 ---
-#strategic #complex-systems 
+#strategic #complexity #systems 
 
 see also:
 - [[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]]

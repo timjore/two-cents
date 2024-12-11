@@ -18,7 +18,7 @@ Examples of antifragility can be found in natural systems such as living organis
 source: [[References/Antifragile – Taleb (2012)\|Antifragile – Taleb (2012)]]
 
 ---
-#strategic #complex-systems 
+#strategic #complexity #systems 
 
 see also:
 - [[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]]

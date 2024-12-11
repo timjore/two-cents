@@ -22,7 +22,7 @@ A complex system has the following characteristics:[^1]
 
 
 ---
-#complex-systems #systems-thinking 
+#complexity #systems #systems-thinking 
 
 see also:
 - [[Scenario Planning envisions the future\|Scenario Planning envisions the future]]

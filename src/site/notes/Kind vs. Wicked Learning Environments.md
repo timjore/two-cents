@@ -29,7 +29,7 @@ from [[References/Range – Epstein (2019)\|Range – Epstein (2019)]]:
 
 
 ---
-#cognition #complex-systems 
+#cognition #complexity #systems 
 
 see also:
 - [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]

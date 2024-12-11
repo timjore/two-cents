@@ -48,7 +48,7 @@ The difference between “wicked” and “hard but ordinary” problems:^[Camil
 10. **The planner has no right to be wrong.** Problem solvers dealing with a wicked issue are held liable for the consequences of any actions they take, because those actions will have such a large impact and are hard to justify.
 
 ---
-#complex-systems #cognition 
+#complexity #systems #cognition 
 
 See also: 
 - [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]: 

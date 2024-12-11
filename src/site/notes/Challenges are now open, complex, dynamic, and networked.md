@@ -31,7 +31,7 @@ Unless organizations recognize the fundamentally different nature of the world t
 
 
 ---
-#strategic #complexity #complex-systems 
+#strategic #complexity #systems 
 
 See also:
 

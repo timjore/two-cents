@@ -12,7 +12,7 @@ The [[Simple rules tame complexity\|simple rules]] that shape effective behavior
 > Flexibility, simplicity and adaptability are foundational rules in movements.[^1]
 
 --- 
-#movements #strategic #complex-systems #networks #missiology 
+#movements #strategic #complexity #systems #networks #missiology 
 
 see also:
 - [[Use of funding for training does not disrupt movements\|Use of funding for training does not disrupt movements]]

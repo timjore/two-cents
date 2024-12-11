@@ -9,7 +9,7 @@ Innovators tend to intentionally develop “perceptual routines” that help the
 > In building a theory of innovation, I talked to dozens of trailblazers. They weren't all super-smart, or artistically inclined, or the product of an unconventional upbringing. But ==all of them had **developed perceptual routines that helped them see beyond the ordinary**—by turning industry dogma on its head, by **amplifying weak signals**, by exploiting competencies and assets, and by tuning in to customer emotions.==[^1]
 
 ---
-#innovation #complex-systems 
+#innovation #complexity #systems 
 
 See also:
 - [[Faint signals are whispers from the future\|Faint signals are whispers from the future]]

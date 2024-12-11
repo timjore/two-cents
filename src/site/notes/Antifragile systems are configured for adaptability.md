@@ -13,7 +13,7 @@ The key to designing antifragile systems is ==linking elements together in ways 
 
 
 ---
-#systems-thinking #complex-systems #antifragility 
+#systems-thinking #complexity #systems #antifragility 
 
 See also:
 - [[Efficiency is purchased by a loss in flexibility\|Efficiency is purchased by a loss in flexibility]]

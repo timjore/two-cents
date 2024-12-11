@@ -10,7 +10,7 @@ The worldwide connectedness of supply chains and travel patterns is a complex sy
 
 > ==Connectivity is the main cause of this complexity.== Globalization is almost always written about in terms of how it operates within the existing order rather than how it creates a new one. Yet ==connectivity is the change emerging from within the system that ultimately changes the system itself==. Its networks are not merely conduits of connections, but the power of the network itself increases exponentially as the number of nodes increases (Metcalfe’s law).[^2]
 ---
-#complex-systems #systems-thinking #networks 
+#complexity #systems #systems-thinking #networks 
 
 See also:
 - [[Metcalfe's Law defines network effects\|Metcalfe's Law defines network effects]]

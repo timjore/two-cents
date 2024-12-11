@@ -13,7 +13,7 @@ Meadows notes the importance of understanding the relationship between structure
 > Once we see the relationship between structure and behavior, we can begin to understand how systems work, what makes them produce poor results, and how to shift them into better behavior patterns…. ==A system is a set of things—people, cells, molecules, or whatever—interconnected in such a way that they produce their own pattern of behavior over time.==[^2]
 
 ---
-#systems-thinking #complex-systems 
+#systems-thinking #complexity #systems 
 
 See also:
 - [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]]

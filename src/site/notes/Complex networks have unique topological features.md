@@ -30,7 +30,7 @@ from [[References/Linked – Barabási, Frangos (2002)\|Linked – Barabási, Fr
 ![nodes-networks.004.jpg|400](/img/user/Attachments/nodes-networks.004.jpg)
 
 ---
-#networks #complex-systems 
+#networks #complexity #systems 
 
 see also: 
 - [[Networks at scale increase the number of links more than nodes\|Networks at scale increase the number of links more than nodes]]

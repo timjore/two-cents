@@ -24,7 +24,7 @@ from [[References/Linked – Barabási, Frangos (2002)\|Linked – Barabási, Fr
 > But **power laws are at the heart of some of the most stunning conceptual advances in the second half of the twentieth century**, emerging in fields like chaos, fractals, and phase transitions. Spotting them in networks signaled unsuspected links to other natural phenomena and **placed networks at the forefront of our understanding of [[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]]** in general. 
 
 ---
-#complex-systems #networks #mathematics 
+#complexity #systems #networks #mathematics 
 
 see also: 
 - [[Complex networks have unique topological features\|Complex networks have unique topological features]] 
