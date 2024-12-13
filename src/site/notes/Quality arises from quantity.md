@@ -28,3 +28,4 @@ source: [[References/Where Good Ideas Come From – Johnson (2011)\|Where Good I
 
 see also:
 - [[Ideaflow is the single most important creative metric\|Ideaflow is the single most important creative metric]]
+- [[Increasing access to the means of production causes a decrease in the average quality of what gets produced\|Increasing access to the means of production causes a decrease in the average quality of what gets produced]]
