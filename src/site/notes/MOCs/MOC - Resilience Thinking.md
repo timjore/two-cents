@@ -15,8 +15,8 @@
 | [[Resilient systems require both specified and general resilience\|Resilient systems require both specified and general resilience]]                         | 9           |
 | [[Complex adaptive systems are unpredictable and non-linear\|Complex adaptive systems are unpredictable and non-linear]]                                     | 8           |
 | [[Resilience is the distance between the system and its nearest threshold\|Resilience is the distance between the system and its nearest threshold]]         | 8           |
-| [[Staging/Tightness of feedback loops affects a system’s resilience\|Tightness of feedback loops affects a system’s resilience]]                             | 7           |
 | [[Modularity of a system affects resilience\|Modularity of a system affects resilience]]                                                                     | 7           |
+| [[Staging/Tightness of feedback loops affects a system’s resilience\|Tightness of feedback loops affects a system’s resilience]]                             | 7           |
 | [[Proximity to a threshold decreases the shock required to cross it\|Proximity to a threshold decreases the shock required to cross it]]                     | 5           |
 | [[All linked adaptive cycles govern the behavior of a system\|All linked adaptive cycles govern the behavior of a system]]                                   | 5           |
 | [[Adaptability is the capacity of actors to manage the resilience of a system\|Adaptability is the capacity of actors to manage the resilience of a system]] | 5           |
