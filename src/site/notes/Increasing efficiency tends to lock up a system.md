@@ -23,4 +23,5 @@ See also:
  - [[Efficiency is purchased by a loss in flexibility\|Efficiency is purchased by a loss in flexibility]]
  - [[Sunk Cost Fallacy\|Sunk Cost Fallacy]]
 
+
 [^1]: These factors are listed in [[References/Resilience Thinking – Walker and Salt (2012)\|Resilience Thinking – Walker and Salt (2012)]], ch. 4, § “Dangers of the Late *K* Phase.”

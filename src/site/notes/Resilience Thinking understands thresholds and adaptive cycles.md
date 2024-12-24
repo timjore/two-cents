@@ -19,7 +19,7 @@ The essence of [[Resilience Thinking embraces the reality that things change\|Re
 
 > The other central theme to a resilience approach is how social-ecological systems change over time— systems dynamics. ==Social-ecological systems are always changing. A useful way to think about this is to conceive of the system moving through four phases: **rapid growth**, **conservation**, **release**, and **reorganization**==—usually, but not always, in that sequence. This is known as the adaptive cycle and these cycles operate over many different scales of time and space. The manner in which they are linked across scales is crucially important for the dynamics of the whole set.[^2]
 
-- [[Staging/Systems of nature tend to follow an adaptive cycle\|Systems of nature tend to follow an adaptive cycle]]
+- [[Systems of nature tend to follow an adaptive cycle\|Systems of nature tend to follow an adaptive cycle]]
 - [[Complex adaptive systems are unpredictable and non-linear\|Complex adaptive systems are unpredictable and non-linear]]
 
 ---
@@ -31,7 +31,7 @@ See also:
  - [[Resilience is the capacity to absorb shocks and retain function\|Resilience is the capacity to absorb shocks and retain function]]
  - [[Resilience is the distance between the system and its nearest threshold\|Resilience is the distance between the system and its nearest threshold]]
  - [[Proximity to a threshold decreases the shock required to cross it\|Proximity to a threshold decreases the shock required to cross it]]
- - [[Staging/Systems of nature tend to follow an adaptive cycle\|Systems of nature tend to follow an adaptive cycle]]
+ - [[Systems of nature tend to follow an adaptive cycle\|Systems of nature tend to follow an adaptive cycle]]
  - [[Complex adaptive systems are unpredictable and non-linear\|Complex adaptive systems are unpredictable and non-linear]]
 
 [^1]: [[References/Resilience Thinking – Walker and Salt (2012)\|Resilience Thinking – Walker and Salt (2012)]], ch. 1, § “A Roadmap to this Book.”

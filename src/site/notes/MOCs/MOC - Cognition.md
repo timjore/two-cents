@@ -53,6 +53,7 @@
 | [[Metaphors form the basis of our ability to think\|Metaphors form the basis of our ability to think]]                                                                                             | 4           |
 | [[Staging/Frozen thinking\|Frozen thinking]]                                                                                                                                                       | 3           |
 | [[Trustworthy vs. Trusted\|Trustworthy vs. Trusted]]                                                                                                                                               | 3           |
+| [[Staging/Processing/B- The Scout Mindset\|B- The Scout Mindset]]                                                                                                                                  | 3           |
 | [[Staging/Abductive Reasoning is inference to the best explanation\|Abductive Reasoning is inference to the best explanation]]                                                                     | 2           |
 | [[Typologies underscore the most characteristic elements of a type\|Typologies underscore the most characteristic elements of a type]]                                                             | 1           |
 | [[Regression to the mean\|Regression to the mean]]                                                                                                                                                 | 1           |

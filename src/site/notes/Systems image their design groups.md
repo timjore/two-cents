@@ -14,7 +14,7 @@ Thus, to the degree that organizational communication is constrained to lines of
 > To the extent that organizational protocol restricts communication along lines of command, ==the communication structure of an organization will resemble its administrative structure==. This is one reason why military-style organizations design systems which look like their organization charts.[^2]
 
 ---
-#systems #communication
+#systems #communication #design 
 
 See also:
  - [[Large systems tend to disintegrate during development\|Large systems tend to disintegrate during development]]
