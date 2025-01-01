@@ -40,6 +40,7 @@ Meaning: as long those in the paradigm only attempt to answer their questions an
 see also:
 - [[Paradigm shifts reconstruct the field from new fundamentals\|Paradigm shifts reconstruct the field from new fundamentals]]
 - [[Scouts frequently update their maps\|Scouts frequently update their maps]]
+- [[Teachers of a tradition tend to resist its correction\|Teachers of a tradition tend to resist its correction]]
 
 [^1]: Recounted in [[References/Taking the Medicine – Burch (2009)\|Taking the Medicine – Burch (2009)]], ch. 3 “Self-confidence and Quinine.” Sentence order modified from the original.
 [^2]: Ibid.

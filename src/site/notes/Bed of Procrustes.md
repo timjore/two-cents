@@ -12,6 +12,6 @@ The [[Paradigms can have phenomenal longevity\|longevity of paradigms]] together
 See also:
 - [[Paradigms can have phenomenal longevity\|Paradigms can have phenomenal longevity]]
 - [[Ambiguity aversion favors the known over the unknown\|Ambiguity aversion favors the known over the unknown]]
-- [[Staging/Paradigms change when they can no longer address anomalies\|Paradigms change when they can no longer address anomalies]]
+- [[Paradigms change when they can no longer address anomalies\|Paradigms change when they can no longer address anomalies]]
 
 [^1]: [[References/Antifragile – Taleb (2012)\|Antifragile – Taleb (2012)]], Book II, § “Modernity and the Denial of Antifragility”

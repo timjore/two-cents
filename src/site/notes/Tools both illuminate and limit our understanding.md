@@ -13,4 +13,4 @@ It is easy to appreciate how a tool increases our ability to see more and unders
 see also:
 - [[Scouts frequently update their maps\|Scouts frequently update their maps]]
 - [[Paradigms can have phenomenal longevity\|Paradigms can have phenomenal longevity]]
-- [[Staging/Paradigms change when they can no longer address anomalies\|Paradigms change when they can no longer address anomalies]]
+- [[Paradigms change when they can no longer address anomalies\|Paradigms change when they can no longer address anomalies]]

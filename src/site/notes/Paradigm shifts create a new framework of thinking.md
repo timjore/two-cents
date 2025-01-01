@@ -9,7 +9,7 @@ Incremental discoveries and breakthroughs in understanding occur within the exis
 > In his classic book *[[References/The Structure of Scientific Revolutions – Kuhn (1962)\|The Structure of Scientific Revolutions]]*, Thomas Kuhn wrote about what he called “paradigm shifts” in science. These are alterations in scientific thinking that represent more than incremental advances. ==They are **alterations of the framework of thinking**==, of the set of shared concepts and assumptions within which scientists do their theorizing (until the next paradigm shift).[^1]
 
 ---
-#paradigms #cognition 
+#paradigms #cognition #nonlinearity 
 
 See also:
 - [[Shifting paradigms requires macroscopic, integrative thinking\|Shifting paradigms requires macroscopic, integrative thinking]]

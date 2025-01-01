@@ -9,7 +9,8 @@ A "Causal Loop Diagram" (CLD) is a tool used in [[Systems Thinking perceives the
 ![Causal Loop Diagrams.png](/img/user/Attachments/Causal%20Loop%20Diagrams.png)
 
 ---
-#systems-thinking 
+#systems-thinking #visual-thinking 
 
 See also:
 - [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]
+- [[]]

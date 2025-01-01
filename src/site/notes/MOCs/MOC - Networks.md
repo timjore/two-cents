@@ -45,13 +45,13 @@ The “rigorous language for the description of networks is found in graph theor
 | [[Staging/Emergence\|Emergence]]                                                                                                                   | 16          |
 | [[Staging/Processing/B- The Starfish and the Spider\|B- The Starfish and the Spider]]                                                              | 14          |
 | [[Power Law distributions\|Power Law distributions]]                                                                                               | 12          |
+| [[Simple rules tame complexity\|Simple rules tame complexity]]                                                                                     | 7           |
 | [[Networks at scale increase the number of links more than nodes\|Networks at scale increase the number of links more than nodes]]                 | 7           |
 | [[Kinds of networks\|Kinds of networks]]                                                                                                           | 7           |
 | [[Staging/Network Hubs\|Network Hubs]]                                                                                                             | 6           |
 | [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]] | 6           |
-| [[Simple rules tame complexity\|Simple rules tame complexity]]                                                                                     | 6           |
-| [[Globalization is a complex system\|Globalization is a complex system]]                                                                           | 5           |
 | [[Metcalfe's Law defines network effects\|Metcalfe's Law defines network effects]]                                                                 | 5           |
+| [[Globalization is a complex system\|Globalization is a complex system]]                                                                           | 5           |
 | [[All-Channel Networks can function without hierarchies\|All-Channel Networks can function without hierarchies]]                                   | 4           |
 
 { .block-language-dataview}
