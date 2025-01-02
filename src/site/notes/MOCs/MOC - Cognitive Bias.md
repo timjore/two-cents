@@ -20,17 +20,17 @@
 | [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                   | 12          |
 | [[Sunk Cost Fallacy\|Sunk Cost Fallacy]]                                                                                                                   | 10          |
 | [[Status quo bias favors the current state\|Status quo bias favors the current state]]                                                                     | 10          |
+| [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]                                                               | 10          |
 | [[Positive Test Strategy reinforces Confirmation Bias\|Positive Test Strategy reinforces Confirmation Bias]]                                               | 9           |
-| [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]                                                               | 9           |
 | [[Ambiguity aversion favors the known over the unknown\|Ambiguity aversion favors the known over the unknown]]                                             | 9           |
+| [[Selection Bias happens when the sample is not representative\|Selection Bias happens when the sample is not representative]]                             | 7           |
 | [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]                                                               | 7           |
-| [[Selection Bias happens when the sample is not representative\|Selection Bias happens when the sample is not representative]]                             | 6           |
+| [[Survivorship bias focuses only on successful examples\|Survivorship bias focuses only on successful examples]]                                           | 6           |
 | [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                     | 5           |
 | [[Complexifying overcomes binary bias\|Complexifying overcomes binary bias]]                                                                               | 5           |
 | [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                               | 4           |
 | [[Staging/Frozen thinking\|Frozen thinking]]                                                                                                               | 3           |
 | [[Bandwagon bias is social proof\|Bandwagon bias is social proof]]                                                                                         | 3           |
 | [[Halo effect is the tendency to like (or dislike) everything about a person\|Halo effect is the tendency to like (or dislike) everything about a person]] | 2           |
-| [[Staging/Survivorship bias focuses only on successful examples\|Survivorship bias focuses only on successful examples]]                                   | 2           |
 
 { .block-language-dataview}

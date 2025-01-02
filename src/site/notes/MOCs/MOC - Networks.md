@@ -53,6 +53,7 @@ The “rigorous language for the description of networks is found in graph theor
 | [[Metcalfe's Law defines network effects\|Metcalfe's Law defines network effects]]                                                                 | 5           |
 | [[Globalization is a complex system\|Globalization is a complex system]]                                                                           | 5           |
 | [[All-Channel Networks can function without hierarchies\|All-Channel Networks can function without hierarchies]]                                   | 4           |
+| [[Scale-free patterns are fractal\|Scale-free patterns are fractal]]                                                                               | 3           |
 
 { .block-language-dataview}
 

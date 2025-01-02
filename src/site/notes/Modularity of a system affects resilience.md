@@ -17,7 +17,8 @@ Modularity “relates to the manner in which the components that make up a syste
 See also:
  - [[General resilience depends on diversity, modularity, and feedbacks\|General resilience depends on diversity, modularity, and feedbacks]]
  - [[Diversity of a system affects resilience\|Diversity of a system affects resilience]]
- - [[Staging/Tightness of feedback loops affects a system’s resilience\|Tightness of feedback loops affects a system’s resilience]]
+ - [[Tightness of feedback loops affects a system’s resilience
+ - [[Black Swan events are rare, impactful, and retrospectively predictable\|Black Swan events are rare, impactful, and retrospectively predictable]]]]
 
 [^1]: [[References/Resilience Thinking – Walker and Salt (2012)\|Resilience Thinking – Walker and Salt (2012)]], ch. 5, § “General and Specified Resilience.”
 [^2]: Ibid.

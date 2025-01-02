@@ -15,11 +15,11 @@
 | [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]                                                                                     | 11          |
 | [[Motivated reasoning is the soldier mindset\|Motivated reasoning is the soldier mindset]]                                                                                                         | 11          |
 | [[Sunk Cost Fallacy\|Sunk Cost Fallacy]]                                                                                                                                                           | 10          |
+| [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]                                                                                                       | 10          |
 | [[Superforecasting is the intersection of range and mindset\|Superforecasting is the intersection of range and mindset]]                                                                           | 9           |
 | [[Shifting paradigms requires macroscopic, integrative thinking\|Shifting paradigms requires macroscopic, integrative thinking]]                                                                   | 9           |
 | [[Listen to the Suck with Curiosity\|Listen to the Suck with Curiosity]]                                                                                                                           | 9           |
 | [[Elastic Thinking is parallel and integrative\|Elastic Thinking is parallel and integrative]]                                                                                                     | 9           |
-| [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]                                                                                                       | 9           |
 | [[Ambiguity aversion favors the known over the unknown\|Ambiguity aversion favors the known over the unknown]]                                                                                     | 9           |
 | [[Paradigm shifts create a new framework of thinking\|Paradigm shifts create a new framework of thinking]]                                                                                         | 9           |
 | [[Staging/First Principles thinking allows you to see the obvious hiding in plain sight\|First Principles thinking allows you to see the obvious hiding in plain sight]]                           | 8           |
@@ -31,9 +31,9 @@
 | [[Staging/First Principles\|First Principles]]                                                                                                                                                     | 7           |
 | [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]                                                                                                       | 7           |
 | [[Fundamental Attribution Error blames others and exonerates me\|Fundamental Attribution Error blames others and exonerates me]]                                                                   | 7           |
+| [[Elastic Thinking can hold two contradictory ideas simultaneously\|Elastic Thinking can hold two contradictory ideas simultaneously]]                                                             | 7           |
 | [[Concept maps are graphical representations of mental models\|Concept maps are graphical representations of mental models]]                                                                       | 7           |
 | [[It is impossible to teach a man what he thinks he already knows\|It is impossible to teach a man what he thinks he already knows]]                                                               | 6           |
-| [[Elastic Thinking can hold two contradictory ideas simultaneously\|Elastic Thinking can hold two contradictory ideas simultaneously]]                                                             | 6           |
 | [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]]                                                                 | 6           |
 | [[Analogical thinking uses a known example to explain something new\|Analogical thinking uses a known example to explain something new]]                                                           | 6           |
 | [[Writing clarifies thinking\|Writing clarifies thinking]]                                                                                                                                         | 5           |
