@@ -17,7 +17,7 @@
 | [[Size Instinct hinders thinking by considering a number without context\|Size Instinct hinders thinking by considering a number without context]]         | 21          |
 | [[Urgency Instinct hinders thinking by exaggerating a decision's urgency\|Urgency Instinct hinders thinking by exaggerating a decision's urgency]]         | 20          |
 | [[Dichotomous thinking simplistically resolves ambiguity\|Dichotomous thinking simplistically resolves ambiguity]]                                         | 14          |
-| [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                   | 12          |
+| [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                   | 13          |
 | [[Sunk Cost Fallacy\|Sunk Cost Fallacy]]                                                                                                                   | 10          |
 | [[Status quo bias favors the current state\|Status quo bias favors the current state]]                                                                     | 10          |
 | [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]                                                               | 10          |
@@ -26,8 +26,10 @@
 | [[Selection Bias happens when the sample is not representative\|Selection Bias happens when the sample is not representative]]                             | 7           |
 | [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]                                                               | 7           |
 | [[Survivorship bias focuses only on successful examples\|Survivorship bias focuses only on successful examples]]                                           | 6           |
-| [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                     | 5           |
+| [[Bias for action can mask a bias against thinking\|Bias for action can mask a bias against thinking]]                                                     | 6           |
+| [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                 | 6           |
 | [[Complexifying overcomes binary bias\|Complexifying overcomes binary bias]]                                                                               | 5           |
+| [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                     | 5           |
 | [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                               | 4           |
 | [[Staging/Frozen thinking\|Frozen thinking]]                                                                                                               | 3           |
 | [[Bandwagon bias is social proof\|Bandwagon bias is social proof]]                                                                                         | 3           |

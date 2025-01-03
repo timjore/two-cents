@@ -10,12 +10,14 @@
 | [[Scouts frequently update their maps\|Scouts frequently update their maps]]                                                                                                                       | 23          |
 | [[Lateral thinking is range in action\|Lateral thinking is range in action]]                                                                                                                       | 18          |
 | [[Staging/Emergence\|Emergence]]                                                                                                                                                                   | 16          |
-| [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                                                           | 12          |
+| [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                                                           | 13          |
 | [[Paradigm shifts reconstruct the field from new fundamentals\|Paradigm shifts reconstruct the field from new fundamentals]]                                                                       | 12          |
+| [[Planning fallacy confuses “best-guess” with “best-case” scenario\|Planning fallacy confuses “best-guess” with “best-case” scenario]]                                                             | 12          |
 | [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]                                                                                     | 11          |
 | [[Motivated reasoning is the soldier mindset\|Motivated reasoning is the soldier mindset]]                                                                                                         | 11          |
 | [[Sunk Cost Fallacy\|Sunk Cost Fallacy]]                                                                                                                                                           | 10          |
 | [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]                                                                                                       | 10          |
+| [[Think slow, act fast is the secret of success\|Think slow, act fast is the secret of success]]                                                                                                   | 10          |
 | [[Superforecasting is the intersection of range and mindset\|Superforecasting is the intersection of range and mindset]]                                                                           | 9           |
 | [[Shifting paradigms requires macroscopic, integrative thinking\|Shifting paradigms requires macroscopic, integrative thinking]]                                                                   | 9           |
 | [[Listen to the Suck with Curiosity\|Listen to the Suck with Curiosity]]                                                                                                                           | 9           |
@@ -36,8 +38,11 @@
 | [[It is impossible to teach a man what he thinks he already knows\|It is impossible to teach a man what he thinks he already knows]]                                                               | 6           |
 | [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]]                                                                 | 6           |
 | [[Analogical thinking uses a known example to explain something new\|Analogical thinking uses a known example to explain something new]]                                                           | 6           |
+| [[Bias for action can mask a bias against thinking\|Bias for action can mask a bias against thinking]]                                                                                             | 6           |
+| [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]                                                                                                       | 6           |
+| [[Staging/Reference-class forecasting overcomes the planning fallacy\|Reference-class forecasting overcomes the planning fallacy]]                                                                 | 6           |
+| [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                                                         | 6           |
 | [[Writing clarifies thinking\|Writing clarifies thinking]]                                                                                                                                         | 5           |
-| [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                                                             | 5           |
 | [[Staging/Paradox Mindset\|Paradox Mindset]]                                                                                                                                                       | 5           |
 | [[Organizations expand when prestige is correlated to budget size\|Organizations expand when prestige is correlated to budget size]]                                                               | 5           |
 | [[Integrative, macroscopic thinking sees the forest and the trees\|Integrative, macroscopic thinking sees the forest and the trees]]                                                               | 5           |
@@ -45,6 +50,7 @@
 | [[Divergent ideas come from the right brain\|Divergent ideas come from the right brain]]                                                                                                           | 5           |
 | [[Tools both illuminate and limit our understanding\|Tools both illuminate and limit our understanding]]                                                                                           | 5           |
 | [[Locking down of a problem leads to frozen thinking\|Locking down of a problem leads to frozen thinking]]                                                                                         | 5           |
+| [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                                                             | 5           |
 | [[The map is not the territory\|The map is not the territory]]                                                                                                                                     | 4           |
 | [[Rough Consensus enables forward progress\|Rough Consensus enables forward progress]]                                                                                                             | 4           |
 | [[Occam's razor leads to first principles thinking\|Occam's razor leads to first principles thinking]]                                                                                             | 4           |
@@ -55,9 +61,9 @@
 | [[Trustworthy vs. Trusted\|Trustworthy vs. Trusted]]                                                                                                                                               | 3           |
 | [[Staging/Processing/B- The Scout Mindset\|B- The Scout Mindset]]                                                                                                                                  | 3           |
 | [[Staging/Frozen thinking\|Frozen thinking]]                                                                                                                                                       | 3           |
+| [[Intuition delivers overly extreme predictions\|Intuition delivers overly extreme predictions]]                                                                                                   | 3           |
 | [[Staging/Abductive Reasoning is inference to the best explanation\|Abductive Reasoning is inference to the best explanation]]                                                                     | 2           |
 | [[Typologies underscore the most characteristic elements of a type\|Typologies underscore the most characteristic elements of a type]]                                                             | 1           |
-| [[Regression to the mean\|Regression to the mean]]                                                                                                                                                 | 1           |
 | [[Post hoc ergo propter hoc\|Post hoc ergo propter hoc]]                                                                                                                                           | 1           |
 
 { .block-language-dataview}
