@@ -19,9 +19,15 @@ An active cultivation of thoughts and ideas across a broad range of topics. Star
 
 ## Maps of Concepts
 
-- [[MOCs/MOC - Cognition\|Cognition]]
-- [[MOCs/MOC - Cognitive Bias\|Cognitive Bias]]
-- [[MOCs/MOC - Resilience Thinking\|Resilience]]
+These provide indices of notes in similar domains:
+- [[MOCs/Cognition\|Cognition]]
+- [[MOCs/Cognitive Bias\|Cognitive Bias]]
+- [[MOCs/Complexity\|Complexity]]
+- [[MOCs/Networks\|Networks]]
+- [[MOCs/Psychology\|Psychology]]
+- [[MOCs/Resilience Thinking\|Resilience Thinking]]
+
+{ .block-language-dataview}
 
 ## About
 

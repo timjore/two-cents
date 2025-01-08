@@ -18,7 +18,7 @@ Kahneman observes:
 
 See also:
  - [[Planning is an active, iterative, learning process\|Planning is an active, iterative, learning process]]
- - [[Staging/Reference-class forecasting overcomes the planning fallacy\|Reference-class forecasting overcomes the planning fallacy]]
+ - [[Reference-class forecasting overcomes the planning fallacy\|Reference-class forecasting overcomes the planning fallacy]]
  - [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]
 
 [^1]: [[References/How Big Things Get Done – Flyvbjerg and Gardner (2023)\|How Big Things Get Done – Flyvbjerg and Gardner (2023)]], ch. 2, § “Hofstadter’s Law.”
