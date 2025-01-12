@@ -5,7 +5,7 @@
 
 # Fostering a discourse shapes behavior
 
-The shared discourse within a group of designers shapes their actions and manner of working. The discourse is composed of [[Staging/Processing/Notes/Exploring themes leads to solutions\|themes]] and [[Staging/Processing/Notes/Creating frames improves cognition\|frames]] and includes “approaches to problems, strategies, particular knowledge, special skills, and a range of possible solutions.”[^1]
+The shared discourse within a group of designers shapes their actions and manner of working. The discourse is composed of [[Exploring themes leads to solutions\|themes]] and [[Creating frames improves cognition\|frames]] and includes “approaches to problems, strategies, particular knowledge, special skills, and a range of possible solutions.”[^1]
 
 > Within professional design practice, the “discourse” contains the practices and thought patterns that underlie the actions of a group of designers, say in a firm. This pattern is deliberate and humanmade, and it is represented in the environment. When we study top design professionals carefully, we notice that ==leading designers **take great care in developing their own discourse that underpins the manner of working** in all the projects in the firm==.
 > …
@@ -18,11 +18,11 @@ It is this range of effectiveness and ability in handling problem situations tha
 #cognition #design 
 
 See also:
-- [[Staging/Processing/Notes/Design practice can address open, complex, dynamic, networked challenges\|Design practice can address open, complex, dynamic, networked challenges]]
-- [[Staging/Processing/Notes/Coevolution simultaneously develops the formulation of and solution to a problem\|Coevolution simultaneously develops the formulation of and solution to a problem]]
-- [[Staging/Processing/Notes/Developing problem situations allows reframing\|Developing problem situations allows reframing]]
-- [[Staging/Processing/Notes/Creating frames improves cognition\|Creating frames improves cognition]]
-- [[Staging/Processing/Notes/Exploring themes leads to solutions\|Exploring themes leads to solutions]]
+- [[Design practice can address open, complex, dynamic, networked challenges\|Design practice can address open, complex, dynamic, networked challenges]]
+- [[Coevolution simultaneously develops the formulation of and solution to a problem\|Coevolution simultaneously develops the formulation of and solution to a problem]]
+- [[Developing problem situations allows reframing\|Developing problem situations allows reframing]]
+- [[Creating frames improves cognition\|Creating frames improves cognition]]
+- [[Exploring themes leads to solutions\|Exploring themes leads to solutions]]
 
 [^1]: [[References/Frame Innovation – Dorst (2015)\|Frame Innovation – Dorst (2015)]], ch. 3, § “Five lessons from design.”
 [^2]: Ibid.

@@ -15,9 +15,9 @@ Is it possible, outside the realm of fiction, to put an idea in someone’s mind
 
 See also:
 - [[People tend to adopt their own ideas\|People tend to adopt their own ideas]]
-- [[Staging/Processing/Notes/Design practice can address open, complex, dynamic, networked challenges\|Design practice can address open, complex, dynamic, networked challenges]]
-- [[Staging/Processing/Notes/Creating frames improves cognition\|Creating frames improves cognition]]
-- [[Staging/Processing/Notes/Developing problem situations allows reframing\|Developing problem situations allows reframing]]
+- [[Design practice can address open, complex, dynamic, networked challenges\|Design practice can address open, complex, dynamic, networked challenges]]
+- [[Creating frames improves cognition\|Creating frames improves cognition]]
+- [[Developing problem situations allows reframing\|Developing problem situations allows reframing]]
 - [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]
 
 [^1]: [[References/Frame Innovation – Dorst (2015)\|Frame Innovation – Dorst (2015)]], ch. 3, § “Five lessons from design.”

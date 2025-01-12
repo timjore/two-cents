@@ -14,7 +14,7 @@ Christopher Nolan’s movie *Inception* explores the “adoption problem”: ==p
 
 See also:
 - [[Creating frames overcomes the adoption problem\|Creating frames overcomes the adoption problem]]
-- [[Staging/Processing/Notes/Developing problem situations allows reframing\|Developing problem situations allows reframing]]
+- [[Developing problem situations allows reframing\|Developing problem situations allows reframing]]
 - [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]
 
 [^1]: [[References/Frame Innovation – Dorst (2015)\|Frame Innovation – Dorst (2015)]], ch. 3, § “Five lessons from design.”

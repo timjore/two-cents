@@ -5,27 +5,18 @@
 
 # Wicked problems are difficult or impossible to solve
 
-A wicked problem is a term used to describe a complex and difficult-to-solve social or societal issue that is ==characterized by a **lack of clear definition**, multiple **interdependent variables**, and a **lack of clear solutions**==. These problems are often the result of the interactions between many different factors and systems, and involve multiple stakeholders with differing values and priorities. As a result, they are difficult to define, measure, and solve.
+A wicked problem is a term used to describe a complex and difficult-to-solve social or societal issue that is ==characterized by a **lack of clear definition**, multiple **interdependent variables**, and a **lack of clear solutions**==.[^1] These problems are often the result of the interactions between many different factors and systems, and involve multiple stakeholders with differing values and priorities. As a result, they are difficult to define, measure, and solve.
 
----
-
-Solving a wicked problem requires a systemic approach that takes into account the interrelatedness of the problem, and involve a diverse set of stakeholders in the problem solving process. Additionally, it often requires a long-term perspective, as well as the ability to adapt to changing circumstances. Wicked problems can not be solved once and for all, but rather need to be managed over time.
-
-The term "wicked problem" was first coined by Horst Rittel and Melvin Webber in the 1970s to describe the challenges of urban planning. They argued that traditional problem-solving methods were not effective in addressing these types of problems because they involve multiple perspectives, are constantly evolving, and are difficult to fully understand. Examples of wicked problems include issues such as poverty, climate change, and healthcare. 
-
-> ==The kinds of problems that planners deal with-societal problems-are inherently different from the problems that scientists and perhaps some classes of engineers deal with. **Planning problems are inherently wicked**.==[^1]
-
----
 
 A wicked problem is a “social or cultural problem that is difficult or impossible to solve for as many as four reasons: 
 - incomplete or contradictory **knowledge**, 
 - the number of **people and opinions** involved, 
 - the **large economic burden**, and 
-- the **interconnected nature** of these problems with *other* problems.“^[Kolko, Jon. “Wicked Problems: Problems Worth Solving.” Stanford Social Innovation Review, March 6, 2012. [https://ssir.org/books/excerpts/entry/wicked_problems_problems_worth_solving](https://ssir.org/books/excerpts/entry/wicked_problems_problems_worth_solving).]
+- the **interconnected nature** of these problems with *other* problems.“^[2]
 
 A wicked problem is “rife with uncertainty, and outside of previous experience, where demanding more data actually became the problem itself.“^[[[Range – Epstein (2019)\|[Range – Epstein (2019)]]] This connects to the concept of [[Kind vs. Wicked Learning Environments\|Kind vs. Wicked Learning Environments]], where a “wicked learning” environment makes learning from previous scenarios impossible, and possibly problematic.
 
-The difference between “wicked” and “hard but ordinary” problems:^[Camillus, John C. “Strategy as a Wicked Problem.” _Harvard Business Review_, May 1, 2008. [https://hbr.org/2008/05/strategy-as-a-wicked-problem](https://hbr.org/2008/05/strategy-as-a-wicked-problem).]
+The difference between “wicked” and “hard but ordinary” problems:^[3]
 
 1. **There is no definitive formulation of a wicked problem.** It’s ==not possible to write a well-defined statement of the problem==, as can be done with an ordinary problem.
 
@@ -55,5 +46,12 @@ See also:
 	- *Experts can exacerbate the problem when moving from a Complicated to a Complex context*
 	- *Complexity = interdependency = dispositional not predictable*
 - [[Kind vs. Wicked Learning Environments\|Kind vs. Wicked Learning Environments]]
+- [[Open problems have unclear or permeable borders\|Open problems have unclear or permeable borders]]
+- [[Challenges are now open, complex, dynamic, and networked\|Challenges are now open, complex, dynamic, and networked]]
+- [[Wicked problems can only be addressed by systems thinking\|Wicked problems can only be addressed by systems thinking]]
+- [[Coevolution simultaneously develops the formulation of and solution to a problem\|Coevolution simultaneously develops the formulation of and solution to a problem]]
 
-[^1]: Rittel, Horst W. J., and Melvin M. Webber. “Dilemmas in a General Theory of Planning.” _Policy Sciences_ 4, no. 2 (1973): 160.
+
+[^1]: “Wicked problems” were first described by Rittel, Horst W. J., and Melvin M. Webber in “Dilemmas in a General Theory of Planning.” _Policy Sciences_ 4, no. 2 (1973): 160.
+[^2]: Kolko, Jon. “Wicked Problems: Problems Worth Solving.” Stanford Social Innovation Review, March 6, 2012. [https://ssir.org/books/excerpts/entry/wicked_problems_problems_worth_solving](https://ssir.org/books/excerpts/entry/wicked_problems_problems_worth_solving).
+[^3]: Cited in Camillus, John C. “Strategy as a Wicked Problem.” _Harvard Business Review_, May 1, 2008. [https://hbr.org/2008/05/strategy-as-a-wicked-problem](https://hbr.org/2008/05/strategy-as-a-wicked-problem).
