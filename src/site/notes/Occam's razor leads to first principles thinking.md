@@ -15,7 +15,7 @@ Generally stated as “the simplest explanation with the fewest variables is mos
 #cognition 
 
 See also:
-- [[Staging/First Principles thinking allows you to see the obvious hiding in plain sight\|First Principles thinking allows you to see the obvious hiding in plain sight]]
+- [[First Principles thinking allows you to see the obvious hiding in plain sight\|First Principles thinking allows you to see the obvious hiding in plain sight]]
 - [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]
 
 [^1]: [[References/Think Like a Rocket Scientist – Varol (2020)\|Think Like a Rocket Scientist – Varol (2020)]] ch. 2 “Reasoning from First Principles”

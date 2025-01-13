@@ -8,6 +8,7 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Creating frames overcomes the adoption problem\|Creating frames overcomes the adoption problem]]                                                                         | 9           |
 | [[Perception is Reality\|Perception is Reality]]                                                                                                                           | 8           |
+| [[Path dependence shapes what we do next\|Path dependence shapes what we do next]]                                                                                         | 8           |
 | [[Behavioral change fails when it requires absolute recantation\|Behavioral change fails when it requires absolute recantation]]                                           | 7           |
 | [[Negativity dominance processes the bad more thoroughly than the good\|Negativity dominance processes the bad more thoroughly than the good]]                             | 7           |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                                 | 7           |

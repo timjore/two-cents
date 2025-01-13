@@ -4,9 +4,7 @@
 
 # All-Channel Networks can function without hierarchies
 
-The all-channel network type is challenging to establish and maintain due to its need for extensive communication, but it offers great potential for collaborative efforts and benefits from the information revolution. Unlike hierarchical structures, this network does not need a central leadership and operates in a decentralized manner, promoting local autonomy and decision-making. To ensure long-term effectiveness, a shared set of principles, interests, and goals is crucial, allowing members to have a unified mindset despite their dispersed nature and diverse tasks, while still allowing for tactical decentralization.
-
-From [[References/Networks and Netwars – Arquilla and Ronfeldt (2001)\|Networks and Netwars – Arquilla and Ronfeldt (2001)]]:
+The all-channel network type is challenging to establish and maintain due to its need for extensive communication, but it offers great potential for collaborative efforts and benefits from the information revolution. Unlike hierarchical structures, ==this network **does not need a central leadership** and operates in a decentralized manner, promoting local autonomy and decision-making==. To ensure long-term effectiveness, a shared set of principles, interests, and goals is crucial, allowing members to have a unified mindset despite their dispersed nature and diverse tasks, while still allowing for tactical decentralization.
 
 > Of the three network types, the all-channel has been the most difficult to organize and sustain, partly because it may require dense communications. But it is the type that gives the network form its new, high potential for collaborative undertakings and that is gaining new strength from the information revolution. ...it does not look like a pyramid. ...Ideally, there is no single, central leadership, command, or headquarters—no precise heart or head that can be targeted. The network as a whole (but not necessarily each node) has little to no hierarchy; there may be multiple leaders. Decision-making and operations are decentralized, allowing for local initiative and autonomy. Thus the design may sometimes appear acephalous (headless), and at other times polycephalous (Hydra-headed).
 >
@@ -16,6 +14,8 @@ From [[References/Networks and Netwars – Arquilla and Ronfeldt (2001)\|Network
 #networks #strategic #decentralization
 
 see also:
-- [[References/Team of Teams – McChrystal, et al. (2015)\|Team of Teams – McChrystal, et al. (2015)]] 
+- [[First Principles thinking allows you to see the obvious hiding in plain sight\|First Principles thinking allows you to see the obvious hiding in plain sight]]
+- [[Simple rules tame complexity\|Simple rules tame complexity]]
+
 
 [^1]: [[References/Networks and Netwars – Arquilla and Ronfeldt (2001)\|Networks and Netwars – Arquilla and Ronfeldt (2001)]], p. 9.

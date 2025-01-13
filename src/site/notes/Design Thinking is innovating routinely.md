@@ -38,7 +38,7 @@ At a high level, the steps involved in the design thinking process are simple:
 #innovation-creativity #design 
 
 See also:
-- [[Staging/First Principles thinking allows you to see the obvious hiding in plain sight\|First Principles thinking allows you to see the obvious hiding in plain sight]]
+- [[First Principles thinking allows you to see the obvious hiding in plain sight\|First Principles thinking allows you to see the obvious hiding in plain sight]]
 - [[Human-centered design is the process of ensuring that people’s actual needs are met\|Human-centered design is the process of ensuring that people’s actual needs are met]]
 - [[Double diamond implements design thinking\|Double diamond implements design thinking]]
 

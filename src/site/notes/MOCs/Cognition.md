@@ -6,11 +6,12 @@
 
 | File                                                                                                                                                                                                  | Total Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]]                                   | 30          |
+| [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]]                                   | 31          |
 | [[Scouts frequently update their maps\|Scouts frequently update their maps]]                                                                                                                       | 23          |
 | [[Lateral thinking is range in action\|Lateral thinking is range in action]]                                                                                                                       | 18          |
 | [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]                                                                                     | 18          |
 | [[Creating frames improves cognition\|Creating frames improves cognition]]                                                                                                                         | 16          |
+| [[First Principles thinking allows you to see the obvious hiding in plain sight\|First Principles thinking allows you to see the obvious hiding in plain sight]]                                   | 16          |
 | [[Fostering a discourse shapes behavior\|Fostering a discourse shapes behavior]]                                                                                                                   | 15          |
 | [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                                                           | 13          |
 | [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]                                                                                                       | 12          |
@@ -30,6 +31,7 @@
 | [[It is difficult to make someone understand what their salary depends on them not understanding\|It is difficult to make someone understand what their salary depends on them not understanding]] | 8           |
 | [[Near misses lead to taking unwise risks\|Near misses lead to taking unwise risks]]                                                                                                               | 8           |
 | [[Reference-class forecasting overcomes the planning fallacy\|Reference-class forecasting overcomes the planning fallacy]]                                                                         | 8           |
+| [[Path dependence shapes what we do next\|Path dependence shapes what we do next]]                                                                                                                 | 8           |
 | [[Concept maps are graphical representations of mental models\|Concept maps are graphical representations of mental models]]                                                                       | 7           |
 | [[Elastic Thinking can hold two contradictory ideas simultaneously\|Elastic Thinking can hold two contradictory ideas simultaneously]]                                                             | 7           |
 | [[Fundamental Attribution Error blames others and exonerates me\|Fundamental Attribution Error blames others and exonerates me]]                                                                   | 7           |

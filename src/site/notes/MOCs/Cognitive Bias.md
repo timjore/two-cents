@@ -19,7 +19,7 @@
 | [[Dichotomous thinking simplistically resolves ambiguity\|Dichotomous thinking simplistically resolves ambiguity]]                                         | 14          |
 | [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                   | 13          |
 | [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]                                                               | 12          |
-| [[Status quo bias favors the current state\|Status quo bias favors the current state]]                                                                     | 10          |
+| [[Status quo bias favors the current state\|Status quo bias favors the current state]]                                                                     | 12          |
 | [[Sunk Cost Fallacy\|Sunk Cost Fallacy]]                                                                                                                   | 10          |
 | [[Ambiguity aversion favors the known over the unknown\|Ambiguity aversion favors the known over the unknown]]                                             | 9           |
 | [[Positive Test Strategy reinforces Confirmation Bias\|Positive Test Strategy reinforces Confirmation Bias]]                                               | 9           |

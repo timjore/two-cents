@@ -43,13 +43,13 @@ The “rigorous language for the description of networks is found in graph theor
 | [[Complex networks have unique topological features\|Complex networks have unique topological features]]                                           | 18          |
 | [[Liquid Networks foster innovation\|Liquid Networks foster innovation]]                                                                           | 17          |
 | [[Power Law distributions\|Power Law distributions]]                                                                                               | 12          |
+| [[Simple rules tame complexity\|Simple rules tame complexity]]                                                                                     | 9           |
 | [[Kinds of networks\|Kinds of networks]]                                                                                                           | 7           |
 | [[Networks at scale increase the number of links more than nodes\|Networks at scale increase the number of links more than nodes]]                 | 7           |
-| [[Simple rules tame complexity\|Simple rules tame complexity]]                                                                                     | 7           |
 | [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]] | 6           |
+| [[All-Channel Networks can function without hierarchies\|All-Channel Networks can function without hierarchies]]                                   | 5           |
 | [[Globalization is a complex system\|Globalization is a complex system]]                                                                           | 5           |
 | [[Metcalfe's Law defines network effects\|Metcalfe's Law defines network effects]]                                                                 | 5           |
-| [[All-Channel Networks can function without hierarchies\|All-Channel Networks can function without hierarchies]]                                   | 4           |
 | [[Scale-free patterns are fractal\|Scale-free patterns are fractal]]                                                                               | 3           |
 
 { .block-language-dataview}

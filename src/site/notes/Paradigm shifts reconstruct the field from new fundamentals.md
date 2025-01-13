@@ -30,7 +30,7 @@ The reconstruction of the field from new fundamentals can be a messy and content
 #cognition #paradigms 
 
 See also:
-- [[Staging/First Principles thinking allows you to see the obvious hiding in plain sight\|First Principles thinking allows you to see the obvious hiding in plain sight]] 
+- [[First Principles thinking allows you to see the obvious hiding in plain sight\|First Principles thinking allows you to see the obvious hiding in plain sight]] 
 - [[Paradigms can have phenomenal longevity\|Paradigms can have phenomenal longevity]]
 - [[Staging/Old theological paradigms live on\|Old theological paradigms live on]]
 
