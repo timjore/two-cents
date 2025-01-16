@@ -7,7 +7,7 @@
 | File                                                                                                                                                                          | Total Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Creating frames overcomes the adoption problem\|Creating frames overcomes the adoption problem]]                                                                         | 9           |
-| [[Perception is Reality\|Perception is Reality]]                                                                                                                           | 8           |
+| [[Perception is Reality\|Perception is Reality]]                                                                                                                           | 9           |
 | [[Path dependence shapes what we do next\|Path dependence shapes what we do next]]                                                                                         | 8           |
 | [[Behavioral change fails when it requires absolute recantation\|Behavioral change fails when it requires absolute recantation]]                                           | 7           |
 | [[Negativity dominance processes the bad more thoroughly than the good\|Negativity dominance processes the bad more thoroughly than the good]]                             | 7           |

@@ -10,7 +10,7 @@ Once the “field” in which a problem exists has been identified, frame creati
 > In theme analysis, ==we identify and seek to understand the deeper factors that underlie the needs, motivation, and experiences== of the “players” in this wider field. A theme analysis ends with ==an understanding of the “universals,” a selection of **themes that are relevant to the problem situation on the deeper level at which players in the field have much in common**==. Because these universals are hidden beneath the surface of our everyday (professional) lives, it can be quite difficult to make them explicit.[^1]
 
 ---
-#design #innovation-creativity 
+#design #innovation-creativity #frame-innovation 
 
 The [[Frame creation resolves complex problems in nine steps\|nine steps]] of frame creation:
 1. [[Frame creation begins with investigation\|Archaeology]] – Investigate who has already tried what to solve the problem.

@@ -16,7 +16,7 @@ Design expertise can be considered as seven general “levels” of design exper
 7. **Visionary designer** (redefining the field) – Is explicitly aimed at redefining his or her design field. Visionaries express their radical ideas in design concepts, exhibitions, and publications rather than in finished designs.
 
 ---
-#design #innovation 
+#design #innovation #frame-innovation 
 
 See also:
 - [[Design practice can address open, complex, dynamic, networked challenges\|Design practice can address open, complex, dynamic, networked challenges]]

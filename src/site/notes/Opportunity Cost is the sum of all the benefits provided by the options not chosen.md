@@ -20,6 +20,6 @@ Schwartz provides this example:
 #strategic #psychology 
 
 See also:
-- [[Sunk Cost Fallacy\|Sunk Cost Fallacy]]
+- [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]]
 
 [^1]: [[References/The Paradox of Choice – Schwartz (2009)\|The Paradox of Choice – Schwartz (2009)]]

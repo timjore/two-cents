@@ -24,7 +24,7 @@ See also:
 - [[Course-correcting early and often\|Course-correcting early and often]]
 - [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]
 - [[Motivated reasoning is the soldier mindset\|Motivated reasoning is the soldier mindset]]
-- [[Sunk Cost Fallacy\|Sunk Cost Fallacy]]
+- [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]]
 
 [^1]: [[References/Loonshots – Bahcall (2019)\|Loonshots – Bahcall (2019)]], ch. 2, § “LSC: Listen to the Suck with Curiosity.”
 [^2]: Ibid.

@@ -8,7 +8,7 @@
 Once we understand how the problem came into existence, as well as the core paradox that prevents the problem’s owner from resolving it, the frame creation process moves on to “an exploration of ==the practices of the inner circle of key stakeholders who have been involved in the problem situation== before, or those who are clearly going to be ==necessary participants in any possible solution==. By carefully examining them, we seek out significant influences on their behavior and what strategies they currently employ. In this way, ==we gain a sense of practices and scenarios that could become part of the solution==.[^1]
 
 ---
-#design #innovation-creativity 
+#design #innovation-creativity #frame-innovation 
 
 The [[Frame creation resolves complex problems in nine steps\|nine steps]] of frame creation:
 1. [[Frame creation begins with investigation\|Archaeology]] – Investigate who has already tried what to solve the problem.

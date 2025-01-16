@@ -10,7 +10,7 @@ As frames are discovered that promise fruitful results, designers develop plans 
 > The next step is a ==critical evaluation of what frames and solution directions would be feasible in the short term, or can be established gradually over a longer period of time==. Here the representation of ideas becomes important as a means to explore their merit in conversations with parties in the field. … At this point we also grudgingly have to ==weed out frames and ideas that may be great in themselves, but whose implementation would require huge changes in the practices of a stakeholder who has very little to gain==. These frames need to go because they will never happen. This step results in ==a “business plan” accompanied by a **transformation agenda** and a **strategy** for achieving results==.[^1]
 
 ---
-#design #innovation-creativity 
+#design #innovation-creativity #frame-innovation 
 
 The [[Frame creation resolves complex problems in nine steps\|nine steps]] of frame creation:
 1. [[Frame creation begins with investigation\|Archaeology]] – Investigate who has already tried what to solve the problem.

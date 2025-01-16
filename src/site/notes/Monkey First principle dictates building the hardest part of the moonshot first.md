@@ -4,7 +4,7 @@
 
 # Monkey First principle dictates building the hardest part of the moonshot first
 
-==Tackle the **most difficult issue first.**==[^1] If an innovative idea has a single point of failure that, by definition, will cause the entire venture to fail with it, validating the solution to that single point of failure should be the first priority of the innovators. This minimizes the possibility of getting caught in the [[Sunk Cost Fallacy\|Sunk Cost Fallacy]] that would otherwise be likely to occur in proportion to the amount of resources invested in solving the easier issues first.[^2]
+==Tackle the **most difficult issue first.**==[^1] If an innovative idea has a single point of failure that, by definition, will cause the entire venture to fail with it, validating the solution to that single point of failure should be the first priority of the innovators. This minimizes the possibility of getting caught in the [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]] that would otherwise be likely to occur in proportion to the amount of resources invested in solving the easier issues first.[^2]
 
 In *[[References/Think Like a Rocket Scientist – Varol (2020)\|Think Like a Rocket Scientist]]*, Varol explains:
 

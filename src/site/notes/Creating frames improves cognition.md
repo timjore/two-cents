@@ -19,7 +19,7 @@ Useful frames are carefully designed to achieve the following:[^2]
 
 
 ---
-#cognition #strategic 
+#cognition #strategic #frame-innovation 
 
 See also:
 - [[Design practice can address open, complex, dynamic, networked challenges\|Design practice can address open, complex, dynamic, networked challenges]]

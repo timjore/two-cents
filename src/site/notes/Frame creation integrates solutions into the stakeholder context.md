@@ -11,7 +11,7 @@ The plans, agendas, and strategies developed in the [[Frame creation develops a 
 
 
 ---
-
+#frame-innovation #design 
 
 The [[Frame creation resolves complex problems in nine steps\|nine steps]] of frame creation:
 1. [[Frame creation begins with investigation\|Archaeology]] – Investigate who has already tried what to solve the problem.

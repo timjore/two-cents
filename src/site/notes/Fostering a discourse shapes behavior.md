@@ -15,7 +15,7 @@ It is this range of effectiveness and ability in handling problem situations tha
 
 
 ---
-#cognition #design 
+#cognition #design #frame-innovation 
 
 See also:
 - [[Design practice can address open, complex, dynamic, networked challenges\|Design practice can address open, complex, dynamic, networked challenges]]

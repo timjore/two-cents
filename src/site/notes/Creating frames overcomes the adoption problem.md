@@ -11,7 +11,7 @@ Is it possible, outside the realm of fiction, to put an idea in someone’s mind
 
 
 ---
-#cognition #psychology #design 
+#cognition #psychology #design #frame-innovation 
 
 See also:
 - [[People tend to adopt their own ideas\|People tend to adopt their own ideas]]

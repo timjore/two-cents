@@ -7,9 +7,9 @@
   
 _How do we make our ideas clear?_ 
 
-> **We must ==explain our ideas in terms of human actions, in terms of sensory information==**. This is where so much business communication goes awry. Mission statements, synergies, strategies, visions are often ambiguous to the point of being meaningless. ==Naturally sticky ideas are **full of concrete images==**—ice-filled bathtubs, apples with razors—because our brains are wired to remember concrete data. In proverbs, abstract truths are often encoded in concrete language: “A bird in hand is worth two in the bush.” **Speaking concretely is the only way to ==ensure that our idea will mean the same thing to everyone in our audience==.**  
+> **We must ==explain our ideas in terms of human actions, in terms of sensory information==**. This is where so much business communication goes awry. Mission statements, synergies, strategies, visions are often ambiguous to the point of being meaningless. ==Naturally sticky ideas are **full of concrete images==**—ice-filled bathtubs, apples with razors—because our brains are wired to remember concrete data. In proverbs, abstract truths are often encoded in concrete language: “A bird in hand is worth two in the bush.” **Speaking concretely is the only way to ==ensure that our idea will mean the same thing to everyone in our audience==.** [^1]
 
-Good communication ==helps people **understand and remember**== (**write like a fable, concretize abstractions, provide context, put people into the story, add hooks to the story**), then ==**coordinate** action== (**find common ground, set common goals, make it real, make it possible for people to apply their knowledge**).
+Good communication ==helps people **understand and remember**== (**write like a fable, concretize abstractions, provide context, put people into the story, add hooks to the story**), then ==**coordinate** action== (**find common ground, set common goals, make it real, make it possible for people to apply their knowledge**).[^2]
 
 ---
 #communication 

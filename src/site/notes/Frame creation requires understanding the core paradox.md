@@ -9,7 +9,7 @@ After [[Frame creation begins with investigation\|Archaeology]], in which we dis
 
 
 ---
-#design #innovation-creativity 
+#design #innovation-creativity #frame-innovation 
 
 The [[Frame creation resolves complex problems in nine steps\|nine steps]] of frame creation:
 1. [[Frame creation begins with investigation\|Archaeology]] – Investigate who has already tried what to solve the problem.

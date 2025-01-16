@@ -10,7 +10,7 @@ Creative solutions to [[Challenges are now open, complex, dynamic, and networked
 > \[A\] creative event occurs ==when a bridge is built between the **problem space** and the **solution space** by the identification of a **key concept**==. Empirical research confirms that expert design involves ==a period of exploration in which problem and solution spaces are unstable until (temporarily) fixed by an emergent bridge which identifies, or frames, a problem-solution pairing==. Studies of expert and master designers suggest that this framing ability is crucial to high-level design. Ideas can be described as the moments when there is a sudden “click” between a view of the problem and a possible solution.[^1]
 
 ---
-#design #innovation-creativity #emergence 
+#design #innovation-creativity #emergence #frame-innovation 
 
 See also:
 - [[Coevolution simultaneously develops the formulation of and solution to a problem\|Coevolution simultaneously develops the formulation of and solution to a problem]]

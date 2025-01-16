@@ -14,7 +14,7 @@ Expert designers develop an intuition of the likelihood of a frame proving to be
 > Experts tend to talk about this process of proposing and trying out frame ideas in terms of “fruitfulness”: will a frame steer us in a promising direction, allowing us to generate multiple sensible solutions or not? ==Experts with years of experience will have built up an acute intuition about which frames will be fruitful and lead to results and which will not.== Without this kind of experience and gut feeling, the exploration of future scenarios can be very time-consuming. In parallel with the development of these ideas, we also need to develop a fledgling version of the value proposition for all of the parties involved. A frame and the solution ideas it generates are only as good as the interest and commitment they spark in the parties who are needed to implement them.[^2]
 
 ---
-#design #innovation-creativity 
+#design #innovation-creativity #frame-innovation 
 
 The [[Frame creation resolves complex problems in nine steps\|nine steps]] of frame creation:
 1. [[Frame creation begins with investigation\|Archaeology]] – Investigate who has already tried what to solve the problem.

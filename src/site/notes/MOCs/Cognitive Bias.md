@@ -16,11 +16,11 @@
 | [[Gap Instinct hinders thinking by ignoring the middle majority\|Gap Instinct hinders thinking by ignoring the middle majority]]                           | 22          |
 | [[Size Instinct hinders thinking by considering a number without context\|Size Instinct hinders thinking by considering a number without context]]         | 21          |
 | [[Urgency Instinct hinders thinking by exaggerating a decision's urgency\|Urgency Instinct hinders thinking by exaggerating a decision's urgency]]         | 20          |
-| [[Dichotomous thinking simplistically resolves ambiguity\|Dichotomous thinking simplistically resolves ambiguity]]                                         | 14          |
-| [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                   | 13          |
+| [[Dichotomous thinking simplistically resolves ambiguity\|Dichotomous thinking simplistically resolves ambiguity]]                                         | 15          |
+| [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                   | 14          |
 | [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]                                                               | 12          |
 | [[Status quo bias favors the current state\|Status quo bias favors the current state]]                                                                     | 12          |
-| [[Sunk Cost Fallacy\|Sunk Cost Fallacy]]                                                                                                                   | 10          |
+| [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]]                                                                         | 10          |
 | [[Ambiguity aversion favors the known over the unknown\|Ambiguity aversion favors the known over the unknown]]                                             | 9           |
 | [[Positive Test Strategy reinforces Confirmation Bias\|Positive Test Strategy reinforces Confirmation Bias]]                                               | 9           |
 | [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]                                                               | 7           |

@@ -9,7 +9,7 @@ The first step of the frame creation process is to “investigate in depth the a
 
 
 ---
-#design #innovation-creativity 
+#design #innovation-creativity #frame-innovation 
 
 The [[Frame creation resolves complex problems in nine steps\|nine steps]] of frame creation:
 1. **Archaeology** – Investigate who has already tried what to solve the problem.

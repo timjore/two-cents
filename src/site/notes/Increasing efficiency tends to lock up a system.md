@@ -21,7 +21,7 @@ After experiencing rapid growth, a complex adaptive system tends to shift into t
 
 See also:
  - [[Efficiency is purchased by a loss in flexibility\|Efficiency is purchased by a loss in flexibility]]
- - [[Sunk Cost Fallacy\|Sunk Cost Fallacy]]
+ - [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]]
 
 
 [^1]: These factors are listed in [[References/Resilience Thinking – Walker and Salt (2012)\|Resilience Thinking – Walker and Salt (2012)]], ch. 4, § “Dangers of the Late *K* Phase.”

@@ -24,7 +24,7 @@ Schwartz observes that the near miss of a silver medalist leads them to be less 
 See also:
 - [[Black Swan events are rare, impactful, and retrospectively predictable\|Black Swan events are rare, impactful, and retrospectively predictable]]
 - [[Faint signals are whispers from the future\|Faint signals are whispers from the future]]
-- [[Sunk Cost Fallacy\|Sunk Cost Fallacy]]
+- [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]]
  
 
 [^1]: [[References/Think Like a Rocket Scientist – Varol (2020)\|Think Like a Rocket Scientist – Varol (2020)]], ch. 9, § “Near Misses”

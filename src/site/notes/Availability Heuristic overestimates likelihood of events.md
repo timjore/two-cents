@@ -11,7 +11,7 @@ The availability heuristic is ==the tendency to overestimate the likelihood of e
 
 > The availability heuristic, like other heuristics of judgment, ==**substitutes one question for another**: you wish to estimate the size of a category or the frequency of an event, but you report an impression of the ease with which instances come to mind==.[^1]  
 
-Some sub-examples of the availability heuristic include the [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]] and [[Sunk Cost Fallacy\|Sunk Cost Fallacy]]. 
+Some sub-examples of the availability heuristic include the [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Effect]] and [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy]]. 
 
 -----
 #cognition #bias 
@@ -19,7 +19,7 @@ Some sub-examples of the availability heuristic include the [[Anchoring Bias pul
 See also:
 - [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]
 - [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]
-- [[Sunk Cost Fallacy\|Sunk Cost Fallacy]]
+- [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]]
 
 
 [^1]: [[References/Thinking, Fast and Slow – Kahneman (2013)\|Thinking, Fast and Slow – Kahneman (2013)]]

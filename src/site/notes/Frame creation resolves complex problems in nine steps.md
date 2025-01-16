@@ -20,7 +20,7 @@ Dorst suggests that “the five problem-focused design practices … ([[Coevolut
 > In the frame creation process, ==the oscillation between analysis and creation== that is central to creative design practice ==is intimately combined with a movement of zooming in and out== (from detail to abstraction and back again) ==and a shift in focus from an understanding of the core problem situation to widening the context, then to refocusing on the problem within a broadened field==. Central to these movements is the fifth step, where a kind of design-phenomenological analysis leads to the basic themes from which new frames can be created.[^2]
 
 ---
-#innovation-creativity #design #complexity 
+#innovation-creativity #design #complexity #frame-innovation 
 
 See also:
 - [[Challenges are now open, complex, dynamic, and networked\|Challenges are now open, complex, dynamic, and networked]]

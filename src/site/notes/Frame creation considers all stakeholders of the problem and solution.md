@@ -10,7 +10,7 @@ Once the problem is understood (both its essential nature and how it came into e
 > Once a reasonably complete overview is achieved (when there is saturation), we leave the inner circle of stakeholders alone and begin to radically widen the context, creating an intellectual, cultural, and social space we will here call a “field” … in the sense of a very wide social and intellectual space. By creating a field, ==we consider all (potential) players, including anyone who might be connected to the problem or the solution at some point in time==—actively or passively, just by exuding some influence. In mapping the field of players, we concentrate on their “currency,” power, interests, values, and in particular the practices and frames they bring that could push the problem in a new direction. Importantly, our exploration of the field ==focuses on the deeper, universal values that will inform the formulation of themes== in the next step of the frame creation process. By stepping back, we will see deeper patterns emerge, bringing to light areas where shared underlying values could lead to a new and promising direction.[^1]
 
 ---
-#design #innovation-creativity 
+#design #innovation-creativity #frame-innovation 
 
 The [[Frame creation resolves complex problems in nine steps\|nine steps]] of frame creation:
 1. [[Frame creation begins with investigation\|Archaeology]] – Investigate who has already tried what to solve the problem.
