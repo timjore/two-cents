@@ -15,6 +15,7 @@ Frame creation begins with deep questioning of the initial problem situation, wh
 
 See also:
 - [[Frame creation is composed of ten principles\|Frame creation is composed of ten principles]]
+- [[Intuition is pattern recognition\|Intuition is pattern recognition]]
 - [[Specialization tends to reduce range\|Specialization tends to reduce range]]
 - [[Compartmentalization blinds you to new possibilities\|Compartmentalization blinds you to new possibilities]]
 

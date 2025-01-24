@@ -29,7 +29,7 @@ See also:
 - [[Exploring themes leads to solutions\|Exploring themes leads to solutions]]
 - [[Fostering a discourse shapes behavior\|Fostering a discourse shapes behavior]]
 - [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]
-- [[Kind vs. Wicked Learning Environments\|Kind vs. Wicked Learning Environments]]
+- [[Wicked learning environments prevent learning\|Wicked learning environments prevent learning]]
 
 [^1]: [[References/Frame Innovation – Dorst (2015)\|Frame Innovation – Dorst (2015)]], ch. 3, § “Five lessons from design.” 
 [^2]: Ibid.

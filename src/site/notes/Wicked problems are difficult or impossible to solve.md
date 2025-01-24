@@ -14,7 +14,7 @@ A wicked problem is a “social or cultural problem that is difficult or impossi
 - the **large economic burden**, and 
 - the **interconnected nature** of these problems with *other* problems.“^[2]
 
-A wicked problem is “rife with uncertainty, and outside of previous experience, where demanding more data actually became the problem itself.“^[[[Range – Epstein (2019)\|[Range – Epstein (2019)]]] This connects to the concept of [[Kind vs. Wicked Learning Environments\|Kind vs. Wicked Learning Environments]], where a “wicked learning” environment makes learning from previous scenarios impossible, and possibly problematic.
+A wicked problem is “rife with uncertainty, and outside of previous experience, where demanding more data actually became the problem itself.“^[[[Range – Epstein (2019)\|[Range – Epstein (2019)]]] This connects to the concept of [[Wicked learning environments prevent learning\|Wicked learning environments prevent learning]], where a “wicked learning” environment makes learning from previous scenarios impossible, and possibly problematic.
 
 The difference between “wicked” and “hard but ordinary” problems:^[3]
 
@@ -45,7 +45,7 @@ See also:
 - [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]: 
 	- *Experts can exacerbate the problem when moving from a Complicated to a Complex context*
 	- *Complexity = interdependency = dispositional not predictable*
-- [[Kind vs. Wicked Learning Environments\|Kind vs. Wicked Learning Environments]]
+- [[Wicked learning environments prevent learning\|Wicked learning environments prevent learning]]
 - [[Open problems have unclear or permeable borders\|Open problems have unclear or permeable borders]]
 - [[Challenges are now open, complex, dynamic, and networked\|Challenges are now open, complex, dynamic, and networked]]
 - [[Wicked problems can only be addressed by systems thinking\|Wicked problems can only be addressed by systems thinking]]

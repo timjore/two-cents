@@ -6,15 +6,17 @@
 
 | File                                                                                                                                                                          | Total Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Perception is Reality\|Perception is Reality]]                                                                                                                           | 10          |
 | [[Creating frames overcomes the adoption problem\|Creating frames overcomes the adoption problem]]                                                                         | 9           |
-| [[Perception is Reality\|Perception is Reality]]                                                                                                                           | 9           |
+| [[Intuition is pattern recognition\|Intuition is pattern recognition]]                                                                                                     | 9           |
+| [[Behavioral change fails when it requires absolute recantation\|Behavioral change fails when it requires absolute recantation]]                                           | 8           |
 | [[Path dependence shapes what we do next\|Path dependence shapes what we do next]]                                                                                         | 8           |
-| [[Behavioral change fails when it requires absolute recantation\|Behavioral change fails when it requires absolute recantation]]                                           | 7           |
 | [[Negativity dominance processes the bad more thoroughly than the good\|Negativity dominance processes the bad more thoroughly than the good]]                             | 7           |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                                 | 7           |
+| [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                                 | 6           |
 | [[Loss aversion values avoiding losses more than achieving gains\|Loss aversion values avoiding losses more than achieving gains]]                                         | 6           |
-| [[People tend to adopt their own ideas\|People tend to adopt their own ideas]]                                                                                             | 6           |
-| [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                                 | 4           |
+| [[Pattern recognition primes decision-making\|Pattern recognition primes decision-making]]                                                                                 | 6           |
+| [[People tend to adopt their own ideas\|People tend to adopt their own ideas]]                                                                                             | 5           |
 | [[Psychological Safety is a prerequisite for creativity\|Psychological Safety is a prerequisite for creativity]]                                                           | 4           |
 | [[Between stimulus and response, man has the freedom to choose\|Between stimulus and response, man has the freedom to choose]]                                             | 3           |
 | [[What others do is the stimulus, not the cause, of feelings\|What others do is the stimulus, not the cause, of feelings]]                                                 | 3           |
