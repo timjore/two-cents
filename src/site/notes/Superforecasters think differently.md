@@ -89,6 +89,6 @@ See also:
 - [[Strategic forecasting guides decision-making and catalyzes innovation\|Strategic forecasting guides decision-making and catalyzes innovation]]
 
 [^1]: See: [[References/Factfulness – Rosling, et al. (2018)\|Factfulness – Rosling, et al. (2018)]], [[References/Thinking, Fast and Slow – Kahneman (2013)\|Thinking, Fast and Slow – Kahneman (2013)]]
-[^2]: See: [[Staging/Growth mindset sees failure as learning\|Growth mindset sees failure as learning]]
+[^2]: See: [[Growth mindset reframes failure as learning\|Growth mindset reframes failure as learning]]
 [^3]: See: [[Staging/Grit leads to mastery\|Grit leads to mastery]]
 [^4]: From [[References/Superforecasting – Tetlock, Gardner (2015)\|Superforecasting – Tetlock, Gardner (2015)]]

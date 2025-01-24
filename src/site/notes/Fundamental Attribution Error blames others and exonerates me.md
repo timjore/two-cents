@@ -10,9 +10,7 @@ Application: *When others fail, it is because they are losers. When I fail, it i
 
 ---
 
-From [[References/Switch – Heath and Heath (2010)\|Switch – Heath and Heath (2010)]]: 
-
-> In a famous article, Stanford psychologist Lee Ross surveyed dozens of studies in psychology and noted that people have ==a systematic tendency to ignore the situational forces that shape other people’s behavior==. He called this deep-rooted tendency the “Fundamental Attribution Error.” The error lies in our inclination to attribute people’s behavior to the way they are rather than to the situation they are in.
+> In a famous article, Stanford psychologist Lee Ross surveyed dozens of studies in psychology and noted that people have ==a systematic tendency to ignore the situational forces that shape other people’s behavior==. He called this deep-rooted tendency the “Fundamental Attribution Error.” The error lies in our inclination to attribute people’s behavior to the way they are rather than to the situation they are in.[^1]
 
 From [[References/The Tyranny of Experts – Easterly (2014)\|The Tyranny of Experts – Easterly (2014)]]:  
 
@@ -23,3 +21,5 @@ From [[References/The Tyranny of Experts – Easterly (2014)\|The Tyranny of Exp
 
 See also:
 - [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]
+
+[^1]: [[References/Switch – Heath and Heath (2010)\|Switch – Heath and Heath (2010)]], ch. 8, 185.

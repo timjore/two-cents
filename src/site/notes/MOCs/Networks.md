@@ -43,7 +43,7 @@ The “rigorous language for the description of networks is found in graph theor
 | [[Complex networks have unique topological features\|Complex networks have unique topological features]]                                           | 18          |
 | [[Liquid Networks foster innovation\|Liquid Networks foster innovation]]                                                                           | 17          |
 | [[Power Law distributions\|Power Law distributions]]                                                                                               | 12          |
-| [[Simple rules tame complexity\|Simple rules tame complexity]]                                                                                     | 10          |
+| [[Simple rules tame complexity\|Simple rules tame complexity]]                                                                                     | 11          |
 | [[Kinds of networks\|Kinds of networks]]                                                                                                           | 7           |
 | [[Networks at scale increase the number of links more than nodes\|Networks at scale increase the number of links more than nodes]]                 | 7           |
 | [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]] | 6           |

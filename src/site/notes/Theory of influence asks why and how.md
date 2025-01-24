@@ -16,7 +16,7 @@ Anyone who attempts to influence someone to act differently has a theory of infl
 #change-management #influence 
 
 See also:
- - [[Staging/Processing/Switch/Changing things requires directing the Rider and motivating the Elephant\|Changing things requires directing the Rider and motivating the Elephant]]
+ - [[Changing things requires directing the Rider and motivating the Elephant\|Changing things requires directing the Rider and motivating the Elephant]]
  - [[Changing things happens in the opposite direction\|Changing things happens in the opposite direction]]
  - [[Change efforts are undermined by three measurement mistakes\|Change efforts are undermined by three measurement mistakes]]
 

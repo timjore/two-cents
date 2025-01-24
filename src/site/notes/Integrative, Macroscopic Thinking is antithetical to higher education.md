@@ -21,4 +21,4 @@ see also:
 - [[Strategic forecasting guides decision-making and catalyzes innovation\|Strategic forecasting guides decision-making and catalyzes innovation]]
 
 [^1]: [[References/The Checklist Manifesto – Gawande (2009)\|The Checklist Manifesto – Gawande (2009)]], ch. 1.
-[^2]: [[References/Abundance – Diamandis and Kotler (2012)\|Abundance – Diamandis and Kotler (2012)]], ch.5, § “Singularity University”
+[^2]: [[References/Abundance – Diamandis and Kotler (2012)\|Abundance – Diamandis and Kotler (2012)]], ch.5, § “Singularity University.”
