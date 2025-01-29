@@ -25,6 +25,7 @@ These provide indices of notes in similar domains:
 - [[MOCs/Complexity\|Complexity]]
 - [[MOCs/Frame Innovation\|Frame Innovation]]
 - [[MOCs/Networks\|Networks]]
+- [[MOCs/Paradigm Shifts\|Paradigm Shifts]]
 - [[MOCs/Psychology\|Psychology]]
 - [[MOCs/Resilience Thinking\|Resilience Thinking]]
 

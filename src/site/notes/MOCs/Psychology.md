@@ -7,8 +7,8 @@
 | File                                                                                                                                                                          | Total Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Changing things requires directing the Rider and motivating the Elephant\|Changing things requires directing the Rider and motivating the Elephant]]                     | 14          |
+| [[Perception is Reality\|Perception is Reality]]                                                                                                                           | 13          |
 | [[Growing your people cultivates identity and growth mindset\|Growing your people cultivates identity and growth mindset]]                                                 | 13          |
-| [[Perception is Reality\|Perception is Reality]]                                                                                                                           | 10          |
 | [[Creating frames overcomes the adoption problem\|Creating frames overcomes the adoption problem]]                                                                         | 9           |
 | [[Intuition is pattern recognition\|Intuition is pattern recognition]]                                                                                                     | 9           |
 | [[Behavioral change fails when it requires absolute recantation\|Behavioral change fails when it requires absolute recantation]]                                           | 8           |

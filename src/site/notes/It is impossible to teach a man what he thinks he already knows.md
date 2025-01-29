@@ -13,6 +13,7 @@ The pursuit of knowledge depends on recognized lack thereof. If someone believes
 #cognition #always-learning
 
 see also:
-- [[Perception is Reality\|Perception is Reality]]
 - [[It is difficult to make someone understand what their salary depends on them not understanding\|It is difficult to make someone understand what their salary depends on them not understanding]]
+- [[It is difficult to provide someone with a solution for a problem they do not think they have\|It is difficult to provide someone with a solution for a problem they do not think they have]]
+- [[Perception is Reality\|Perception is Reality]]
 
