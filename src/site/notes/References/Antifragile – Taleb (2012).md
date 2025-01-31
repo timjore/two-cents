@@ -12,3 +12,10 @@
 > publisher: Random House
 > URL: 
 
+
+| File                                                                                                    | Links |
+| ------------------------------------------------------------------------------------------------------- | ----- |
+| [[Antifragile Systems become stronger with shocks\|Antifragile Systems become stronger with shocks]] | 8     |
+| [[Bed of Procrustes\|Bed of Procrustes]]                                                             | 8     |
+
+{ .block-language-dataview}

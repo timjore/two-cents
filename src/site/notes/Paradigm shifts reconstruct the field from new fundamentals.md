@@ -4,9 +4,13 @@
 
 # Paradigm shifts reconstruct the field from new fundamentals
 
-New paradigms are not cumulative or additive to an existing paradigm. They reconstruct the field afresh, though an overlap between the two may exist during the transition (which, for some paradigms may last a long time).
+New paradigms are not cumulative or additive to an existing paradigm—they reconstruct the field afresh. 
 
-> ==The transition from a paradigm in crisis to a new one from which a new tradition of normal science can emerge is **far from a cumulative process**==, one achieved by an articulation or extension of the old paradigm. Rather ==it is a **reconstruction of the field from new fundamentals**==, a reconstruction that changes some of the field’s most elementary theoretical generalizations as well as many of its paradigm methods and applications. ==During the transition period there will be a **large but never complete overlap** between the problems that can be solved by the old and by the new paradigm.== But there will also be a decisive difference in the modes of solution. ==When the transition is complete, the profession will have changed its view of the field, its methods, and its goals.==[^1]
+> ==The transition from a paradigm in crisis to a new one from which a new tradition of normal science can emerge is **far from a cumulative process**==, one achieved by an articulation or extension of the old paradigm. Rather ==it is a **reconstruction of the field from new fundamentals**==, a reconstruction that changes some of the field’s most elementary theoretical generalizations as well as many of its paradigm methods and applications.[^1]
+
+The reconstruction, however, may result in an overlap between the two during the transition (which, for some paradigms may last a long time).
+
+> ==During the transition period there will be a **large but never complete overlap** between the problems that can be solved by the old and by the new paradigm.== But there will also be a decisive difference in the modes of solution. ==When the transition is complete, the profession will have changed its view of the field, its methods, and its goals.==[^2]
 
 
 ---
@@ -20,3 +24,4 @@ See also:
 
 
 [^1]: [[References/The Structure of Scientific Revolutions – Kuhn (1962)\|The Structure of Scientific Revolutions – Kuhn (1962)]], ch. 8.
+[^2]: Ibid.

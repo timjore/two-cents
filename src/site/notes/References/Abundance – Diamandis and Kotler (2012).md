@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                                                                                                                | Links |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Integrative, Macroscopic Thinking is antithetical to higher education\|Integrative, Macroscopic Thinking is antithetical to higher education]] | 13    |
+
+{ .block-language-dataview}

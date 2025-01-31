@@ -13,3 +13,11 @@
 > URL: [http://www.jonkolko.com/writingAbductiveThinking.php](http://www.jonkolko.com/writingAbductiveThinking.php)
 
 
+
+| File                                                                                                                            | Links |
+| ------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Problem-solving follows a four step process\|Problem-solving follows a four step process]]                                 | 11    |
+| [[Reframing shifts perspective to see things in a new way\|Reframing shifts perspective to see things in a new way]]         | 10    |
+| [[Concept maps are graphical representations of mental models\|Concept maps are graphical representations of mental models]] | 8     |
+
+{ .block-language-dataview}
