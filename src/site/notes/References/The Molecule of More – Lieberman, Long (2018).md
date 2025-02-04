@@ -12,3 +12,9 @@
 > publisher: BenBella Books
 > URL: 
 
+
+| File                                                                                                  | Links |
+| ----------------------------------------------------------------------------------------------------- | ----- |
+| [[Trolley problem illustrates an ethical dilemma\|Trolley problem illustrates an ethical dilemma]] | 1     |
+
+{ .block-language-dataview}

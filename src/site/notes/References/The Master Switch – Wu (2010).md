@@ -13,3 +13,11 @@
 > URL: 
 
 
+
+| File                                                                                                                                  | Links |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Centralized innovation is beset by two weaknesses\|Centralized innovation is beset by two weaknesses]]                           | 13    |
+| [[Decentralized systems accelerate innovation\|Decentralized systems accelerate innovation]]                                       | 8     |
+| [[Centralized systems are efficient, not disruptively innovative\|Centralized systems are efficient, not disruptively innovative]] | 7     |
+
+{ .block-language-dataview}

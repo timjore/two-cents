@@ -12,3 +12,10 @@
 > publisher: Diversion Books
 > URL: 
 
+
+| File                                                                                  | Links |
+| ------------------------------------------------------------------------------------- | ----- |
+| [[1% is Halfway\|1% is Halfway]]                                                   | 11    |
+| [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]] | 10    |
+
+{ .block-language-dataview}

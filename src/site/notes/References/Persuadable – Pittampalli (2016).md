@@ -13,3 +13,11 @@
 > URL:: 
 
 
+
+| File                                                                                                                        | Links |
+| --------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Status quo bias favors the current state\|Status quo bias favors the current state]]                                   | 16    |
+| [[Dichotomous thinking simplistically resolves ambiguity\|Dichotomous thinking simplistically resolves ambiguity]]       | 15    |
+| [[Superforecasting is the intersection of range and mindset\|Superforecasting is the intersection of range and mindset]] | 9     |
+
+{ .block-language-dataview}

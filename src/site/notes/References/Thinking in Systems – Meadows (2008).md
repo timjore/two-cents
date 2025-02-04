@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                                                                                                        | Links |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Systems Theory studies the relationships and structure of systems\|Systems Theory studies the relationships and structure of systems]] | 7     |
+
+{ .block-language-dataview}

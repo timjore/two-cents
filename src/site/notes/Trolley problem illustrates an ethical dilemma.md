@@ -30,4 +30,4 @@ The Trolley Problem is an ethics dilemma (described below in [[References/The Mo
 > Sometimes we act one way: cold, calculating, seeking to dominate the environment for future gain. Sometimes we act another: warm, empathic, sharing what we have for the present joy of making others happy. **Dopamine control circuits and H&N circuits work in opposition, creating a balance that allows us to be humane toward others, while safeguarding our own survival.** Since balance is essential, the brain often wires circuits in opposition. It works so well that sometimes there is even opposition wired into the same neurotransmitter system. The dopamine system operates in this way, so what happens when dopamine opposes dopamine?
 
 ---
-#ethics #biology
+#ethics #biology #character

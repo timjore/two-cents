@@ -13,3 +13,10 @@
 > URL: 
 
 
+
+| File                                                                  | Links |
+| --------------------------------------------------------------------- | ----- |
+| [[Tribalism is human nature\|Tribalism is human nature]]           | 7     |
+| [[Bandwagon bias is social proof\|Bandwagon bias is social proof]] | 3     |
+
+{ .block-language-dataview}

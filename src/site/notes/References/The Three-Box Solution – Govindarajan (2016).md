@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                                                                                                                                | Links |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]] | 31    |
+
+{ .block-language-dataview}

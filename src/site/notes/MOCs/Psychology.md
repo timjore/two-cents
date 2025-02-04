@@ -6,21 +6,21 @@
 
 | File                                                                                                                                                                          | Total Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Changing things requires directing the Rider and motivating the Elephant\|Changing things requires directing the Rider and motivating the Elephant]]                     | 14          |
+| [[Changing things requires directing the Rider and motivating the Elephant\|Changing things requires directing the Rider and motivating the Elephant]]                     | 15          |
+| [[Growing your people cultivates identity and growth mindset\|Growing your people cultivates identity and growth mindset]]                                                 | 14          |
 | [[Perception is Reality\|Perception is Reality]]                                                                                                                           | 13          |
-| [[Growing your people cultivates identity and growth mindset\|Growing your people cultivates identity and growth mindset]]                                                 | 13          |
 | [[Creating frames overcomes the adoption problem\|Creating frames overcomes the adoption problem]]                                                                         | 9           |
 | [[Intuition is pattern recognition\|Intuition is pattern recognition]]                                                                                                     | 9           |
+| [[Finding the feeling moves beyond merely knowing things\|Finding the feeling moves beyond merely knowing things]]                                                         | 9           |
 | [[Behavioral change fails when it requires absolute recantation\|Behavioral change fails when it requires absolute recantation]]                                           | 8           |
+| [[Negativity dominance processes the bad more thoroughly than the good\|Negativity dominance processes the bad more thoroughly than the good]]                             | 8           |
 | [[Path dependence shapes what we do next\|Path dependence shapes what we do next]]                                                                                         | 8           |
-| [[Finding the feeling moves beyond merely knowing things\|Finding the feeling moves beyond merely knowing things]]                                                         | 8           |
-| [[Negativity dominance processes the bad more thoroughly than the good\|Negativity dominance processes the bad more thoroughly than the good]]                             | 7           |
+| [[Loss aversion values avoiding losses more than achieving gains\|Loss aversion values avoiding losses more than achieving gains]]                                         | 7           |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                                 | 7           |
 | [[Growth mindset reframes failure as learning\|Growth mindset reframes failure as learning]]                                                                               | 7           |
+| [[Rallying the herd makes behavior contagious\|Rallying the herd makes behavior contagious]]                                                                               | 7           |
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                                 | 6           |
-| [[Loss aversion values avoiding losses more than achieving gains\|Loss aversion values avoiding losses more than achieving gains]]                                         | 6           |
 | [[Pattern recognition primes decision-making\|Pattern recognition primes decision-making]]                                                                                 | 6           |
-| [[Rallying the herd makes behavior contagious\|Rallying the herd makes behavior contagious]]                                                                               | 6           |
 | [[People tend to adopt their own ideas\|People tend to adopt their own ideas]]                                                                                             | 5           |
 | [[Identity drives behavior\|Identity drives behavior]]                                                                                                                     | 5           |
 | [[Psychological Safety is a prerequisite for creativity\|Psychological Safety is a prerequisite for creativity]]                                                           | 4           |

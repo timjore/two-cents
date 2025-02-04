@@ -13,3 +13,11 @@
 > URL: 
 
 
+
+| File                                                                                                                                                                            | Links |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Double diamond implements design thinking\|Double diamond implements design thinking]]                                                                                     | 16    |
+| [[Design thinking seeks to discover and solve the actual problem\|Design thinking seeks to discover and solve the actual problem]]                                           | 14    |
+| [[Human-centered design is the process of ensuring that people’s actual needs are met\|Human-centered design is the process of ensuring that people’s actual needs are met]] | 8     |
+
+{ .block-language-dataview}

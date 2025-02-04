@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                          | Links |
+| ------------------------------------------------------------- | ----- |
+| [[Writing clarifies thinking\|Writing clarifies thinking]] | 5     |
+
+{ .block-language-dataview}

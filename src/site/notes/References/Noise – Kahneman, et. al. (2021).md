@@ -13,3 +13,10 @@
 > URL: 
 
 
+
+| File                                                                                                              | Links |
+| ----------------------------------------------------------------------------------------------------------------- | ----- |
+| [[System noise is undesirable variability in judgments\|System noise is undesirable variability in judgments]] | 5     |
+| [[Good decision-making does not mix values with facts\|Good decision-making does not mix values with facts]]   | 3     |
+
+{ .block-language-dataview}

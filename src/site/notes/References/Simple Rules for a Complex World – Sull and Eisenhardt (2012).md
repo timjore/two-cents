@@ -13,3 +13,9 @@
 > URL: https://hbr.org/2012/09/simple-rules-for-a-complex-world
 
 
+
+| File                                                              | Links |
+| ----------------------------------------------------------------- | ----- |
+| [[Simple rules tame complexity\|Simple rules tame complexity]] | 11    |
+
+{ .block-language-dataview}

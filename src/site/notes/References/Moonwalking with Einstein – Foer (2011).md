@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                                                                                    | Links |
+| ----------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Memory palaces use physical locations to improve memory\|Memory palaces use physical locations to improve memory]] | 5     |
+
+{ .block-language-dataview}

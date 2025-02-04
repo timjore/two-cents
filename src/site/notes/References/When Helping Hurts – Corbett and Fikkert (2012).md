@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                                                                                                    | Links |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Paternalism is doing for others what they can do for themselves\|Paternalism is doing for others what they can do for themselves]] | 5     |
+
+{ .block-language-dataview}

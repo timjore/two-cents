@@ -12,3 +12,10 @@
 > publisher: Penguin Press
 > URL: 
 
+
+| File                                                                                                                                                                                                                            | Links |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Institutions become committed to preserving the problem they were formed to solve\|Institutions become committed to preserving the problem they were formed to solve]]                                                     | 9     |
+| [[Increasing access to the means of production causes a decrease in the average quality of what gets produced\|Increasing access to the means of production causes a decrease in the average quality of what gets produced]] | 4     |
+
+{ .block-language-dataview}

@@ -13,3 +13,10 @@
 > URL: 
 
 
+
+| File                                                                                                                                                                          | Links |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Near misses lead to taking unwise risks\|Near misses lead to taking unwise risks]]                                                                                       | 8     |
+| [[Opportunity Cost is the sum of all the benefits provided by the options not chosen\|Opportunity Cost is the sum of all the benefits provided by the options not chosen]] | 2     |
+
+{ .block-language-dataview}

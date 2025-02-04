@@ -13,3 +13,9 @@
 > URL: https://www.rand.org/pubs/monograph_reports/MR1382.html
 
 
+
+| File                                                                                                                | Links |
+| ------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[All-Channel Networks can function without hierarchies\|All-Channel Networks can function without hierarchies]] | 5     |
+
+{ .block-language-dataview}

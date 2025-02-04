@@ -11,17 +11,18 @@
 | [[Generalization Instinct hinders thinking by using misleading categories\|Generalization Instinct hinders thinking by using misleading categories]]       | 25          |
 | [[Single Perspective Instinct hinders thinking by having only a hammer\|Single Perspective Instinct hinders thinking by having only a hammer]]             | 25          |
 | [[Blame Instinct hinders thinking by pointing fingers\|Blame Instinct hinders thinking by pointing fingers]]                                               | 24          |
-| [[Negativity Instinct hinders thinking by emphasizing bad news\|Negativity Instinct hinders thinking by emphasizing bad news]]                             | 23          |
+| [[Negativity Instinct hinders thinking by emphasizing bad news\|Negativity Instinct hinders thinking by emphasizing bad news]]                             | 24          |
 | [[Destiny Instinct hinders thinking by forgetting that small changes add up\|Destiny Instinct hinders thinking by forgetting that small changes add up]]   | 22          |
 | [[Gap Instinct hinders thinking by ignoring the middle majority\|Gap Instinct hinders thinking by ignoring the middle majority]]                           | 22          |
 | [[Size Instinct hinders thinking by considering a number without context\|Size Instinct hinders thinking by considering a number without context]]         | 21          |
 | [[Urgency Instinct hinders thinking by exaggerating a decision's urgency\|Urgency Instinct hinders thinking by exaggerating a decision's urgency]]         | 20          |
+| [[Status quo bias favors the current state\|Status quo bias favors the current state]]                                                                     | 16          |
 | [[Dichotomous thinking simplistically resolves ambiguity\|Dichotomous thinking simplistically resolves ambiguity]]                                         | 15          |
-| [[Status quo bias favors the current state\|Status quo bias favors the current state]]                                                                     | 15          |
 | [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                   | 14          |
 | [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]                                                               | 12          |
+| [[Ambiguity aversion favors the known over the unknown\|Ambiguity aversion favors the known over the unknown]]                                             | 10          |
 | [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]]                                                                         | 10          |
-| [[Ambiguity aversion favors the known over the unknown\|Ambiguity aversion favors the known over the unknown]]                                             | 9           |
+| [[Overcome loss aversion with hands-on experience\|Overcome loss aversion with hands-on experience]]                                                       | 10          |
 | [[Positive Test Strategy reinforces Confirmation Bias\|Positive Test Strategy reinforces Confirmation Bias]]                                               | 9           |
 | [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]                                                               | 7           |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                 | 7           |

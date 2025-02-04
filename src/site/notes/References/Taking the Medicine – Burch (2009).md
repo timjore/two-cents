@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                                                    | Links |
+| --------------------------------------------------------------------------------------- | ----- |
+| [[Paradigms can have phenomenal longevity\|Paradigms can have phenomenal longevity]] | 16    |
+
+{ .block-language-dataview}

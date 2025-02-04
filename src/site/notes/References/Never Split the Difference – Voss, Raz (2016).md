@@ -12,3 +12,9 @@
 > publisher: Harper Business
 > URL: 
 
+
+| File                                                                                                                            | Links |
+| ------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Tactical Empathy understands another's feelings and mindset\|Tactical Empathy understands another's feelings and mindset]] | 2     |
+
+{ .block-language-dataview}

@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                                                      | Links |
+| ----------------------------------------------------------------------------------------- | ----- |
+| [[Strategy is the answer to five questions\|Strategy is the answer to five questions]] | 4     |
+
+{ .block-language-dataview}

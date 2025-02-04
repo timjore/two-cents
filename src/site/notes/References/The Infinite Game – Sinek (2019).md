@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                                                                                | Links |
+| ------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Fundamental insight can trigger disruptive innovation\|Fundamental insight can trigger disruptive innovation]] | 10    |
+
+{ .block-language-dataview}

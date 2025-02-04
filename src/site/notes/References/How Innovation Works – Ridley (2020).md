@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                                                                                                                                    | Links |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Monkey First principle dictates building the hardest part of the moonshot first\|Monkey First principle dictates building the hardest part of the moonshot first]] | 9     |
+
+{ .block-language-dataview}

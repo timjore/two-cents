@@ -12,3 +12,10 @@
 > publisher: Cognitive Edge Pte Ltd
 > URL: 
 
+
+| File                                                                                          | Links |
+| --------------------------------------------------------------------------------------------- | ----- |
+| [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]   | 19    |
+| [[Faint signals are whispers from the future\|Faint signals are whispers from the future]] | 17    |
+
+{ .block-language-dataview}

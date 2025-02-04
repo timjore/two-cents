@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                                                      | Links |
+| ----------------------------------------------------------------------------------------- | ----- |
+| [[Status quo bias favors the current state\|Status quo bias favors the current state]] | 16    |
+
+{ .block-language-dataview}

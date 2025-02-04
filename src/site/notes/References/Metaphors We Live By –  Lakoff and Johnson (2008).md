@@ -13,3 +13,10 @@
 > URL: 
 
 
+
+| File                                                                                                      | Links |
+| --------------------------------------------------------------------------------------------------------- | ----- |
+| [[Motivated reasoning is the soldier mindset\|Motivated reasoning is the soldier mindset]]             | 11    |
+| [[Metaphors form the basis of our ability to think\|Metaphors form the basis of our ability to think]] | 5     |
+
+{ .block-language-dataview}

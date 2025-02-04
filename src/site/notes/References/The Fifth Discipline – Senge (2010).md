@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                                                                                                | Links |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]] | 7     |
+
+{ .block-language-dataview}

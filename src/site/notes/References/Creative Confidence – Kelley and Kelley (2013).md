@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                                                    | Links |
+| --------------------------------------------------------------------------------------- | ----- |
+| [[Design Thinking is innovating routinely\|Design Thinking is innovating routinely]] | 15    |
+
+{ .block-language-dataview}

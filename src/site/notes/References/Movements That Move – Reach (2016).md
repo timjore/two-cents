@@ -13,3 +13,10 @@
 > URL: 
 
 
+
+| File                                                                                                                                                  | Links |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]] | 6     |
+| [[Use of funding for training does not disrupt movements\|Use of funding for training does not disrupt movements]]                                 | 6     |
+
+{ .block-language-dataview}

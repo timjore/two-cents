@@ -13,3 +13,11 @@
 > URL: 
 
 
+
+| File                                                                                                                                  | Links |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Pressure to meet a target value changes the system or the data\|Pressure to meet a target value changes the system or the data]] | 11    |
+| [[A missed signal is an opportunity wasted\|A missed signal is an opportunity wasted]]                                             | 7     |
+| [[Data must be interpreted in context and without noise\|Data must be interpreted in context and without noise]]                   | 5     |
+
+{ .block-language-dataview}

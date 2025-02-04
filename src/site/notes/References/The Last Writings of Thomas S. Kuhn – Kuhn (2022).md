@@ -16,10 +16,10 @@
 
 | File                                                                                                                                    | Links |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[New paradigms are incommensurable with previous ones\|New paradigms are incommensurable with previous ones]]                       | 12    |
-| [[The price of knowledge is a change in lexicon\|The price of knowledge is a change in lexicon]]                                     | 10    |
-| [[Lexicons constrain the range of possible belief\|Lexicons constrain the range of possible belief]]                                 | 9     |
-| [[Inter-paradigm communication requires paradigmatic bilingualism\|Inter-paradigm communication requires paradigmatic bilingualism]] | 6     |
-| [[All translation loses, adds, or changes information\|All translation loses, adds, or changes information]]                         | 4     |
+| [[New paradigms are incommensurable with previous ones\|New paradigms are incommensurable with previous ones]]                       | 11    |
+| [[The price of knowledge is a change in lexicon\|The price of knowledge is a change in lexicon]]                                     | 9     |
+| [[Lexicons constrain the range of possible belief\|Lexicons constrain the range of possible belief]]                                 | 8     |
+| [[Inter-paradigm communication requires paradigmatic bilingualism\|Inter-paradigm communication requires paradigmatic bilingualism]] | 5     |
+| [[All translation loses, adds, or changes information\|All translation loses, adds, or changes information]]                         | 3     |
 
 { .block-language-dataview}

@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                                        | Links |
+| --------------------------------------------------------------------------- | ----- |
+| [[Trailblazers amplify weak signals\|Trailblazers amplify weak signals]] | 4     |
+
+{ .block-language-dataview}

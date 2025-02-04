@@ -18,23 +18,23 @@
 | [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]                                                                     | 12          |
 | [[Motivated reasoning is the soldier mindset\|Motivated reasoning is the soldier mindset]]                                                                       | 11          |
 | [[Paradigm shifts create a new framework of thinking\|Paradigm shifts create a new framework of thinking]]                                                       | 11          |
+| [[Ambiguity aversion favors the known over the unknown\|Ambiguity aversion favors the known over the unknown]]                                                   | 10          |
 | [[It is impossible to teach a man what he thinks he already knows\|It is impossible to teach a man what he thinks he already knows]]                             | 10          |
 | [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]]                                                                               | 10          |
 | [[Wicked learning environments prevent learning\|Wicked learning environments prevent learning]]                                                                 | 10          |
-| [[The price of knowledge is a change in lexicon\|The price of knowledge is a change in lexicon]]                                                                 | 10          |
-| [[Ambiguity aversion favors the known over the unknown\|Ambiguity aversion favors the known over the unknown]]                                                   | 9           |
 | [[Creating frames overcomes the adoption problem\|Creating frames overcomes the adoption problem]]                                                               | 9           |
 | [[Elastic Thinking is parallel and integrative\|Elastic Thinking is parallel and integrative]]                                                                   | 9           |
 | [[Listen to the Suck with Curiosity\|Listen to the Suck with Curiosity]]                                                                                         | 9           |
 | [[Shifting paradigms requires macroscopic, integrative thinking\|Shifting paradigms requires macroscopic, integrative thinking]]                                 | 9           |
 | [[Superforecasting is the intersection of range and mindset\|Superforecasting is the intersection of range and mindset]]                                         | 9           |
 | [[Think slow, act fast is the secret of success\|Think slow, act fast is the secret of success]]                                                                 | 9           |
-| [[Lexicons constrain the range of possible belief\|Lexicons constrain the range of possible belief]]                                                             | 9           |
+| [[The price of knowledge is a change in lexicon\|The price of knowledge is a change in lexicon]]                                                                 | 9           |
 | [[Adjacent Possible is the edge of the future\|Adjacent Possible is the edge of the future]]                                                                     | 8           |
 | [[Concept maps are graphical representations of mental models\|Concept maps are graphical representations of mental models]]                                     | 8           |
 | [[Near misses lead to taking unwise risks\|Near misses lead to taking unwise risks]]                                                                             | 8           |
 | [[Path dependence shapes what we do next\|Path dependence shapes what we do next]]                                                                               | 8           |
 | [[Reference-class forecasting overcomes the planning fallacy\|Reference-class forecasting overcomes the planning fallacy]]                                       | 8           |
+| [[Lexicons constrain the range of possible belief\|Lexicons constrain the range of possible belief]]                                                             | 8           |
 | [[Divergent ideas come from the right brain\|Divergent ideas come from the right brain]]                                                                         | 7           |
 | [[Elastic Thinking can hold two contradictory ideas simultaneously\|Elastic Thinking can hold two contradictory ideas simultaneously]]                           | 7           |
 | [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]                                                                     | 7           |

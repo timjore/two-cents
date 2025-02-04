@@ -12,4 +12,8 @@
 > URL: 
 
 
+| File                                                              | Links |
+| ----------------------------------------------------------------- | ----- |
+| [[Quality arises from quantity\|Quality arises from quantity]] | 9     |
 
+{ .block-language-dataview}

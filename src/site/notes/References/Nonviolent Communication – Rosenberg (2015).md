@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                                                                                          | Links |
+| ----------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[What others do is the stimulus, not the cause, of feelings\|What others do is the stimulus, not the cause, of feelings]] | 3     |
+
+{ .block-language-dataview}

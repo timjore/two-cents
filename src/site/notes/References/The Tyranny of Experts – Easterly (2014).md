@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                                                                                                | Links |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Fundamental Attribution Error blames others and exonerates me\|Fundamental Attribution Error blames others and exonerates me]] | 6     |
+
+{ .block-language-dataview}

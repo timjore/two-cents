@@ -12,3 +12,16 @@
 > publisher: Riverhead Books
 > URL: 
 
+
+| File                                                                                                                                        | Links |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Lateral thinking is range in action\|Lateral thinking is range in action]]                                                             | 19    |
+| [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]                           | 18    |
+| [[Specialization tends to reduce range\|Specialization tends to reduce range]]                                                           | 13    |
+| [[Wicked learning environments prevent learning\|Wicked learning environments prevent learning]]                                         | 10    |
+| [[Superforecasting is the intersection of range and mindset\|Superforecasting is the intersection of range and mindset]]                 | 9     |
+| [[Analogical thinking uses a known example to explain something new\|Analogical thinking uses a known example to explain something new]] | 6     |
+| [[Integrative, macroscopic thinking sees the forest and the trees\|Integrative, macroscopic thinking sees the forest and the trees]]     | 5     |
+| [[Lateral thinking with withered technology\|Lateral thinking with withered technology]]                                                 | 4     |
+
+{ .block-language-dataview}

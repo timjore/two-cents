@@ -12,3 +12,10 @@
 > publisher: Random House
 > URL: 
 
+
+| File                                                                                                                                                                                                            | Links |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Black Swan events are rare, impactful, and retrospectively predictable\|Black Swan events are rare, impactful, and retrospectively predictable]]                                                           | 14    |
+| [[Turkey problem illustrates erroneously predicting the future based on a false narrative of the past\|Turkey problem illustrates erroneously predicting the future based on a false narrative of the past]] | 3     |
+
+{ .block-language-dataview}

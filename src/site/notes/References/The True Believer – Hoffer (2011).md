@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                                                        | Links |
+| ------------------------------------------------------------------------------------------- | ----- |
+| [[The taste of better things excites revolt\|The taste of better things excites revolt]] | 2     |
+
+{ .block-language-dataview}

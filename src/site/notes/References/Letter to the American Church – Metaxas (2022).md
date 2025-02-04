@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                                                                                                        | Links |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Spiral of Silence means the price of speaking out rises over time\|Spiral of Silence means the price of speaking out rises over time]] | 2     |
+
+{ .block-language-dataview}

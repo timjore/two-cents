@@ -13,3 +13,9 @@
 > URL: 
 
 
+
+| File                                                                                                                                                                                                                              | Links |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Groups whose identity is defined by changing a paradigm become committed to preserving the original paradigm\|Groups whose identity is defined by changing a paradigm become committed to preserving the original paradigm]] | 6     |
+
+{ .block-language-dataview}
