@@ -34,17 +34,17 @@ See [[Changing things requires directing the Rider and motivating the Elephant\|
 | File                                                                                                                                                      | Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Changing things requires directing the Rider and motivating the Elephant\|Changing things requires directing the Rider and motivating the Elephant]] | 15    |
-| [[Pointing to the destination shows why we're going\|Pointing to the destination shows why we're going]]                                               | 14    |
 | [[Growing your people cultivates identity and growth mindset\|Growing your people cultivates identity and growth mindset]]                             | 14    |
+| [[Pointing to the destination shows why we're going\|Pointing to the destination shows why we're going]]                                               | 14    |
 | [[Building habits reduces cognitive strain\|Building habits reduces cognitive strain]]                                                                 | 10    |
-| [[Scripting the critical moves shapes specific behaviors\|Scripting the critical moves shapes specific behaviors]]                                     | 9     |
 | [[Finding the feeling moves beyond merely knowing things\|Finding the feeling moves beyond merely knowing things]]                                     | 9     |
+| [[Scripting the critical moves shapes specific behaviors\|Scripting the critical moves shapes specific behaviors]]                                     | 9     |
 | [[Finding the bright spots clones what is already working\|Finding the bright spots clones what is already working]]                                   | 8     |
 | [[Tweaking the environment changes behavior\|Tweaking the environment changes behavior]]                                                               | 8     |
-| [[One or two high leverage behaviors produce maximum change\|One or two high leverage behaviors produce maximum change]]                               | 7     |
-| [[Shrinking the change reduces fear\|Shrinking the change reduces fear]]                                                                               | 7     |
 | [[Growth mindset reframes failure as learning\|Growth mindset reframes failure as learning]]                                                           | 7     |
+| [[One or two high leverage behaviors produce maximum change\|One or two high leverage behaviors produce maximum change]]                               | 7     |
 | [[Rallying the herd makes behavior contagious\|Rallying the herd makes behavior contagious]]                                                           | 7     |
+| [[Shrinking the change reduces fear\|Shrinking the change reduces fear]]                                                                               | 7     |
 | [[Fundamental Attribution Error blames others and exonerates me\|Fundamental Attribution Error blames others and exonerates me]]                       | 6     |
 | [[Identity drives behavior\|Identity drives behavior]]                                                                                                 | 5     |
 
