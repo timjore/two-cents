@@ -12,6 +12,13 @@ The how-to-win decisions focus on creating and delivery unique value sustainably
 
 > The where-to-play and how-to-win choices should flow from and reinforce one another… To determine how to win, an organization must ==decide what will enable it to **create unique value** and **sustainably deliver that value** to customers in a way that is distinct from the firm’s competitors==… The key to making the right choices for your business is that ==they must be **doable** and **decisive** for you==. If you are a small entrepreneurial firm facing much larger competitors, making a how-to-win choice on the basis of scale would not make much sense. But simply because you are small doesn’t mean winning through scale is impossible. Don’t dismiss the possibility that you can change the context to fit your choices.[^2]
 
+There are four main factors consider when choosing how to win:[^3]
+
+1. **The industry**. What is the structure of your industry and the attractiveness of its segments? 
+2. **Customers**. What do your channel and end customers value? 
+3. **Relative position**. How does your company fare, and how could it fare, relative to the competition? 
+4. **Competition**. What will your competition do in reaction to your chosen course of action?
+
 ---
 #strategic #leadership 
 
@@ -24,3 +31,4 @@ See also:
 
 [^1]: [[References/Playing to Win – Lafley and Martin (2013)\|Playing to Win – Lafley and Martin (2013)]], ch. 1, § “How to Win.”
 [^2]: Ibid.
+[^3]: Ibid., ch. 7, § “Think Through Strategy.”

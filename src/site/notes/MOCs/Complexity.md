@@ -10,21 +10,21 @@
 | [[Challenges are now open, complex, dynamic, and networked\|Challenges are now open, complex, dynamic, and networked]]                                                 | 27    |
 | [[Design practice can address open, complex, dynamic, networked challenges\|Design practice can address open, complex, dynamic, networked challenges]]                 | 22    |
 | [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]                                                                               | 19    |
-| [[Coevolution simultaneously develops the formulation of and solution to a problem\|Coevolution simultaneously develops the formulation of and solution to a problem]] | 18    |
 | [[Complex networks have unique topological features\|Complex networks have unique topological features]]                                                               | 18    |
+| [[Coevolution simultaneously develops the formulation of and solution to a problem\|Coevolution simultaneously develops the formulation of and solution to a problem]] | 18    |
 | [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]                                                         | 18    |
 | [[Faint signals are whispers from the future\|Faint signals are whispers from the future]]                                                                             | 17    |
 | [[Complex systems are characterized by VUCA\|Complex systems are characterized by VUCA]]                                                                               | 13    |
 | [[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]]                                                                               | 13    |
 | [[Power Law distributions\|Power Law distributions]]                                                                                                                   | 12    |
+| [[Reframing shifts perspective to see things in a new way\|Reframing shifts perspective to see things in a new way]]                                                   | 12    |
 | [[1% is Halfway\|1% is Halfway]]                                                                                                                                       | 11    |
 | [[Open problems have unclear or permeable borders\|Open problems have unclear or permeable borders]]                                                                   | 11    |
 | [[Simple rules tame complexity\|Simple rules tame complexity]]                                                                                                         | 11    |
 | [[Networked problems influence each other\|Networked problems influence each other]]                                                                                   | 10    |
-| [[Reframing shifts perspective to see things in a new way\|Reframing shifts perspective to see things in a new way]]                                                   | 10    |
 | [[Wicked learning environments prevent learning\|Wicked learning environments prevent learning]]                                                                       | 10    |
-| [[Complex problems require new thinking\|Complex problems require new thinking]]                                                                                       | 9     |
 | [[Complex problems have many interconnected elements\|Complex problems have many interconnected elements]]                                                             | 9     |
+| [[Complex problems require new thinking\|Complex problems require new thinking]]                                                                                       | 9     |
 | [[Dynamic problems add elements and shift connections over time\|Dynamic problems add elements and shift connections over time]]                                       | 9     |
 | [[Antifragile Systems become stronger with shocks\|Antifragile Systems become stronger with shocks]]                                                                   | 8     |
 | [[Antifragile systems are configured for adaptability\|Antifragile systems are configured for adaptability]]                                                           | 8     |

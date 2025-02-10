@@ -16,7 +16,7 @@
 
 | File                                                                                                                            | Links |
 | ------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Changing things happens in the opposite direction\|Changing things happens in the opposite direction]]                     | 12    |
+| [[Changing things happens in the opposite direction\|Changing things happens in the opposite direction]]                     | 13    |
 | [[Deliberate practice is focused, at the edge, with feedback\|Deliberate practice is focused, at the edge, with feedback]]   | 10    |
 | [[Overcome loss aversion with hands-on experience\|Overcome loss aversion with hands-on experience]]                         | 10    |
 | [[Practice one or two specific skills\|Practice one or two specific skills]]                                                 | 9     |

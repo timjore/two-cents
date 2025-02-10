@@ -51,10 +51,10 @@
 | [[Metaphors form the basis of our ability to think\|Metaphors form the basis of our ability to think]]                                                                   | 5           |
 | [[Organizations expand when prestige is correlated to budget size\|Organizations expand when prestige is correlated to budget size]]                                     | 5           |
 | [[People tend to adopt their own ideas\|People tend to adopt their own ideas]]                                                                                           | 5           |
+| [[Strategic capability is required for thinking your way out of difficult positions\|Strategic capability is required for thinking your way out of difficult positions]] | 5           |
 | [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                                   | 5           |
 | [[Tools both illuminate and limit our understanding\|Tools both illuminate and limit our understanding]]                                                                 | 5           |
 | [[Writing clarifies thinking\|Writing clarifies thinking]]                                                                                                               | 5           |
-| [[Strategic capability is required for thinking your way out of difficult positions\|Strategic capability is required for thinking your way out of difficult positions]] | 5           |
 | [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                                             | 4           |
 | [[Frightening and dangerous are two different things\|Frightening and dangerous are two different things]]                                                               | 4           |
 | [[Locking down of a problem leads to frozen thinking\|Locking down of a problem leads to frozen thinking]]                                                               | 4           |

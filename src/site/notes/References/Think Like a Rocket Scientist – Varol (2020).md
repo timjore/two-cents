@@ -18,7 +18,7 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Faint signals are whispers from the future\|Faint signals are whispers from the future]]                                                                           | 17    |
 | [[First Principles thinking allows you to see the obvious hiding in plain sight\|First Principles thinking allows you to see the obvious hiding in plain sight]]     | 15    |
-| [[Backcasting works backward from a desired outcome\|Backcasting works backward from a desired outcome]]                                                             | 13    |
+| [[Backcasting works backward from a desired outcome\|Backcasting works backward from a desired outcome]]                                                             | 14    |
 | [[Premortem works backward from an undesirable outcome in order to prevent it\|Premortem works backward from an undesirable outcome in order to prevent it]]         | 11    |
 | [[Monkey First principle dictates building the hardest part of the moonshot first\|Monkey First principle dictates building the hardest part of the moonshot first]] | 9     |
 | [[Near misses lead to taking unwise risks\|Near misses lead to taking unwise risks]]                                                                                 | 8     |
