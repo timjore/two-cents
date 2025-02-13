@@ -22,6 +22,6 @@ The kernel of a good strategy includes a **diagnosis** of the challenge, a **gui
 see also:
 - [[Grand strategies link means to ends\|Grand strategies link means to ends]]
 - [[Pointing to the destination shows why we're going\|Pointing to the destination shows why we're going]]
-- [[Staging/Processing/Crucial Influence/Results are produced by vital behaviors\|Results are produced by vital behaviors]]
+- [[Results are produced by vital behaviors\|Results are produced by vital behaviors]]
 
 [^1]: [[References/Good Strategy Bad Strategy – Rumelt (2011)\|Good Strategy Bad Strategy – Rumelt (2011)]], ch. 5, “The Kernel of a Good Strategy”

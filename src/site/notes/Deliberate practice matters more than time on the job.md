@@ -14,6 +14,6 @@ Psychologist Anders Ericsson suggests that exceptional performance is the result
 
 See also:
 - [[Deliberate practice is focused, at the edge, with feedback\|Deliberate practice is focused, at the edge, with feedback]]
-- [[Staging/Processing/Crucial Influence/Results are produced by vital behaviors\|Results are produced by vital behaviors]]
+- [[Results are produced by vital behaviors\|Results are produced by vital behaviors]]
 
 [^1]: [[References/Crucial Influence – Grenny, et al. (2023)\|Crucial Influence – Grenny, et al. (2023)]], ch. 4, § “Much of Prowess is Practice.”

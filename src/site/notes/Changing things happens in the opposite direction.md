@@ -8,9 +8,9 @@
 Bringing about needed change requires a clear understanding of the desired outcome (the destination), the behaviors that need to change in order to achieve it, and the engagement of the sources of influence that result in the desired behaviors.
 
 > The way you change the world using this model is from right to left. That’s right, the best leaders ==tackle influence challenges in **the opposite direction from how the world typically operates**==. They use three skills that build on each other to move from right to left: 
-> 1. First, ==[[Staging/Processing/Crucial Influence/Influence focuses on results\|focus on results]]==. Great leaders are better at articulating what they want to achieve and how they will measure it. 
-> 2. Second, ==identify a small handful of [[Staging/Processing/Crucial Influence/Results are produced by vital behaviors\|vital behaviors]]==. These are the specific behavioral changes needed to disproportionately improve results. 
-> 3. Third, ==engage all six [[Staging/Processing/Crucial Influence/Influencing behavior engages six sources of influence\|sources of influence]]== to support your vital behaviors.[^1]
+> 1. First, ==[[Influence focuses on results\|focus on results]]==. Great leaders are better at articulating what they want to achieve and how they will measure it. 
+> 2. Second, ==identify a small handful of [[Results are produced by vital behaviors\|vital behaviors]]==. These are the specific behavioral changes needed to disproportionately improve results. 
+> 3. Third, ==engage all six [[Influencing behavior engages six sources of influence\|sources of influence]]== to support your vital behaviors.[^1]
 
 
 ![Changing things happens in the opposite direction_image_1.jpeg](/img/user/Attachments/Changing%20things%20happens%20in%20the%20opposite%20direction_image_1.jpeg)
