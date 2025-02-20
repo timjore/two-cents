@@ -16,6 +16,6 @@
 
 | File                                                                                                                | Links |
 | ------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[All-Channel Networks can function without hierarchies\|All-Channel Networks can function without hierarchies]] | 5     |
+| [[All-Channel Networks can function without hierarchies\|All-Channel Networks can function without hierarchies]] | 6     |
 
 { .block-language-dataview}

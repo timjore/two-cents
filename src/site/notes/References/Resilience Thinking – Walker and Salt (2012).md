@@ -16,7 +16,7 @@
 | File                                                                                                                                                            | Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Resilience Thinking understands thresholds and adaptive cycles\|Resilience Thinking understands thresholds and adaptive cycles]]                           | 18    |
-| [[Resilience Thinking embraces the reality that things change\|Resilience Thinking embraces the reality that things change]]                                 | 16    |
+| [[Resilience Thinking embraces the reality that things change\|Resilience Thinking embraces the reality that things change]]                                 | 17    |
 | [[Resilience Thinking creates antifragile systems\|Resilience Thinking creates antifragile systems]]                                                         | 15    |
 | [[General resilience depends on diversity, modularity, and feedbacks\|General resilience depends on diversity, modularity, and feedbacks]]                   | 14    |
 | [[Efficiency is purchased by a loss in flexibility\|Efficiency is purchased by a loss in flexibility]]                                                       | 13    |
@@ -28,9 +28,9 @@
 | [[Systems cannot be held in an optimal state\|Systems cannot be held in an optimal state]]                                                                   | 9     |
 | [[Modularity of a system affects resilience\|Modularity of a system affects resilience]]                                                                     | 8     |
 | [[Optimizing a system reduces its resilience\|Optimizing a system reduces its resilience]]                                                                   | 8     |
+| [[Adaptability is the capacity of actors to manage the resilience of a system\|Adaptability is the capacity of actors to manage the resilience of a system]] | 7     |
 | [[Resilience is the distance between the system and its nearest threshold\|Resilience is the distance between the system and its nearest threshold]]         | 7     |
 | [[Systems of nature tend to follow an adaptive cycle\|Systems of nature tend to follow an adaptive cycle]]                                                   | 7     |
-| [[Adaptability is the capacity of actors to manage the resilience of a system\|Adaptability is the capacity of actors to manage the resilience of a system]] | 6     |
 | [[All linked adaptive cycles govern the behavior of a system\|All linked adaptive cycles govern the behavior of a system]]                                   | 5     |
 | [[Increasing efficiency tends to lock up a system\|Increasing efficiency tends to lock up a system]]                                                         | 5     |
 | [[Proximity to a threshold decreases the shock required to cross it\|Proximity to a threshold decreases the shock required to cross it]]                     | 5     |

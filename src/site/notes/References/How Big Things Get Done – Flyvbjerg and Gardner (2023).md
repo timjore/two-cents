@@ -18,16 +18,16 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Planning fallacy confuses “best-guess” with “best-case” scenario\|Planning fallacy confuses “best-guess” with “best-case” scenario]]               | 13    |
 | [[Planning is an active, iterative, learning process\|Planning is an active, iterative, learning process]]                                           | 9     |
-| [[Thinking from right to left begins with the goal\|Thinking from right to left begins with the goal]]                                               | 9     |
 | [[Think slow, act fast is the secret of success\|Think slow, act fast is the secret of success]]                                                     | 9     |
+| [[Thinking from right to left begins with the goal\|Thinking from right to left begins with the goal]]                                               | 9     |
 | [[Successful projects develop a clear, informed understanding of the goal\|Successful projects develop a clear, informed understanding of the goal]] | 8     |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                           | 7     |
 | [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]                                                         | 6     |
 | [[Bias for action can mask a bias against thinking\|Bias for action can mask a bias against thinking]]                                               | 5     |
 | [[Modularity radically reduces risk\|Modularity radically reduces risk]]                                                                             | 5     |
 | [[Survivorship bias focuses only on successful examples\|Survivorship bias focuses only on successful examples]]                                     | 5     |
+| [[Scale-free patterns are fractal\|Scale-free patterns are fractal]]                                                                                 | 3     |
 | [[The best plans maximize experience and experimentation\|The best plans maximize experience and experimentation]]                                   | 3     |
 | [[When facing potentially extreme outcomes, forecast risk\|When facing potentially extreme outcomes, forecast risk]]                                 | 3     |
-| [[Scale-free patterns are fractal\|Scale-free patterns are fractal]]                                                                                 | 2     |
 
 { .block-language-dataview}

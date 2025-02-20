@@ -25,9 +25,9 @@
 | [[Superforecasting is the intersection of range and mindset\|Superforecasting is the intersection of range and mindset]]                                     | 9     |
 | [[Reference-class forecasting overcomes the planning fallacy\|Reference-class forecasting overcomes the planning fallacy]]                                   | 8     |
 | [[Superforecasters think differently\|Superforecasters think differently]]                                                                                   | 8     |
+| [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                             | 8     |
 | [[Loss aversion values avoiding losses more than achieving gains\|Loss aversion values avoiding losses more than achieving gains]]                           | 7     |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                   | 7     |
-| [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                             | 7     |
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                   | 6     |
 | [[Pattern recognition primes decision-making\|Pattern recognition primes decision-making]]                                                                   | 6     |
 | [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                       | 5     |

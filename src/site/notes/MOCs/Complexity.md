@@ -9,9 +9,9 @@
 | [[Frame creation resolves complex problems in nine steps\|Frame creation resolves complex problems in nine steps]]                                                     | 29    |
 | [[Challenges are now open, complex, dynamic, and networked\|Challenges are now open, complex, dynamic, and networked]]                                                 | 27    |
 | [[Design practice can address open, complex, dynamic, networked challenges\|Design practice can address open, complex, dynamic, networked challenges]]                 | 22    |
-| [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]                                                                               | 19    |
-| [[Complex networks have unique topological features\|Complex networks have unique topological features]]                                                               | 18    |
+| [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]                                                                               | 20    |
 | [[Coevolution simultaneously develops the formulation of and solution to a problem\|Coevolution simultaneously develops the formulation of and solution to a problem]] | 18    |
+| [[Complex networks have unique topological features\|Complex networks have unique topological features]]                                                               | 18    |
 | [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]                                                         | 18    |
 | [[Faint signals are whispers from the future\|Faint signals are whispers from the future]]                                                                             | 17    |
 | [[Complex systems are characterized by VUCA\|Complex systems are characterized by VUCA]]                                                                               | 13    |
@@ -26,16 +26,16 @@
 | [[Complex problems have many interconnected elements\|Complex problems have many interconnected elements]]                                                             | 9     |
 | [[Complex problems require new thinking\|Complex problems require new thinking]]                                                                                       | 9     |
 | [[Dynamic problems add elements and shift connections over time\|Dynamic problems add elements and shift connections over time]]                                       | 9     |
+| [[Systems Theory studies the relationships and structure of systems\|Systems Theory studies the relationships and structure of systems]]                               | 9     |
 | [[Antifragile Systems become stronger with shocks\|Antifragile Systems become stronger with shocks]]                                                                   | 8     |
 | [[Antifragile systems are configured for adaptability\|Antifragile systems are configured for adaptability]]                                                           | 8     |
-| [[One or two high leverage behaviors produce maximum change\|One or two high leverage behaviors produce maximum change]]                                               | 8     |
 | [[Solutions to complex problems are based on pattern recognition\|Solutions to complex problems are based on pattern recognition]]                                     | 8     |
 | [[Solving complex problems avoids simplification\|Solving complex problems avoids simplification]]                                                                     | 8     |
-| [[Bright spots show positive deviance\|Bright spots show positive deviance]]                                                                                           | 7     |
+| [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                                       | 8     |
+| [[One or two high leverage behaviors produce maximum change\|One or two high leverage behaviors produce maximum change]]                                               | 7     |
 | [[Solutions to complex problems are rooted in context\|Solutions to complex problems are rooted in context]]                                                           | 7     |
-| [[Systems Theory studies the relationships and structure of systems\|Systems Theory studies the relationships and structure of systems]]                               | 7     |
-| [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                                       | 7     |
 | [[Appraisal of a complex problem’s context is objective\|Appraisal of a complex problem’s context is objective]]                                                       | 6     |
+| [[Bright spots show positive deviance\|Bright spots show positive deviance]]                                                                                           | 6     |
 | [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]]                                     | 6     |
 | [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]]                     | 6     |
 | [[Globalization is a complex system\|Globalization is a complex system]]                                                                                               | 5     |

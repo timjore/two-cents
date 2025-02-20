@@ -46,11 +46,11 @@ The “rigorous language for the description of networks is found in graph theor
 | [[Simple rules tame complexity\|Simple rules tame complexity]]                                                                                     | 11          |
 | [[Kinds of networks\|Kinds of networks]]                                                                                                           | 7           |
 | [[Networks at scale increase the number of links more than nodes\|Networks at scale increase the number of links more than nodes]]                 | 7           |
+| [[All-Channel Networks can function without hierarchies\|All-Channel Networks can function without hierarchies]]                                   | 6           |
 | [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]] | 6           |
-| [[All-Channel Networks can function without hierarchies\|All-Channel Networks can function without hierarchies]]                                   | 5           |
 | [[Globalization is a complex system\|Globalization is a complex system]]                                                                           | 5           |
 | [[Metcalfe's Law defines network effects\|Metcalfe's Law defines network effects]]                                                                 | 5           |
-| [[Scale-free patterns are fractal\|Scale-free patterns are fractal]]                                                                               | 2           |
+| [[Scale-free patterns are fractal\|Scale-free patterns are fractal]]                                                                               | 3           |
 
 { .block-language-dataview}
 

@@ -23,7 +23,7 @@
 | [[Creativity doesn’t look creative when you’re doing it\|Creativity doesn’t look creative when you’re doing it]]         | 4     |
 | [[Every problem is an idea problem\|Every problem is an idea problem]]                                                   | 4     |
 | [[Psychological Safety is a prerequisite for creativity\|Psychological Safety is a prerequisite for creativity]]         | 4     |
+| [[Scale magnifies complexity\|Scale magnifies complexity]]                                                               | 3     |
 | [[Prolifically creative people pursue a network of projects\|Prolifically creative people pursue a network of projects]] | 2     |
-| [[Scale magnifies complexity\|Scale magnifies complexity]]                                                               | 2     |
 
 { .block-language-dataview}
