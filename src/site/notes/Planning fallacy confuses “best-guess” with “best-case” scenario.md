@@ -11,7 +11,7 @@ The planning fallacy occurs when people tend to default to [[Unchecked optimism 
 
 Kahneman observes:
 
-> When forecasting the outcomes of risky projects, executives too easily fall victim to the *planning fallacy*. In its grip, ==they make decisions based on delusional [[[Unchecked optimism leads to project failure\|optimism]] rather than on a rational weighting of gains, losses, and probabilities.== They overestimate benefits and underestimate costs. They spin scenarios of success while overlooking the potential for mistakes and miscalculations. As a result, ==they pursue initiatives that are unlikely to come in on budget or on time or to deliver the expected returns—or even to be completed==.[^2]
+> When forecasting the outcomes of risky projects, executives too easily fall victim to the *planning fallacy*. In its grip, ==they make decisions based on delusional [[Unchecked optimism leads to project failure\|optimism]] rather than on a rational weighting of gains, losses, and probabilities.== They overestimate benefits and underestimate costs. They spin scenarios of success while overlooking the potential for mistakes and miscalculations. As a result, ==they pursue initiatives that are unlikely to come in on budget or on time or to deliver the expected returns—or even to be completed==.[^2]
 
 ---
 #fallacy #management #cognition 

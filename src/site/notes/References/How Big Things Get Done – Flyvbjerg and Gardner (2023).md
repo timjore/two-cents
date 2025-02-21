@@ -22,7 +22,7 @@
 | [[Thinking from right to left begins with the goal\|Thinking from right to left begins with the goal]]                                               | 9     |
 | [[Successful projects develop a clear, informed understanding of the goal\|Successful projects develop a clear, informed understanding of the goal]] | 8     |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                           | 7     |
-| [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]                                                         | 6     |
+| [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]                                                         | 7     |
 | [[Bias for action can mask a bias against thinking\|Bias for action can mask a bias against thinking]]                                               | 5     |
 | [[Modularity radically reduces risk\|Modularity radically reduces risk]]                                                                             | 5     |
 | [[Survivorship bias focuses only on successful examples\|Survivorship bias focuses only on successful examples]]                                     | 5     |

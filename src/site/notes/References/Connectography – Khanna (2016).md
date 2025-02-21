@@ -15,7 +15,7 @@
 | File                                                                                                  | Links |
 | ----------------------------------------------------------------------------------------------------- | ----- |
 | [[Globalization is a complex system\|Globalization is a complex system]]                           | 5     |
+| [[Maps of connectivity reveal strategic dynamics\|Maps of connectivity reveal strategic dynamics]] | 5     |
 | [[Grand strategies link means to ends\|Grand strategies link means to ends]]                       | 4     |
-| [[Maps of connectivity reveal strategic dynamics\|Maps of connectivity reveal strategic dynamics]] | 4     |
 
 { .block-language-dataview}

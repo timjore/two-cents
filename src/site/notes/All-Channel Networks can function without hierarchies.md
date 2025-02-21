@@ -18,4 +18,4 @@ see also:
 - [[Simple rules tame complexity\|Simple rules tame complexity]]
 
 
-[^1]: [[References/Networks and Netwars – Arquilla and Ronfeldt (2001)\|Networks and Netwars – Arquilla and Ronfeldt (2001)]], p. 9.
+[^1]: [[References/Networks and Netwars – Arquilla and Ronfeldt (2001)\|Networks and Netwars – Arquilla and Ronfeldt (2001)]], 9.

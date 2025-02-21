@@ -18,7 +18,7 @@
 | ------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Results are produced by vital behaviors\|Results are produced by vital behaviors]]                                         | 16    |
 | [[Changing things happens in the opposite direction\|Changing things happens in the opposite direction]]                     | 14    |
-| [[Influencing behavior engages six sources of influence\|Influencing behavior engages six sources of influence]]             | 11    |
+| [[Influencing behavior engages six sources of influence\|Influencing behavior engages six sources of influence]]             | 12    |
 | [[Deliberate practice is focused, at the edge, with feedback\|Deliberate practice is focused, at the edge, with feedback]]   | 9     |
 | [[Overcome loss aversion with hands-on experience\|Overcome loss aversion with hands-on experience]]                         | 9     |
 | [[Practice one or two specific skills\|Practice one or two specific skills]]                                                 | 9     |
@@ -28,8 +28,8 @@
 | [[Practice with immediate feedback and coaching\|Practice with immediate feedback and coaching]]                             | 7     |
 | [[Bright spots show positive deviance\|Bright spots show positive deviance]]                                                 | 6     |
 | [[Change efforts are undermined by three measurement mistakes\|Change efforts are undermined by three measurement mistakes]] | 6     |
+| [[Leadership is intentional influence\|Leadership is intentional influence]]                                                 | 6     |
 | [[Theory of influence asks why and how\|Theory of influence asks why and how]]                                               | 5     |
 | [[Deliberate practice matters more than time on the job\|Deliberate practice matters more than time on the job]]             | 4     |
-| [[Leadership is intentional influence\|Leadership is intentional influence]]                                                 | 4     |
 
 { .block-language-dataview}

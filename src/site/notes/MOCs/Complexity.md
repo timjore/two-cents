@@ -40,11 +40,11 @@
 | [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]]                     | 6     |
 | [[Globalization is a complex system\|Globalization is a complex system]]                                                                                               | 5     |
 | [[Large systems tend to disintegrate during development\|Large systems tend to disintegrate during development]]                                                       | 5     |
+| [[Maps of connectivity reveal strategic dynamics\|Maps of connectivity reveal strategic dynamics]]                                                                     | 5     |
 | [[Solutions to complex problems depend on creation of themes\|Solutions to complex problems depend on creation of themes]]                                             | 5     |
 | [[Solving complex problems requires intentional follow-through\|Solving complex problems requires intentional follow-through]]                                         | 5     |
 | [[Solving complex problems requires understanding the context\|Solving complex problems requires understanding the context]]                                           | 5     |
 | [[Checklists ensure success in complex conditions\|Checklists ensure success in complex conditions]]                                                                   | 4     |
-| [[Maps of connectivity reveal strategic dynamics\|Maps of connectivity reveal strategic dynamics]]                                                                     | 4     |
 | [[Solutions to complex problems depends on a clear frame\|Solutions to complex problems depends on a clear frame]]                                                     | 4     |
 | [[Trailblazers amplify weak signals\|Trailblazers amplify weak signals]]                                                                                               | 4     |
 | [[Solving complex problems requires having the right participants\|Solving complex problems requires having the right participants]]                                   | 3     |

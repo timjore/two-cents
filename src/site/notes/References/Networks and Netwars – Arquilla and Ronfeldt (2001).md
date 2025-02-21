@@ -14,8 +14,9 @@
 
 
 
-| File                                                                                                                | Links |
-| ------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[All-Channel Networks can function without hierarchies\|All-Channel Networks can function without hierarchies]] | 6     |
+| File                                                                                                                                              | Links |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[All-Channel Networks can function without hierarchies\|All-Channel Networks can function without hierarchies]]                               | 8     |
+| [[Ideology is the glue that holds decentralized organizations together\|Ideology is the glue that holds decentralized organizations together]] | 8     |
 
 { .block-language-dataview}

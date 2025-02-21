@@ -44,9 +44,11 @@ The “rigorous language for the description of networks is found in graph theor
 | [[Liquid Networks foster innovation\|Liquid Networks foster innovation]]                                                                           | 17          |
 | [[Power Law distributions\|Power Law distributions]]                                                                                               | 12          |
 | [[Simple rules tame complexity\|Simple rules tame complexity]]                                                                                     | 11          |
+| [[All-Channel Networks can function without hierarchies\|All-Channel Networks can function without hierarchies]]                                   | 8           |
+| [[Ideology is the glue that holds decentralized organizations together\|Ideology is the glue that holds decentralized organizations together]]     | 8           |
 | [[Kinds of networks\|Kinds of networks]]                                                                                                           | 7           |
 | [[Networks at scale increase the number of links more than nodes\|Networks at scale increase the number of links more than nodes]]                 | 7           |
-| [[All-Channel Networks can function without hierarchies\|All-Channel Networks can function without hierarchies]]                                   | 6           |
+| [[Decentralized organizations emerge from networks\|Decentralized organizations emerge from networks]]                                             | 7           |
 | [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]] | 6           |
 | [[Globalization is a complex system\|Globalization is a complex system]]                                                                           | 5           |
 | [[Metcalfe's Law defines network effects\|Metcalfe's Law defines network effects]]                                                                 | 5           |
