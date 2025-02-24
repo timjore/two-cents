@@ -10,9 +10,9 @@
 | [[Resilience Thinking embraces the reality that things change\|Resilience Thinking embraces the reality that things change]]                                 | 17          |
 | [[Resilience Thinking creates antifragile systems\|Resilience Thinking creates antifragile systems]]                                                         | 15          |
 | [[General resilience depends on diversity, modularity, and feedbacks\|General resilience depends on diversity, modularity, and feedbacks]]                   | 14          |
-| [[Decentralized systems can adapt rapidly\|Decentralized systems can adapt rapidly]]                                                                         | 14          |
-| [[Decentralized systems can grow quickly\|Decentralized systems can grow quickly]]                                                                           | 14          |
-| [[When attacked, decentralized systems tend to become moreso\|When attacked, decentralized systems tend to become moreso]]                                   | 13          |
+| [[Decentralized systems can adapt rapidly\|Decentralized systems can adapt rapidly]]                                                                         | 13          |
+| [[Decentralized systems can grow quickly\|Decentralized systems can grow quickly]]                                                                           | 13          |
+| [[When attacked, decentralized systems tend to become moreso\|When attacked, decentralized systems tend to become moreso]]                                   | 12          |
 | [[Optimization aims to hold a system in an optimal state\|Optimization aims to hold a system in an optimal state]]                                           | 11          |
 | [[Complex adaptive systems are unpredictable and non-linear\|Complex adaptive systems are unpredictable and non-linear]]                                     | 10          |
 | [[Diversity of a system affects resilience\|Diversity of a system affects resilience]]                                                                       | 10          |

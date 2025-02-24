@@ -27,8 +27,8 @@
 | [[Complex problems require new thinking\|Complex problems require new thinking]]                                                                                       | 9     |
 | [[Dynamic problems add elements and shift connections over time\|Dynamic problems add elements and shift connections over time]]                                       | 9     |
 | [[Systems Theory studies the relationships and structure of systems\|Systems Theory studies the relationships and structure of systems]]                               | 9     |
-| [[Antifragile Systems become stronger with shocks\|Antifragile Systems become stronger with shocks]]                                                                   | 8     |
 | [[Antifragile systems are configured for adaptability\|Antifragile systems are configured for adaptability]]                                                           | 8     |
+| [[Antifragile Systems become stronger with shocks\|Antifragile Systems become stronger with shocks]]                                                                   | 8     |
 | [[Solutions to complex problems are based on pattern recognition\|Solutions to complex problems are based on pattern recognition]]                                     | 8     |
 | [[Solving complex problems avoids simplification\|Solving complex problems avoids simplification]]                                                                     | 8     |
 | [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                                       | 8     |

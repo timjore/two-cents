@@ -33,7 +33,7 @@
 | [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                     | 5           |
 | [[Survivorship bias focuses only on successful examples\|Survivorship bias focuses only on successful examples]]                                           | 5           |
 | [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                               | 4           |
-| [[Bandwagon bias is social proof\|Bandwagon bias is social proof]]                                                                                         | 3           |
+| [[Bandwagon bias is social proof\|Bandwagon bias is social proof]]                                                                                         | 4           |
 | [[Halo effect is the tendency to like (or dislike) everything about a person\|Halo effect is the tendency to like (or dislike) everything about a person]] | 2           |
 
 { .block-language-dataview}

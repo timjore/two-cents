@@ -14,9 +14,10 @@
 
 
 
-| File                                                                  | Links |
-| --------------------------------------------------------------------- | ----- |
-| [[Tribalism is human nature\|Tribalism is human nature]]           | 7     |
-| [[Bandwagon bias is social proof\|Bandwagon bias is social proof]] | 3     |
+| File                                                                                                                    | Links |
+| ----------------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Tribalism is human nature\|Tribalism is human nature]]                                                             | 7     |
+| [[Bandwagon bias is social proof\|Bandwagon bias is social proof]]                                                   | 4     |
+| [[Social proof is most influential under three conditions\|Social proof is most influential under three conditions]] | 3     |
 
 { .block-language-dataview}

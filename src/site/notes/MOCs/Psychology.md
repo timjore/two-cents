@@ -27,6 +27,7 @@
 | [[Psychological Safety is a prerequisite for creativity\|Psychological Safety is a prerequisite for creativity]]                                                           | 4           |
 | [[Between stimulus and response, man has the freedom to choose\|Between stimulus and response, man has the freedom to choose]]                                             | 3           |
 | [[What others do is the stimulus, not the cause, of feelings\|What others do is the stimulus, not the cause, of feelings]]                                                 | 3           |
+| [[Social proof is most influential under three conditions\|Social proof is most influential under three conditions]]                                                       | 3           |
 | [[Extrinsic rewards can crowd out intrinsic motivation\|Extrinsic rewards can crowd out intrinsic motivation]]                                                             | 2           |
 | [[Opportunity Cost is the sum of all the benefits provided by the options not chosen\|Opportunity Cost is the sum of all the benefits provided by the options not chosen]] | 2           |
 | [[Tactical Empathy understands another's feelings and mindset\|Tactical Empathy understands another's feelings and mindset]]                                               | 2           |

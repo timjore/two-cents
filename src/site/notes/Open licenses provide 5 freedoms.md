@@ -17,7 +17,7 @@ The specific freedoms contained in this concise definition can be summarized by 
  5. **Redistribute** – The right to share copies of the original content, your revisions, or your remixes with others (e.g., give a copy of the content to a friend).
 
 ---
-#open #strategic 
+#open #strategic #ipr 
 
 See also:
 - [[Synthesis of innovation frameworks\|Synthesis of innovation frameworks]]

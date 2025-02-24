@@ -12,6 +12,10 @@ We tend to define correct behavior according to what we see others doing:
 
 > To discover why popularity is so effective, we need to understand the nature of yet another potent lever of influence: the principle of social proof. This principle states that ==we determine what is correct by finding out what other people think is correct==. Importantly, the principle applies to the way we decide what constitutes correct behavior. ==We view an action as correct in a given situation to the degree that **we see others performing it**==.[^2]
 
+Put succinctly, social proof asserts:
+
+> ==The greater the number of people who find any idea correct, **the more a given individual will perceive the idea to be correct**.==[^3]
+
 ---
 #bias #sociology 
 
@@ -20,3 +24,4 @@ See also:
 
 [^1]: [[References/The Voltage Effect – List (2022)\|The Voltage Effect – List (2022)]], ch. 1
 [^2]: [[References/Influence – Cialdini (2021)\|Influence – Cialdini (2021)]], ch. 4, § “Social Proof”
+[^3]: Ibid., ch. 4, § “After the Deluge.”
