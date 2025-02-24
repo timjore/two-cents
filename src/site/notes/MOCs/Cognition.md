@@ -43,6 +43,7 @@
 | [[The clarity of a map is not easily distinguished from its accuracy\|The clarity of a map is not easily distinguished from its accuracy]]                               | 7           |
 | [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]                                                                             | 7           |
 | [[Analogical thinking uses a known example to explain something new\|Analogical thinking uses a known example to explain something new]]                                 | 6           |
+| [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                                             | 6           |
 | [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]]                                       | 6           |
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                               | 6           |
 | [[Fundamental Attribution Error blames others and exonerates me\|Fundamental Attribution Error blames others and exonerates me]]                                         | 6           |
@@ -54,7 +55,6 @@
 | [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                                   | 5           |
 | [[Tools both illuminate and limit our understanding\|Tools both illuminate and limit our understanding]]                                                                 | 5           |
 | [[Writing clarifies thinking\|Writing clarifies thinking]]                                                                                                               | 5           |
-| [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                                             | 4           |
 | [[Frightening and dangerous are two different things\|Frightening and dangerous are two different things]]                                                               | 4           |
 | [[Locking down of a problem leads to frozen thinking\|Locking down of a problem leads to frozen thinking]]                                                               | 4           |
 | [[Occam's razor leads to first principles thinking\|Occam's razor leads to first principles thinking]]                                                                   | 4           |

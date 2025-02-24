@@ -8,7 +8,7 @@
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Changing things requires directing the Rider and motivating the Elephant\|Changing things requires directing the Rider and motivating the Elephant]]                     | 15          |
 | [[Growing your people cultivates identity and growth mindset\|Growing your people cultivates identity and growth mindset]]                                                 | 14          |
-| [[Perception is Reality\|Perception is Reality]]                                                                                                                           | 13          |
+| [[Perception is Reality\|Perception is Reality]]                                                                                                                           | 14          |
 | [[Creating frames overcomes the adoption problem\|Creating frames overcomes the adoption problem]]                                                                         | 9           |
 | [[Finding the feeling moves beyond merely knowing things\|Finding the feeling moves beyond merely knowing things]]                                                         | 9           |
 | [[Intuition is pattern recognition\|Intuition is pattern recognition]]                                                                                                     | 9           |
@@ -23,11 +23,13 @@
 | [[Pattern recognition primes decision-making\|Pattern recognition primes decision-making]]                                                                                 | 6           |
 | [[Identity drives behavior\|Identity drives behavior]]                                                                                                                     | 5           |
 | [[People tend to adopt their own ideas\|People tend to adopt their own ideas]]                                                                                             | 5           |
+| [[Taking a stand triggers the consistency principle\|Taking a stand triggers the consistency principle]]                                                                   | 5           |
+| [[Consistency principle is a social anchoring effect\|Consistency principle is a social anchoring effect]]                                                                 | 5           |
 | [[Fixed mindset believes abilities are set in stone\|Fixed mindset believes abilities are set in stone]]                                                                   | 4           |
 | [[Psychological Safety is a prerequisite for creativity\|Psychological Safety is a prerequisite for creativity]]                                                           | 4           |
+| [[Social proof is most influential under three conditions\|Social proof is most influential under three conditions]]                                                       | 4           |
 | [[Between stimulus and response, man has the freedom to choose\|Between stimulus and response, man has the freedom to choose]]                                             | 3           |
 | [[What others do is the stimulus, not the cause, of feelings\|What others do is the stimulus, not the cause, of feelings]]                                                 | 3           |
-| [[Social proof is most influential under three conditions\|Social proof is most influential under three conditions]]                                                       | 3           |
 | [[Extrinsic rewards can crowd out intrinsic motivation\|Extrinsic rewards can crowd out intrinsic motivation]]                                                             | 2           |
 | [[Opportunity Cost is the sum of all the benefits provided by the options not chosen\|Opportunity Cost is the sum of all the benefits provided by the options not chosen]] | 2           |
 | [[Tactical Empathy understands another's feelings and mindset\|Tactical Empathy understands another's feelings and mindset]]                                               | 2           |

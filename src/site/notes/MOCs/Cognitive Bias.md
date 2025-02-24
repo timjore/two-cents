@@ -16,7 +16,7 @@
 | [[Gap Instinct hinders thinking by ignoring the middle majority\|Gap Instinct hinders thinking by ignoring the middle majority]]                           | 22          |
 | [[Size Instinct hinders thinking by considering a number without context\|Size Instinct hinders thinking by considering a number without context]]         | 21          |
 | [[Urgency Instinct hinders thinking by exaggerating a decision's urgency\|Urgency Instinct hinders thinking by exaggerating a decision's urgency]]         | 20          |
-| [[Status quo bias favors the current state\|Status quo bias favors the current state]]                                                                     | 16          |
+| [[Status quo bias favors the current state\|Status quo bias favors the current state]]                                                                     | 18          |
 | [[Dichotomous thinking simplistically resolves ambiguity\|Dichotomous thinking simplistically resolves ambiguity]]                                         | 15          |
 | [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                   | 14          |
 | [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]                                                               | 12          |
@@ -27,12 +27,12 @@
 | [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]                                                               | 7           |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                 | 7           |
 | [[Selection Bias happens when the sample is not representative\|Selection Bias happens when the sample is not representative]]                             | 7           |
+| [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                               | 6           |
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                 | 6           |
 | [[Bias for action can mask a bias against thinking\|Bias for action can mask a bias against thinking]]                                                     | 5           |
 | [[Complexifying overcomes binary bias\|Complexifying overcomes binary bias]]                                                                               | 5           |
 | [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                     | 5           |
 | [[Survivorship bias focuses only on successful examples\|Survivorship bias focuses only on successful examples]]                                           | 5           |
-| [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                               | 4           |
 | [[Bandwagon bias is social proof\|Bandwagon bias is social proof]]                                                                                         | 4           |
 | [[Halo effect is the tendency to like (or dislike) everything about a person\|Halo effect is the tendency to like (or dislike) everything about a person]] | 2           |
 
