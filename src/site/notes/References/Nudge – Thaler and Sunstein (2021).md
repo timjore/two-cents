@@ -16,6 +16,6 @@
 
 | File                                                                                      | Links |
 | ----------------------------------------------------------------------------------------- | ----- |
-| [[Status quo bias favors the current state\|Status quo bias favors the current state]] | 18    |
+| [[Status quo bias favors the current state\|Status quo bias favors the current state]] | 19    |
 
 { .block-language-dataview}

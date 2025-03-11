@@ -19,6 +19,6 @@
 | [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]] | 32    |
 | [[Listen to the Suck with Curiosity\|Listen to the Suck with Curiosity]]                                                                                         | 9     |
 | [[Systems mindset examines the quality of decisions, not just outcomes\|Systems mindset examines the quality of decisions, not just outcomes]]                   | 9     |
-| [[MOCs/Paradigm Shifts\|Paradigm Shifts]]                                                                                                                        | 4     |
+| [[Topics/Paradigm Shifts\|Paradigm Shifts]]                                                                                                                      | 4     |
 
 { .block-language-dataview}

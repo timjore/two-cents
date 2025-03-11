@@ -15,11 +15,11 @@
 
 | File                                                                                                                                                            | Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Status quo bias favors the current state\|Status quo bias favors the current state]]                                                                       | 18    |
+| [[Status quo bias favors the current state\|Status quo bias favors the current state]]                                                                       | 19    |
 | [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                     | 14    |
 | [[Planning fallacy confuses “best-guess” with “best-case” scenario\|Planning fallacy confuses “best-guess” with “best-case” scenario]]                       | 13    |
 | [[Premortem works backward from an undesirable outcome in order to prevent it\|Premortem works backward from an undesirable outcome in order to prevent it]] | 11    |
-| [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]]                                                                           | 10    |
+| [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]]                                                                           | 11    |
 | [[Intuition is pattern recognition\|Intuition is pattern recognition]]                                                                                       | 9     |
 | [[Positive Test Strategy reinforces Confirmation Bias\|Positive Test Strategy reinforces Confirmation Bias]]                                                 | 9     |
 | [[Superforecasting is the intersection of range and mindset\|Superforecasting is the intersection of range and mindset]]                                     | 9     |

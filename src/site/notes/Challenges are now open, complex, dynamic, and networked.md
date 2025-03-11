@@ -5,7 +5,7 @@
 
 # Challenges are now open, complex, dynamic, and networked
 
-In [[MOCs/Frame Innovation\|Frame Innovation]], Dorst argues that the nature of problems has shifted from merely simple (or even complicated) to problems that are open, complex, dynamic, and networked, which are defined as follows (OCDN):
+In [[Topics/Frame Innovation\|Frame Innovation]], Dorst argues that the nature of problems has shifted from merely simple (or even complicated) to problems that are open, complex, dynamic, and networked, which are defined as follows (OCDN):
 
 - An [[Open problems have unclear or permeable borders\|open]] problem is one where the system border is not clear, or where it is permeable. 
 - A [[Complex problems have many interconnected elements\|complex]] problem is one that consists of many elements, with numerous connections between them.

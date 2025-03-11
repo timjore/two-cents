@@ -15,7 +15,7 @@
 
 | File                                                                                                                                        | Links |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Lateral thinking is range in action\|Lateral thinking is range in action]]                                                             | 19    |
+| [[Lateral thinking is range in action\|Lateral thinking is range in action]]                                                             | 20    |
 | [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]                           | 18    |
 | [[Specialization tends to reduce range\|Specialization tends to reduce range]]                                                           | 13    |
 | [[Wicked learning environments prevent learning\|Wicked learning environments prevent learning]]                                         | 10    |

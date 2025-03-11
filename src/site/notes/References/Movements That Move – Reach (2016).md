@@ -16,7 +16,7 @@
 
 | File                                                                                                                                                  | Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]] | 6     |
+| [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]] | 7     |
 | [[Use of funding for training does not disrupt movements\|Use of funding for training does not disrupt movements]]                                 | 6     |
 
 { .block-language-dataview}

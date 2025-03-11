@@ -14,9 +14,10 @@ The “Scout Mindset” seeks to see things as they are. By contrast, the “Sol
 #cognition #mindset
 
 See also:
+- [[Scout mindset is the pursuit of truth\|Scout mindset is the pursuit of truth]]
 - [[Scouts frequently update their maps\|Scouts frequently update their maps]]
 - [[Metaphors form the basis of our ability to think\|Metaphors form the basis of our ability to think]]
 - [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]
 
 [^1]: Described in [[References/Metaphors We Live By –  Lakoff and Johnson (2008)\|Metaphors We Live By –  Lakoff and Johnson (2008)]].
-[^2]: [[References/The Scout Mindset – Galef (2021)\|The Scout Mindset – Galef (2021)]] § “Reasoning as Defensive Combat.”
+[^2]: [[References/The Scout Mindset – Galef (2021)\|The Scout Mindset – Galef (2021)]] § “Reasoning as Defensive Combat.” Galef observes: “The best description of motivated reasoning I’ve ever seen comes from psychologist Tom Gilovich. When we want something to be true, he said, we ask ourselves, ‘Can I believe this?,’ searching for an excuse to accept it. When we don’t want something to be true, we instead ask ourselves, ’Must I believe this?,’ searching for an excuse to reject it” (Ibid., ch. 1).

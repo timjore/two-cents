@@ -20,14 +20,14 @@ An active cultivation of thoughts and ideas across a broad range of topics. Star
 ## Maps of Concepts
 
 These provide indices of notes in similar domains:
-- [[MOCs/Cognition\|Cognition]]
-- [[MOCs/Cognitive Bias\|Cognitive Bias]]
-- [[MOCs/Complexity\|Complexity]]
-- [[MOCs/Frame Innovation\|Frame Innovation]]
-- [[MOCs/Networks\|Networks]]
-- [[MOCs/Paradigm Shifts\|Paradigm Shifts]]
-- [[MOCs/Psychology\|Psychology]]
-- [[MOCs/Resilience Thinking\|Resilience Thinking]]
+- [[Topics/Cognition\|Cognition]]
+- [[Topics/Cognitive Bias\|Cognitive Bias]]
+- [[Topics/Complexity\|Complexity]]
+- [[Topics/Frame Innovation\|Frame Innovation]]
+- [[Topics/Networks\|Networks]]
+- [[Topics/Paradigm Shifts\|Paradigm Shifts]]
+- [[Topics/Psychology\|Psychology]]
+- [[Topics/Resilience Thinking\|Resilience Thinking]]
 
 { .block-language-dataview}
 

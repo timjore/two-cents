@@ -40,8 +40,8 @@ See [[Changing things requires directing the Rider and motivating the Elephant\|
 | [[Finding the feeling moves beyond merely knowing things\|Finding the feeling moves beyond merely knowing things]]                                     | 9     |
 | [[Scripting the critical moves shapes specific behaviors\|Scripting the critical moves shapes specific behaviors]]                                     | 9     |
 | [[Finding the bright spots clones what is already working\|Finding the bright spots clones what is already working]]                                   | 8     |
+| [[Growth mindset reframes failure as learning\|Growth mindset reframes failure as learning]]                                                           | 8     |
 | [[Tweaking the environment changes behavior\|Tweaking the environment changes behavior]]                                                               | 8     |
-| [[Growth mindset reframes failure as learning\|Growth mindset reframes failure as learning]]                                                           | 7     |
 | [[One or two high leverage behaviors produce maximum change\|One or two high leverage behaviors produce maximum change]]                               | 7     |
 | [[Rallying the herd makes behavior contagious\|Rallying the herd makes behavior contagious]]                                                           | 7     |
 | [[Shrinking the change reduces fear\|Shrinking the change reduces fear]]                                                                               | 7     |

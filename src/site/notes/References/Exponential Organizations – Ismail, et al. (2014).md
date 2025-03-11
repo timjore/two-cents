@@ -16,6 +16,6 @@
 | File                                                                                  | Links |
 | ------------------------------------------------------------------------------------- | ----- |
 | [[1% is Halfway\|1% is Halfway]]                                                   | 11    |
-| [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]] | 10    |
+| [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]] | 11    |
 
 { .block-language-dataview}

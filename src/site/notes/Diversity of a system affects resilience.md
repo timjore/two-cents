@@ -16,7 +16,7 @@ The degree of variation in a system is directly correlated to its ability to abs
 See also:
  - [[General resilience depends on diversity, modularity, and feedbacks\|General resilience depends on diversity, modularity, and feedbacks]]
  - [[Modularity of a system affects resilience\|Modularity of a system affects resilience]]
- - [[Staging/Tightness of feedback loops affects a system’s resilience\|Tightness of feedback loops affects a system’s resilience]]
+ - [[Tightness of feedback loops affects a system’s resilience\|Tightness of feedback loops affects a system’s resilience]]
  - [[Increasing efficiency tends to lock up a system\|Increasing efficiency tends to lock up a system]]
  - [[Efficiency is purchased by a loss in flexibility\|Efficiency is purchased by a loss in flexibility]]
 
