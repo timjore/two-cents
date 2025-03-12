@@ -9,6 +9,8 @@ In the technology adoption life cycle, there is a massive difference between vis
 
 > If there are to some extent minor gaps between the other adoption groups, ==**between visionaries and pragmatists** there is a great—and to a large extent, greatly ignored—chasm.==
 
+![Crossing-the-Chasm.png](/img/user/Attachments/Crossing-the-Chasm.png)
+
 Thus, “making the marketing and communications transition between any two adoption segments is normally excruciatingly awkward because you must adopt new strategies just at the time you have become most comfortable with the old ones.”[^1]
 
 

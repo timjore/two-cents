@@ -14,9 +14,9 @@
 | [[Finding the feeling moves beyond merely knowing things\|Finding the feeling moves beyond merely knowing things]]                                                         | 9           |
 | [[Intuition is pattern recognition\|Intuition is pattern recognition]]                                                                                                     | 9           |
 | [[Growth mindset reframes failure as learning\|Growth mindset reframes failure as learning]]                                                                               | 8           |
+| [[Loss aversion values avoiding losses more than achieving gains\|Loss aversion values avoiding losses more than achieving gains]]                                         | 8           |
 | [[Negativity dominance processes the bad more thoroughly than the good\|Negativity dominance processes the bad more thoroughly than the good]]                             | 8           |
 | [[Path dependence shapes what we do next\|Path dependence shapes what we do next]]                                                                                         | 8           |
-| [[Loss aversion values avoiding losses more than achieving gains\|Loss aversion values avoiding losses more than achieving gains]]                                         | 7           |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                                 | 7           |
 | [[Rallying the herd makes behavior contagious\|Rallying the herd makes behavior contagious]]                                                                               | 7           |
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                                 | 6           |

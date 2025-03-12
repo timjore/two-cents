@@ -16,7 +16,7 @@
 
 | File                                                                                                                                                                    | Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Faint signals are whispers from the future\|Faint signals are whispers from the future]]                                                                           | 17    |
+| [[Faint signals are whispers from the future\|Faint signals are whispers from the future]]                                                                           | 18    |
 | [[First Principles thinking allows you to see the obvious hiding in plain sight\|First Principles thinking allows you to see the obvious hiding in plain sight]]     | 15    |
 | [[Backcasting works backward from a desired outcome\|Backcasting works backward from a desired outcome]]                                                             | 14    |
 | [[Premortem works backward from an undesirable outcome in order to prevent it\|Premortem works backward from an undesirable outcome in order to prevent it]]         | 11    |

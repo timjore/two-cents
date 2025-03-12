@@ -12,8 +12,8 @@
 | [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]                                                                               | 20    |
 | [[Coevolution simultaneously develops the formulation of and solution to a problem\|Coevolution simultaneously develops the formulation of and solution to a problem]] | 18    |
 | [[Complex networks have unique topological features\|Complex networks have unique topological features]]                                                               | 18    |
+| [[Faint signals are whispers from the future\|Faint signals are whispers from the future]]                                                                             | 18    |
 | [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]                                                         | 18    |
-| [[Faint signals are whispers from the future\|Faint signals are whispers from the future]]                                                                             | 17    |
 | [[Complex systems are characterized by VUCA\|Complex systems are characterized by VUCA]]                                                                               | 14    |
 | [[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]]                                                                               | 13    |
 | [[Power Law distributions\|Power Law distributions]]                                                                                                                   | 12    |

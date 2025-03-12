@@ -16,7 +16,8 @@
 
 | File                                                                                                                                                        | Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Visionaries alienate pragmatists in four ways\|Visionaries alienate pragmatists in four ways]]                                                         | 6     |
-| [[Visionaries and pragmatists are fundamentally different in how they think\|Visionaries and pragmatists are fundamentally different in how they think]] | 4     |
+| [[People who have new ideas are threatening to the status quo\|People who have new ideas are threatening to the status quo]]                             | 11    |
+| [[Visionaries alienate pragmatists in four ways\|Visionaries alienate pragmatists in four ways]]                                                         | 5     |
+| [[Visionaries and pragmatists are fundamentally different in how they think\|Visionaries and pragmatists are fundamentally different in how they think]] | 5     |
 
 { .block-language-dataview}
