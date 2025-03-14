@@ -16,8 +16,8 @@
 
 | File                                                                                                                                                        | Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[People who have new ideas are threatening to the status quo\|People who have new ideas are threatening to the status quo]]                             | 11    |
-| [[Visionaries alienate pragmatists in four ways\|Visionaries alienate pragmatists in four ways]]                                                         | 5     |
-| [[Visionaries and pragmatists are fundamentally different in how they think\|Visionaries and pragmatists are fundamentally different in how they think]] | 5     |
+| [[Visionaries and pragmatists are fundamentally different in how they think\|Visionaries and pragmatists are fundamentally different in how they think]] | 9     |
+| [[Early majority is motivated by why rather than what\|Early majority is motivated by why rather than what]]                                             | 8     |
+| [[Visionaries alienate pragmatists in four ways\|Visionaries alienate pragmatists in four ways]]                                                         | 7     |
 
 { .block-language-dataview}

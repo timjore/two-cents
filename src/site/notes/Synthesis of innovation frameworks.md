@@ -4,12 +4,13 @@
 
 # Synthesis of innovation frameworks
 
-An attempt to synthesize the main frameworks of several books and concepts pertaining to innovation:
+A synthesis of innovation frameworks and concepts, as described in various books:
 
 ![Synthesis-of-innovation-frameworks_image_1.png](/img/user/Attachments/Synthesis-of-innovation-frameworks_image_1.png)
 
 ---
-#innovation 
+#innovation #synthesis
 
 See also:
+- [[Strategic Cascade\|Strategic Cascade]]
 - [[Analogical thinking uses a known example to explain something new\|Analogical thinking uses a known example to explain something new]]
