@@ -14,7 +14,9 @@
 | [[Decentralized systems can grow quickly\|Decentralized systems can grow quickly]]                                                                               | 13          |
 | [[Decentralized systems can adapt rapidly\|Decentralized systems can adapt rapidly]]                                                                             | 13          |
 | [[When attacked, decentralized systems tend to become moreso\|When attacked, decentralized systems tend to become moreso]]                                       | 12          |
+| [[Shared consciousness maximizes availability of strategic information\|Shared consciousness maximizes availability of strategic information]]                   | 12          |
 | [[Optimization aims to hold a system in an optimal state\|Optimization aims to hold a system in an optimal state]]                                               | 11          |
+| [[Empowered execution enables effective adaptation to threats and opportunities\|Empowered execution enables effective adaptation to threats and opportunities]] | 11          |
 | [[Complex adaptive systems are unpredictable and non-linear\|Complex adaptive systems are unpredictable and non-linear]]                                         | 10          |
 | [[Diversity of a system affects resilience\|Diversity of a system affects resilience]]                                                                           | 10          |
 | [[Resilience is the capacity to absorb shocks and retain function\|Resilience is the capacity to absorb shocks and retain function]]                             | 10          |
@@ -25,13 +27,13 @@
 | [[Adaptability is the capacity of actors to manage the resilience of a system\|Adaptability is the capacity of actors to manage the resilience of a system]]     | 7           |
 | [[Resilience is the distance between the system and its nearest threshold\|Resilience is the distance between the system and its nearest threshold]]             | 7           |
 | [[Systems of nature tend to follow an adaptive cycle\|Systems of nature tend to follow an adaptive cycle]]                                                       | 7           |
+| [[Consistency of rigid management processes decreases flexibility\|Consistency of rigid management processes decreases flexibility]]                             | 6           |
 | [[Tightness of feedback loops affects a system’s resilience\|Tightness of feedback loops affects a system’s resilience]]                                         | 6           |
 | [[All linked adaptive cycles govern the behavior of a system\|All linked adaptive cycles govern the behavior of a system]]                                       | 5           |
 | [[Increasing efficiency tends to lock up a system\|Increasing efficiency tends to lock up a system]]                                                             | 5           |
 | [[Proximity to a threshold decreases the shock required to cross it\|Proximity to a threshold decreases the shock required to cross it]]                         | 5           |
 | [[Specified resilience defends against known disturbances\|Specified resilience defends against known disturbances]]                                             | 5           |
 | [[Transformability is the capacity to create a new system\|Transformability is the capacity to create a new system]]                                             | 5           |
-| [[Consistency of rigid management processes decreases flexibility\|Consistency of rigid management processes decreases flexibility]]                             | 5           |
 | [[Need for distribution of authority is commensurate to an organization’s size.\|Need for distribution of authority is commensurate to an organization’s size.]] | 4           |
 
 { .block-language-dataview}

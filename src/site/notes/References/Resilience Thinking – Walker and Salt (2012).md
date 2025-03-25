@@ -15,7 +15,7 @@
 
 | File                                                                                                                                                            | Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Efficiency is purchased by a loss in flexibility\|Efficiency is purchased by a loss in flexibility]]                                                       | 21    |
+| [[Efficiency is purchased by a loss in flexibility\|Efficiency is purchased by a loss in flexibility]]                                                       | 22    |
 | [[Resilience Thinking understands thresholds and adaptive cycles\|Resilience Thinking understands thresholds and adaptive cycles]]                           | 18    |
 | [[Resilience Thinking embraces the reality that things change\|Resilience Thinking embraces the reality that things change]]                                 | 17    |
 | [[Resilience Thinking creates antifragile systems\|Resilience Thinking creates antifragile systems]]                                                         | 15    |

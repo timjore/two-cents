@@ -27,7 +27,7 @@ In the history of shipping, one of the most transformative inventions was the sh
 
 See also:
 - [[Adjacent Possible is the edge of the future\|Adjacent Possible is the edge of the future]]
-- [[Perception is Reality\|Perception is Reality]]
+- [[Organizations entrenched in what they do need to return to why they do it\|Organizations entrenched in what they do need to return to why they do it]]
 - [[Institutions become committed to preserving the problem they were formed to solve\|Institutions become committed to preserving the problem they were formed to solve]]
 - [[Prime directive of institutions is self-preservation\|Prime directive of institutions is self-preservation]]
 

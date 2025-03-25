@@ -42,11 +42,12 @@
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                               | 7           |
 | [[The clarity of a map is not easily distinguished from its accuracy\|The clarity of a map is not easily distinguished from its accuracy]]                               | 7           |
 | [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]                                                                             | 7           |
-| [[Analogical thinking uses a known example to explain something new\|Analogical thinking uses a known example to explain something new]]                                 | 6           |
 | [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                                             | 6           |
+| [[Analogical thinking uses a known example to explain something new\|Analogical thinking uses a known example to explain something new]]                                 | 6           |
 | [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]]                                       | 6           |
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                               | 6           |
 | [[Fundamental Attribution Error blames others and exonerates me\|Fundamental Attribution Error blames others and exonerates me]]                                         | 6           |
+| [[Ideas are like leaves floating on collective thinking\|Ideas are like leaves floating on collective thinking]]                                                         | 6           |
 | [[Bias for action can mask a bias against thinking\|Bias for action can mask a bias against thinking]]                                                                   | 5           |
 | [[Integrative, macroscopic thinking sees the forest and the trees\|Integrative, macroscopic thinking sees the forest and the trees]]                                     | 5           |
 | [[Metaphors form the basis of our ability to think\|Metaphors form the basis of our ability to think]]                                                                   | 5           |
@@ -56,12 +57,12 @@
 | [[Tools both illuminate and limit our understanding\|Tools both illuminate and limit our understanding]]                                                                 | 5           |
 | [[Writing clarifies thinking\|Writing clarifies thinking]]                                                                                                               | 5           |
 | [[Frightening and dangerous are two different things\|Frightening and dangerous are two different things]]                                                               | 4           |
+| [[Making good decisions in ambiguous scenarios requires elastic thinking\|Making good decisions in ambiguous scenarios requires elastic thinking]]                       | 4           |
 | [[Locking down of a problem leads to frozen thinking\|Locking down of a problem leads to frozen thinking]]                                                               | 4           |
 | [[Occam's razor leads to first principles thinking\|Occam's razor leads to first principles thinking]]                                                                   | 4           |
 | [[Rough Consensus enables forward progress\|Rough Consensus enables forward progress]]                                                                                   | 4           |
 | [[Strategic capability is required for thinking your way out of difficult positions\|Strategic capability is required for thinking your way out of difficult positions]] | 4           |
 | [[The map is not the territory\|The map is not the territory]]                                                                                                           | 4           |
-| [[Making good decisions in ambiguous scenarios requires elastic thinking\|Making good decisions in ambiguous scenarios requires elastic thinking]]                       | 4           |
 | [[Intuition delivers overly extreme predictions\|Intuition delivers overly extreme predictions]]                                                                         | 3           |
 | [[Trustworthy vs. Trusted\|Trustworthy vs. Trusted]]                                                                                                                     | 3           |
 | [[Post hoc ergo propter hoc\|Post hoc ergo propter hoc]]                                                                                                                 | 1           |

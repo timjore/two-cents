@@ -12,5 +12,5 @@ A synthesis of innovation frameworks and concepts, as described in various books
 #innovation #synthesis
 
 See also:
-- [[Strategic Cascade\|Strategic Cascade]]
+- [[Strategic Cascade aligns activities with purpose\|Strategic Cascade aligns activities with purpose]]
 - [[Analogical thinking uses a known example to explain something new\|Analogical thinking uses a known example to explain something new]]

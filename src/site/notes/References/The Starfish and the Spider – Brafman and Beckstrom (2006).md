@@ -23,10 +23,10 @@
 | [[Decentralization of industries tends to lower profits\|Decentralization of industries tends to lower profits]]                                                                   | 12    |
 | [[When attacked, decentralized systems tend to become moreso\|When attacked, decentralized systems tend to become moreso]]                                                         | 12    |
 | [[A catalyst starts and moves on from a decentralized organization\|A catalyst starts and moves on from a decentralized organization]]                                             | 9     |
+| [[Leadership is by circles in decentralized organizations\|Leadership is by circles in decentralized organizations]]                                                               | 8     |
 | [[A decentralized organization stands on five legs\|A decentralized organization stands on five legs]]                                                                             | 7     |
 | [[Champions relentlessly promote a new idea\|Champions relentlessly promote a new idea]]                                                                                           | 7     |
 | [[Ideology is the glue that holds decentralized organizations together\|Ideology is the glue that holds decentralized organizations together]]                                     | 7     |
-| [[Leadership is by circles in decentralized organizations\|Leadership is by circles in decentralized organizations]]                                                               | 7     |
 | [[Decentralized organizations emerge from networks\|Decentralized organizations emerge from networks]]                                                                             | 6     |
 | [[Ten questions differentiate centralized and decentralized systems\|Ten questions differentiate centralized and decentralized systems]]                                           | 6     |
 | [[Decentralized systems are incomprehensible to centralized worldviews\|Decentralized systems are incomprehensible to centralized worldviews]]                                     | 5     |

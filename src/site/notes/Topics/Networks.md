@@ -40,8 +40,8 @@ The “rigorous language for the description of networks is found in graph theor
 
 | File                                                                                                                                                  | Total Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Liquid Networks foster innovation\|Liquid Networks foster innovation]]                                                                           | 19          |
 | [[Complex networks have unique topological features\|Complex networks have unique topological features]]                                           | 18          |
-| [[Liquid Networks foster innovation\|Liquid Networks foster innovation]]                                                                           | 18          |
 | [[Power Law distributions\|Power Law distributions]]                                                                                               | 12          |
 | [[Simple rules tame complexity\|Simple rules tame complexity]]                                                                                     | 11          |
 | [[All-Channel Networks can function without hierarchies\|All-Channel Networks can function without hierarchies]]                                   | 8           |

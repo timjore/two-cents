@@ -15,7 +15,7 @@
 
 | File                                                                                            | Links |
 | ----------------------------------------------------------------------------------------------- | ----- |
-| [[Liquid Networks foster innovation\|Liquid Networks foster innovation]]                     | 18    |
+| [[Liquid Networks foster innovation\|Liquid Networks foster innovation]]                     | 19    |
 | [[Quality arises from quantity\|Quality arises from quantity]]                               | 9     |
 | [[Adjacent Possible is the edge of the future\|Adjacent Possible is the edge of the future]] | 8     |
 
