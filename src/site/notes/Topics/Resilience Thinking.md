@@ -13,10 +13,10 @@
 | [[Resilience is the key to overcoming the innovator’s dilemma\|Resilience is the key to overcoming the innovator’s dilemma]]                                     | 14          |
 | [[Decentralized systems can grow quickly\|Decentralized systems can grow quickly]]                                                                               | 13          |
 | [[Decentralized systems can adapt rapidly\|Decentralized systems can adapt rapidly]]                                                                             | 13          |
-| [[When attacked, decentralized systems tend to become moreso\|When attacked, decentralized systems tend to become moreso]]                                       | 12          |
 | [[Shared consciousness maximizes availability of strategic information\|Shared consciousness maximizes availability of strategic information]]                   | 12          |
-| [[Optimization aims to hold a system in an optimal state\|Optimization aims to hold a system in an optimal state]]                                               | 11          |
+| [[When attacked, decentralized systems tend to become moreso\|When attacked, decentralized systems tend to become moreso]]                                       | 12          |
 | [[Empowered execution enables effective adaptation to threats and opportunities\|Empowered execution enables effective adaptation to threats and opportunities]] | 11          |
+| [[Optimization aims to hold a system in an optimal state\|Optimization aims to hold a system in an optimal state]]                                               | 11          |
 | [[Complex adaptive systems are unpredictable and non-linear\|Complex adaptive systems are unpredictable and non-linear]]                                         | 10          |
 | [[Diversity of a system affects resilience\|Diversity of a system affects resilience]]                                                                           | 10          |
 | [[Resilience is the capacity to absorb shocks and retain function\|Resilience is the capacity to absorb shocks and retain function]]                             | 10          |

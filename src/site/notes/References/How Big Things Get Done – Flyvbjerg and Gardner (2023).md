@@ -18,8 +18,8 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Planning fallacy confuses “best-guess” with “best-case” scenario\|Planning fallacy confuses “best-guess” with “best-case” scenario]]               | 13    |
 | [[Planning is an active, iterative, learning process\|Planning is an active, iterative, learning process]]                                           | 10    |
-| [[Thinking from right to left begins with the goal\|Thinking from right to left begins with the goal]]                                               | 9     |
 | [[Think slow, act fast is the secret of success\|Think slow, act fast is the secret of success]]                                                     | 9     |
+| [[Thinking from right to left begins with the goal\|Thinking from right to left begins with the goal]]                                               | 9     |
 | [[Successful projects develop a clear, informed understanding of the goal\|Successful projects develop a clear, informed understanding of the goal]] | 8     |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                           | 7     |
 | [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]                                                         | 7     |

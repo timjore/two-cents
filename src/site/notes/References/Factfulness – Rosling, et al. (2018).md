@@ -42,6 +42,6 @@
 | [[Size Instinct hinders thinking by considering a number without context\|Size Instinct hinders thinking by considering a number without context]]       | 21    |
 | [[Urgency Instinct hinders thinking by exaggerating a decision's urgency\|Urgency Instinct hinders thinking by exaggerating a decision's urgency]]       | 20    |
 | [[Superforecasters think differently\|Superforecasters think differently]]                                                                               | 8     |
-| [[Frightening and dangerous are two different things\|Frightening and dangerous are two different things]]                                               | 4     |
+| [[Frightening and dangerous are two different things\|Frightening and dangerous are two different things]]                                               | 5     |
 
 { .block-language-dataview}

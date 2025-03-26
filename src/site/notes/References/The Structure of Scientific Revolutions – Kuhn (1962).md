@@ -16,8 +16,8 @@
 
 | File                                                                                                                            | Links |
 | ------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Paradigm shifts reconstruct the field from new fundamentals\|Paradigm shifts reconstruct the field from new fundamentals]] | 16    |
 | [[Paradigms change when they can no longer address anomalies\|Paradigms change when they can no longer address anomalies]]   | 16    |
+| [[Paradigm shifts reconstruct the field from new fundamentals\|Paradigm shifts reconstruct the field from new fundamentals]] | 16    |
 | [[New paradigms are incommensurable with previous ones\|New paradigms are incommensurable with previous ones]]               | 12    |
 | [[Paradigm shifts create a new framework of thinking\|Paradigm shifts create a new framework of thinking]]                   | 12    |
 | [[New paradigms are preceded by crisis\|New paradigms are preceded by crisis]]                                               | 10    |

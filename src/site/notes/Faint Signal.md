@@ -29,6 +29,7 @@ These provide indices of notes in similar domains:
 - [[Topics/Paradigm Shifts\|Paradigm Shifts]]
 - [[Topics/Psychology\|Psychology]]
 - [[Topics/Resilience Thinking\|Resilience Thinking]]
+- [[Topics/Strategic\|Strategic]]
 
 { .block-language-dataview}
 

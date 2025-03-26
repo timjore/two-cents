@@ -20,6 +20,7 @@ See also:
 - [[People don’t buy what you do, they buy why you do it\|People don’t buy what you do, they buy why you do it]]
 - [[Visionaries and pragmatists are fundamentally different in how they think\|Visionaries and pragmatists are fundamentally different in how they think]]
 - [[Status quo bias favors the current state\|Status quo bias favors the current state]]
+- [[Early majority will not shift until someone they trust does first\|Early majority will not shift until someone they trust does first]]
 
 [^1]: Source for much of this topic: Simon Sinek, https://www.youtube.com/watch?v=fDILpuiLuAI; cf. [[References/Crossing the Chasm – Moore (2009)\|Crossing the Chasm – Moore (2009)]]
 

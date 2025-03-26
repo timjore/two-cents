@@ -10,30 +10,30 @@
 | [[Results are produced by vital behaviors\|Results are produced by vital behaviors]]                                                                                     | 16          |
 | [[Changing things requires directing the Rider and motivating the Elephant\|Changing things requires directing the Rider and motivating the Elephant]]                   | 15          |
 | [[Changing things happens in the opposite direction\|Changing things happens in the opposite direction]]                                                                 | 14          |
-| [[Influencing behavior engages six sources of influence\|Influencing behavior engages six sources of influence]]                                                         | 12          |
 | [[Leading like a gardener creates shared consciousness\|Leading like a gardener creates shared consciousness]]                                                           | 12          |
+| [[Influencing behavior engages six sources of influence\|Influencing behavior engages six sources of influence]]                                                         | 12          |
 | [[Shared consciousness maximizes availability of strategic information\|Shared consciousness maximizes availability of strategic information]]                           | 12          |
+| [[Empowered execution enables effective adaptation to threats and opportunities\|Empowered execution enables effective adaptation to threats and opportunities]]         | 11          |
+| [[Leaders cultivate an innovative environment\|Leaders cultivate an innovative environment]]                                                                             | 11          |
 | [[Pressure to meet a target value changes the system or the data\|Pressure to meet a target value changes the system or the data]]                                       | 11          |
 | [[Strategy identifies management systems needed for winning\|Strategy identifies management systems needed for winning]]                                                 | 11          |
-| [[Empowered execution enables effective adaptation to threats and opportunities\|Empowered execution enables effective adaptation to threats and opportunities]]         | 11          |
+| [[Strategy narrows the competitive field\|Strategy narrows the competitive field]]                                                                                       | 11          |
+| [[Leadership is intentional influence\|Leadership is intentional influence]]                                                                                             | 10          |
+| [[Smart autonomy is freedom to act according to strategic intent\|Smart autonomy is freedom to act according to strategic intent]]                                       | 10          |
 | [[Strategy defines the choices for winning in a chosen field\|Strategy defines the choices for winning in a chosen field]]                                               | 10          |
 | [[Strategy identifies capabilities needed for winning in a chosen field\|Strategy identifies capabilities needed for winning in a chosen field]]                         | 10          |
 | [[Strategy is focused on a winning aspiration\|Strategy is focused on a winning aspiration]]                                                                             | 10          |
-| [[Strategy narrows the competitive field\|Strategy narrows the competitive field]]                                                                                       | 10          |
-| [[Smart autonomy is freedom to act according to strategic intent\|Smart autonomy is freedom to act according to strategic intent]]                                       | 10          |
-| [[Leaders cultivate an innovative environment\|Leaders cultivate an innovative environment]]                                                                             | 10          |
 | [[A catalyst starts and moves on from a decentralized organization\|A catalyst starts and moves on from a decentralized organization]]                                   | 9           |
-| [[Leadership is intentional influence\|Leadership is intentional influence]]                                                                                             | 9           |
+| [[People don’t buy what you do, they buy why you do it\|People don’t buy what you do, they buy why you do it]]                                                           | 9           |
 | [[Emerging markets are decreasingly attractive as organizations get larger\|Emerging markets are decreasingly attractive as organizations get larger]]                   | 8           |
 | [[Influence focuses on results\|Influence focuses on results]]                                                                                                           | 8           |
-| [[People don’t buy what you do, they buy why you do it\|People don’t buy what you do, they buy why you do it]]                                                           | 8           |
 | [[Leadership becomes more important with increasing complexity\|Leadership becomes more important with increasing complexity]]                                           | 8           |
 | [[Tribalism is human nature\|Tribalism is human nature]]                                                                                                                 | 7           |
 | [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]                                                                             | 7           |
 | [[Change efforts are undermined by three measurement mistakes\|Change efforts are undermined by three measurement mistakes]]                                             | 6           |
 | [[Disruptive innovation requires plans for learning rather than implementation\|Disruptive innovation requires plans for learning rather than implementation]]           | 6           |
-| [[Visionaries only succeed together with implementers\|Visionaries only succeed together with implementers]]                                                             | 6           |
 | [[Leadership is maintaining full engagement from your group\|Leadership is maintaining full engagement from your group]]                                                 | 6           |
+| [[Visionaries only succeed together with implementers\|Visionaries only succeed together with implementers]]                                                             | 6           |
 | [[In decentralized social systems leadership is by influence\|In decentralized social systems leadership is by influence]]                                               | 5           |
 | [[Innovator’s dilemma is about first-mover advantage\|Innovator’s dilemma is about first-mover advantage]]                                                               | 5           |
 | [[Perseverance balances faith and honesty\|Perseverance balances faith and honesty]]                                                                                     | 5           |
@@ -45,6 +45,8 @@
 | [[Need for distribution of authority is commensurate to an organization’s size.\|Need for distribution of authority is commensurate to an organization’s size.]]         | 4           |
 | [[Strategic capability is required for thinking your way out of difficult positions\|Strategic capability is required for thinking your way out of difficult positions]] | 4           |
 | [[Strategy formulation is an iterative process\|Strategy formulation is an iterative process]]                                                                           | 4           |
+| [[Organizations focused on competitors become entrenched\|Organizations focused on competitors become entrenched]]                                                       | 4           |
+| [[Leadership requires a vision and ability to communicate it\|Leadership requires a vision and ability to communicate it]]                                               | 4           |
 | [[Good decision-making does not mix values with facts\|Good decision-making does not mix values with facts]]                                                             | 3           |
 | [[Innovation requires an organizational culture that values it\|Innovation requires an organizational culture that values it]]                                           | 2           |
 | [[Spiral of Silence means the price of speaking out rises over time\|Spiral of Silence means the price of speaking out rises over time]]                                 | 2           |
