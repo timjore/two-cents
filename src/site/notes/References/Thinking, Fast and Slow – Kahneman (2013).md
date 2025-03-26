@@ -33,6 +33,7 @@
 | [[Pattern recognition primes decision-making\|Pattern recognition primes decision-making]]                                                                   | 6     |
 | [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                       | 5     |
 | [[Small sample sizes means variations will fluctuate wildly\|Small sample sizes means variations will fluctuate wildly]]                                     | 4     |
+| [[What you see is all there is\|What you see is all there is]]                                                                                               | 4     |
 | [[Intuition delivers overly extreme predictions\|Intuition delivers overly extreme predictions]]                                                             | 3     |
 
 { .block-language-dataview}

@@ -20,9 +20,9 @@
 | [[Influence can only be manipulative or inspirational\|Influence can only be manipulative or inspirational]]                                                               | 7           |
 | [[Rallying the herd makes behavior contagious\|Rallying the herd makes behavior contagious]]                                                                               | 7           |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                                 | 7           |
+| [[Scout mindset is the pursuit of truth\|Scout mindset is the pursuit of truth]]                                                                                           | 7           |
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                                 | 6           |
 | [[Pattern recognition primes decision-making\|Pattern recognition primes decision-making]]                                                                                 | 6           |
-| [[Scout mindset is the pursuit of truth\|Scout mindset is the pursuit of truth]]                                                                                           | 6           |
 | [[Scouts view anomalies as puzzle pieces\|Scouts view anomalies as puzzle pieces]]                                                                                         | 6           |
 | [[Identity drives behavior\|Identity drives behavior]]                                                                                                                     | 5           |
 | [[People tend to adopt their own ideas\|People tend to adopt their own ideas]]                                                                                             | 5           |
@@ -32,6 +32,7 @@
 | [[Psychological Safety is a prerequisite for creativity\|Psychological Safety is a prerequisite for creativity]]                                                           | 4           |
 | [[Scout mindset uses thought experiments to test for motivated reasoning\|Scout mindset uses thought experiments to test for motivated reasoning]]                         | 4           |
 | [[Taking a stand triggers the consistency principle\|Taking a stand triggers the consistency principle]]                                                                   | 4           |
+| [[What you see is all there is\|What you see is all there is]]                                                                                                             | 4           |
 | [[Between stimulus and response, man has the freedom to choose\|Between stimulus and response, man has the freedom to choose]]                                             | 3           |
 | [[Criticism affecting identity predisposes soldier mindset\|Criticism affecting identity predisposes soldier mindset]]                                                     | 3           |
 | [[Scout mindset acknowledges own shortcomings\|Scout mindset acknowledges own shortcomings]]                                                                               | 3           |

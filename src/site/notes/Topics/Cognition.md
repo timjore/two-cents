@@ -7,7 +7,7 @@
 | File                                                                                                                                                                        | Total Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]]         | 32          |
-| [[Scouts frequently update their maps\|Scouts frequently update their maps]]                                                                                             | 26          |
+| [[Scouts frequently update their maps\|Scouts frequently update their maps]]                                                                                             | 27          |
 | [[Lateral thinking is range in action\|Lateral thinking is range in action]]                                                                                             | 20          |
 | [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]                                                           | 18          |
 | [[Creating frames improves cognition\|Creating frames improves cognition]]                                                                                               | 15          |

@@ -25,6 +25,7 @@ These provide indices of notes in similar domains:
 - [[Topics/Complexity\|Complexity]]
 - [[Topics/Frame Innovation\|Frame Innovation]]
 - [[Topics/Leadership\|Leadership]]
+- [[Topics/Metacognition\|Metacognition]]
 - [[Topics/Networks\|Networks]]
 - [[Topics/Paradigm Shifts\|Paradigm Shifts]]
 - [[Topics/Psychology\|Psychology]]
