@@ -16,7 +16,7 @@
 
 | File                                                                                                                              | Links |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Thinking from right to left begins with the goal\|Thinking from right to left begins with the goal]]                         | 9     |
+| [[Thinking from right to left begins with the goal\|Thinking from right to left begins with the goal]]                         | 10    |
 | [[Between stimulus and response, man has the freedom to choose\|Between stimulus and response, man has the freedom to choose]] | 3     |
 
 { .block-language-dataview}

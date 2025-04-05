@@ -18,6 +18,6 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Integrative, Macroscopic Thinking is antithetical to higher education\|Integrative, Macroscopic Thinking is antithetical to higher education]] | 13    |
 | [[Building habits reduces cognitive strain\|Building habits reduces cognitive strain]]                                                           | 10    |
-| [[Checklists ensure success in complex conditions\|Checklists ensure success in complex conditions]]                                             | 4     |
+| [[Checklists ensure success in complex conditions\|Checklists ensure success in complex conditions]]                                             | 5     |
 
 { .block-language-dataview}

@@ -41,13 +41,13 @@
 | [[Bright spots show positive deviance\|Bright spots show positive deviance]]                                                                                           | 6     |
 | [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]]                                     | 6     |
 | [[Large systems tend to disintegrate during development\|Large systems tend to disintegrate during development]]                                                       | 6     |
+| [[Checklists ensure success in complex conditions\|Checklists ensure success in complex conditions]]                                                                   | 5     |
 | [[Globalization is a complex system\|Globalization is a complex system]]                                                                                               | 5     |
 | [[Maps of connectivity reveal strategic dynamics\|Maps of connectivity reveal strategic dynamics]]                                                                     | 5     |
 | [[Solutions to complex problems depend on creation of themes\|Solutions to complex problems depend on creation of themes]]                                             | 5     |
 | [[Solving complex problems requires intentional follow-through\|Solving complex problems requires intentional follow-through]]                                         | 5     |
 | [[Solving complex problems requires understanding the context\|Solving complex problems requires understanding the context]]                                           | 5     |
 | [[Admitting uncertainty is not necessarily indicative of lack of expertise\|Admitting uncertainty is not necessarily indicative of lack of expertise]]                 | 4     |
-| [[Checklists ensure success in complex conditions\|Checklists ensure success in complex conditions]]                                                                   | 4     |
 | [[Solutions to complex problems depends on a clear frame\|Solutions to complex problems depends on a clear frame]]                                                     | 4     |
 | [[Trailblazers amplify weak signals\|Trailblazers amplify weak signals]]                                                                                               | 4     |
 | [[Solving complex problems requires having the right participants\|Solving complex problems requires having the right participants]]                                   | 3     |

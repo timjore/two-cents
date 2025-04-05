@@ -17,7 +17,7 @@
 | [[Complexifying overcomes binary bias\|Complexifying overcomes binary bias]]                                                                                                                       | 5           |
 | [[Decentralized systems are incomprehensible to centralized worldviews\|Decentralized systems are incomprehensible to centralized worldviews]]                                                     | 5           |
 | [[It is difficult to provide someone with a solution for a problem they do not think they have\|It is difficult to provide someone with a solution for a problem they do not think they have]]     | 5           |
+| [[What you see is all there is\|What you see is all there is]]                                                                                                                                     | 5           |
 | [[The map is not the territory\|The map is not the territory]]                                                                                                                                     | 4           |
-| [[What you see is all there is\|What you see is all there is]]                                                                                                                                     | 4           |
 
 { .block-language-dataview}

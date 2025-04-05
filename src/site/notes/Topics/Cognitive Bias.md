@@ -14,8 +14,8 @@
 | [[Negativity Instinct hinders thinking by emphasizing bad news\|Negativity Instinct hinders thinking by emphasizing bad news]]                             | 24          |
 | [[Destiny Instinct hinders thinking by forgetting that small changes add up\|Destiny Instinct hinders thinking by forgetting that small changes add up]]   | 22          |
 | [[Gap Instinct hinders thinking by ignoring the middle majority\|Gap Instinct hinders thinking by ignoring the middle majority]]                           | 22          |
+| [[Status quo bias favors the current state\|Status quo bias favors the current state]]                                                                     | 22          |
 | [[Size Instinct hinders thinking by considering a number without context\|Size Instinct hinders thinking by considering a number without context]]         | 21          |
-| [[Status quo bias favors the current state\|Status quo bias favors the current state]]                                                                     | 21          |
 | [[Urgency Instinct hinders thinking by exaggerating a decision's urgency\|Urgency Instinct hinders thinking by exaggerating a decision's urgency]]         | 20          |
 | [[Dichotomous thinking simplistically resolves ambiguity\|Dichotomous thinking simplistically resolves ambiguity]]                                         | 15          |
 | [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                   | 14          |

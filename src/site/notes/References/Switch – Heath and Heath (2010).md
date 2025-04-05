@@ -38,9 +38,9 @@ See [[Changing things requires directing the Rider and motivating the Elephant\|
 | [[Pointing to the destination shows why we're going\|Pointing to the destination shows why we're going]]                                               | 14    |
 | [[Building habits reduces cognitive strain\|Building habits reduces cognitive strain]]                                                                 | 10    |
 | [[Finding the feeling moves beyond merely knowing things\|Finding the feeling moves beyond merely knowing things]]                                     | 9     |
+| [[Growth mindset reframes failure as learning\|Growth mindset reframes failure as learning]]                                                           | 9     |
 | [[Scripting the critical moves shapes specific behaviors\|Scripting the critical moves shapes specific behaviors]]                                     | 9     |
 | [[Finding the bright spots clones what is already working\|Finding the bright spots clones what is already working]]                                   | 8     |
-| [[Growth mindset reframes failure as learning\|Growth mindset reframes failure as learning]]                                                           | 8     |
 | [[Tweaking the environment changes behavior\|Tweaking the environment changes behavior]]                                                               | 8     |
 | [[One or two high leverage behaviors produce maximum change\|One or two high leverage behaviors produce maximum change]]                               | 7     |
 | [[Rallying the herd makes behavior contagious\|Rallying the herd makes behavior contagious]]                                                           | 7     |

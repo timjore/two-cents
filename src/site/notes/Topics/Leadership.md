@@ -6,7 +6,7 @@
 
 | File                                                                                                                                                                        | Total Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Disruptive innovation is antithetical to good management\|Disruptive innovation is antithetical to good management]]                                                   | 23          |
+| [[Disruptive innovation is antithetical to good management\|Disruptive innovation is antithetical to good management]]                                                   | 24          |
 | [[Results are produced by vital behaviors\|Results are produced by vital behaviors]]                                                                                     | 16          |
 | [[Changing things requires directing the Rider and motivating the Elephant\|Changing things requires directing the Rider and motivating the Elephant]]                   | 15          |
 | [[Changing things happens in the opposite direction\|Changing things happens in the opposite direction]]                                                                 | 14          |
@@ -14,10 +14,10 @@
 | [[Influencing behavior engages six sources of influence\|Influencing behavior engages six sources of influence]]                                                         | 12          |
 | [[Shared consciousness maximizes availability of strategic information\|Shared consciousness maximizes availability of strategic information]]                           | 12          |
 | [[Empowered execution enables effective adaptation to threats and opportunities\|Empowered execution enables effective adaptation to threats and opportunities]]         | 11          |
-| [[Leaders cultivate an innovative environment\|Leaders cultivate an innovative environment]]                                                                             | 11          |
 | [[Pressure to meet a target value changes the system or the data\|Pressure to meet a target value changes the system or the data]]                                       | 11          |
 | [[Strategy identifies management systems needed for winning\|Strategy identifies management systems needed for winning]]                                                 | 11          |
 | [[Strategy narrows the competitive field\|Strategy narrows the competitive field]]                                                                                       | 11          |
+| [[Leaders cultivate an innovative environment\|Leaders cultivate an innovative environment]]                                                                             | 10          |
 | [[Leadership is intentional influence\|Leadership is intentional influence]]                                                                                             | 10          |
 | [[Smart autonomy is freedom to act according to strategic intent\|Smart autonomy is freedom to act according to strategic intent]]                                       | 10          |
 | [[Strategy defines the choices for winning in a chosen field\|Strategy defines the choices for winning in a chosen field]]                                               | 10          |
@@ -33,10 +33,10 @@
 | [[Change efforts are undermined by three measurement mistakes\|Change efforts are undermined by three measurement mistakes]]                                             | 6           |
 | [[Disruptive innovation requires plans for learning rather than implementation\|Disruptive innovation requires plans for learning rather than implementation]]           | 6           |
 | [[Leadership is maintaining full engagement from your group\|Leadership is maintaining full engagement from your group]]                                                 | 6           |
-| [[Visionaries only succeed together with implementers\|Visionaries only succeed together with implementers]]                                                             | 6           |
 | [[In decentralized social systems leadership is by influence\|In decentralized social systems leadership is by influence]]                                               | 5           |
 | [[Innovator’s dilemma is about first-mover advantage\|Innovator’s dilemma is about first-mover advantage]]                                                               | 5           |
 | [[Perseverance balances faith and honesty\|Perseverance balances faith and honesty]]                                                                                     | 5           |
+| [[Visionaries only succeed together with implementers\|Visionaries only succeed together with implementers]]                                                             | 5           |
 | [[Admitting uncertainty is not necessarily indicative of lack of expertise\|Admitting uncertainty is not necessarily indicative of lack of expertise]]                   | 4           |
 | [[Catalysts are fundamentally different from CEOs\|Catalysts are fundamentally different from CEOs]]                                                                     | 4           |
 | [[Disruptive innovations tend to flourish in new organizations\|Disruptive innovations tend to flourish in new organizations]]                                           | 4           |
@@ -45,10 +45,11 @@
 | [[Need for distribution of authority is commensurate to an organization’s size.\|Need for distribution of authority is commensurate to an organization’s size.]]         | 4           |
 | [[Strategic capability is required for thinking your way out of difficult positions\|Strategic capability is required for thinking your way out of difficult positions]] | 4           |
 | [[Strategy formulation is an iterative process\|Strategy formulation is an iterative process]]                                                                           | 4           |
-| [[Organizations focused on competitors become entrenched\|Organizations focused on competitors become entrenched]]                                                       | 4           |
-| [[Leadership requires a vision and ability to communicate it\|Leadership requires a vision and ability to communicate it]]                                               | 4           |
+| [[Incumbents often invent what later destroys them\|Incumbents often invent what later destroys them]]                                                                   | 4           |
 | [[Good decision-making does not mix values with facts\|Good decision-making does not mix values with facts]]                                                             | 3           |
-| [[Innovation requires an organizational culture that values it\|Innovation requires an organizational culture that values it]]                                           | 2           |
+| [[Innovation requires an organizational culture that values it\|Innovation requires an organizational culture that values it]]                                           | 3           |
+| [[Organizations focused on competitors become entrenched\|Organizations focused on competitors become entrenched]]                                                       | 3           |
+| [[Leadership requires a vision and ability to communicate it\|Leadership requires a vision and ability to communicate it]]                                               | 3           |
 | [[Spiral of Silence means the price of speaking out rises over time\|Spiral of Silence means the price of speaking out rises over time]]                                 | 2           |
 
 { .block-language-dataview}

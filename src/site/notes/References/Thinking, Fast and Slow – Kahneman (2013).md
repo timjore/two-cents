@@ -15,7 +15,7 @@
 
 | File                                                                                                                                                            | Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Status quo bias favors the current state\|Status quo bias favors the current state]]                                                                       | 21    |
+| [[Status quo bias favors the current state\|Status quo bias favors the current state]]                                                                       | 22    |
 | [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                     | 14    |
 | [[Planning fallacy confuses “best-guess” with “best-case” scenario\|Planning fallacy confuses “best-guess” with “best-case” scenario]]                       | 13    |
 | [[Premortem works backward from an undesirable outcome in order to prevent it\|Premortem works backward from an undesirable outcome in order to prevent it]] | 11    |
@@ -32,8 +32,8 @@
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                   | 6     |
 | [[Pattern recognition primes decision-making\|Pattern recognition primes decision-making]]                                                                   | 6     |
 | [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                       | 5     |
+| [[What you see is all there is\|What you see is all there is]]                                                                                               | 5     |
 | [[Small sample sizes means variations will fluctuate wildly\|Small sample sizes means variations will fluctuate wildly]]                                     | 4     |
-| [[What you see is all there is\|What you see is all there is]]                                                                                               | 4     |
 | [[Intuition delivers overly extreme predictions\|Intuition delivers overly extreme predictions]]                                                             | 3     |
 
 { .block-language-dataview}

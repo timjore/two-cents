@@ -19,6 +19,9 @@ Practically, this means that ==it's “okay to go ahead with a solution that may
 #strategic #teams #organizations #cognition 
 
 See also:
+- [[Agreement is a spectrum, not a binary\|Agreement is a spectrum, not a binary]]
+- [[Disagree and commit enables unified action\|Disagree and commit enables unified action]]
+- [[Status quo bias favors the current state\|Status quo bias favors the current state]]
 
 
 [^2]:  Source: https://doist.com/blog/decision-making-flat-organization

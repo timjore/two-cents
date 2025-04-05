@@ -36,6 +36,7 @@
 | [[Near misses lead to taking unwise risks\|Near misses lead to taking unwise risks]]                                                                                     | 8           |
 | [[Path dependence shapes what we do next\|Path dependence shapes what we do next]]                                                                                       | 8           |
 | [[Reference-class forecasting overcomes the planning fallacy\|Reference-class forecasting overcomes the planning fallacy]]                                               | 8           |
+| [[Rough Consensus enables forward progress\|Rough Consensus enables forward progress]]                                                                                   | 8           |
 | [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                                         | 8           |
 | [[Divergent ideas come from the right brain\|Divergent ideas come from the right brain]]                                                                                 | 7           |
 | [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]                                                                             | 7           |
@@ -60,7 +61,6 @@
 | [[Making good decisions in ambiguous scenarios requires elastic thinking\|Making good decisions in ambiguous scenarios requires elastic thinking]]                       | 4           |
 | [[Locking down of a problem leads to frozen thinking\|Locking down of a problem leads to frozen thinking]]                                                               | 4           |
 | [[Occam's razor leads to first principles thinking\|Occam's razor leads to first principles thinking]]                                                                   | 4           |
-| [[Rough Consensus enables forward progress\|Rough Consensus enables forward progress]]                                                                                   | 4           |
 | [[Strategic capability is required for thinking your way out of difficult positions\|Strategic capability is required for thinking your way out of difficult positions]] | 4           |
 | [[The map is not the territory\|The map is not the territory]]                                                                                                           | 4           |
 | [[Intuition delivers overly extreme predictions\|Intuition delivers overly extreme predictions]]                                                                         | 3           |

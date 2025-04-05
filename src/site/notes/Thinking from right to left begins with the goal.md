@@ -11,7 +11,7 @@ In order to achieve desired outcomes, it is important to begin with a clear unde
 
 He goes on to note that this is difficult to do, precisely because it is backward from how we live life.
 
-> ==Thinking from right to left is **demanding because it’s not natural**.== What’s natural is [[WYSIATI\|WYSIATI]]—What You See Is All There Is—and focusing exclusively on what is in front of you. And when you are obsessed with a cool idea or you are deep into designing the project or buried in a thousand and one details, the box on the right is nowhere to be seen. That’s when trouble starts.[^2]
+> ==Thinking from right to left is **demanding because it’s not natural**.== What’s natural is [[What you see is all there is\|WYSIATI]]—What You See Is All There Is—and focusing exclusively on what is in front of you. And when you are obsessed with a cool idea or you are deep into designing the project or buried in a thousand and one details, the box on the right is nowhere to be seen. That’s when trouble starts.[^2]
 
 In his classic book, [[References/The 7 Habits of Highly Effective People – Covey (2013)\|The 7 Habits of Highly Effective People]], Covey notes:
 
@@ -25,6 +25,7 @@ See also:
  - [[Successful projects develop a clear, informed understanding of the goal\|Successful projects develop a clear, informed understanding of the goal]]
  - [[Backcasting works backward from a desired outcome\|Backcasting works backward from a desired outcome]]
  - [[Design thinking seeks to discover and solve the actual problem\|Design thinking seeks to discover and solve the actual problem]]
+ - [[What you see is all there is\|What you see is all there is]]
 
 [^1]: [[References/How Big Things Get Done – Flyvbjerg and Gardner (2023)\|How Big Things Get Done – Flyvbjerg and Gardner (2023)]], ch. 3, § “The Box on the Right.”
 [^2]: Ibid., ch. 3, § “Losing Sight of the Right.”

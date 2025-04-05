@@ -16,13 +16,13 @@
 
 | File                                                                                                                                                        | Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Leaders cultivate an innovative environment\|Leaders cultivate an innovative environment]]                                                             | 11    |
+| [[Leaders cultivate an innovative environment\|Leaders cultivate an innovative environment]]                                                             | 10    |
 | [[People don’t buy what you do, they buy why you do it\|People don’t buy what you do, they buy why you do it]]                                           | 9     |
-| [[Early majority will not shift until someone they trust does first\|Early majority will not shift until someone they trust does first]]                 | 7     |
-| [[Influence can only be manipulative or inspirational\|Influence can only be manipulative or inspirational]]                                             | 7     |
-| [[Organizations entrenched in what they do need to return to why they do it\|Organizations entrenched in what they do need to return to why they do it]] | 7     |
-| [[Visionaries only succeed together with implementers\|Visionaries only succeed together with implementers]]                                             | 6     |
-| [[Organizations focused on competitors become entrenched\|Organizations focused on competitors become entrenched]]                                       | 4     |
-| [[Leadership requires a vision and ability to communicate it\|Leadership requires a vision and ability to communicate it]]                               | 4     |
+| [[Early majority will not shift until someone they trust does first\|Early majority will not shift until someone they trust does first]]                 | 6     |
+| [[Influence can only be manipulative or inspirational\|Influence can only be manipulative or inspirational]]                                             | 6     |
+| [[Organizations entrenched in what they do need to return to why they do it\|Organizations entrenched in what they do need to return to why they do it]] | 6     |
+| [[Visionaries only succeed together with implementers\|Visionaries only succeed together with implementers]]                                             | 5     |
+| [[Organizations focused on competitors become entrenched\|Organizations focused on competitors become entrenched]]                                       | 3     |
+| [[Leadership requires a vision and ability to communicate it\|Leadership requires a vision and ability to communicate it]]                               | 3     |
 
 { .block-language-dataview}

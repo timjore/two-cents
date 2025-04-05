@@ -17,5 +17,6 @@
 | File                                                                                                                | Links |
 | ------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Fundamental insight can trigger disruptive innovation\|Fundamental insight can trigger disruptive innovation]] | 8     |
+| [[Incumbents often invent what later destroys them\|Incumbents often invent what later destroys them]]           | 4     |
 
 { .block-language-dataview}
