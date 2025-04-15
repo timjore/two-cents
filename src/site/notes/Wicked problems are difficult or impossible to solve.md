@@ -7,7 +7,6 @@
 
 A wicked problem is a term used to describe a complex and difficult-to-solve social or societal issue that is ==characterized by a **lack of clear definition**, multiple **interdependent variables**, and a **lack of clear solutions**==.[^1] These problems are often the result of the interactions between many different factors and systems, and involve multiple stakeholders with differing values and priorities. As a result, they are difficult to define, measure, and solve.
 
-
 A wicked problem is a “social or cultural problem that is difficult or impossible to solve for as many as four reasons: 
 - incomplete or contradictory **knowledge**, 
 - the number of **people and opinions** involved, 

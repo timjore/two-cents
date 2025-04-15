@@ -20,27 +20,27 @@
 | [[Rallying the herd makes behavior contagious\|Rallying the herd makes behavior contagious]]                                                                               | 7           |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                                 | 7           |
 | [[Scout mindset is the pursuit of truth\|Scout mindset is the pursuit of truth]]                                                                                           | 7           |
+| [[Disagree and commit enables unified action\|Disagree and commit enables unified action]]                                                                                 | 6           |
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                                 | 6           |
 | [[Influence can only be manipulative or inspirational\|Influence can only be manipulative or inspirational]]                                                               | 6           |
 | [[Pattern recognition primes decision-making\|Pattern recognition primes decision-making]]                                                                                 | 6           |
 | [[Scouts view anomalies as puzzle pieces\|Scouts view anomalies as puzzle pieces]]                                                                                         | 6           |
-| [[Disagree and commit enables unified action\|Disagree and commit enables unified action]]                                                                                 | 6           |
+| [[Agreement is a spectrum, not a binary\|Agreement is a spectrum, not a binary]]                                                                                           | 5           |
+| [[Fixed mindset believes abilities are set in stone\|Fixed mindset believes abilities are set in stone]]                                                                   | 5           |
 | [[Identity drives behavior\|Identity drives behavior]]                                                                                                                     | 5           |
 | [[People tend to adopt their own ideas\|People tend to adopt their own ideas]]                                                                                             | 5           |
 | [[What you see is all there is\|What you see is all there is]]                                                                                                             | 5           |
-| [[Agreement is a spectrum, not a binary\|Agreement is a spectrum, not a binary]]                                                                                           | 5           |
 | [[Consistency principle is a social anchoring effect\|Consistency principle is a social anchoring effect]]                                                                 | 4           |
 | [[Epistemic confidence pertains to truth\|Epistemic confidence pertains to truth]]                                                                                         | 4           |
-| [[Fixed mindset believes abilities are set in stone\|Fixed mindset believes abilities are set in stone]]                                                                   | 4           |
 | [[Psychological Safety is a prerequisite for creativity\|Psychological Safety is a prerequisite for creativity]]                                                           | 4           |
+| [[Scout mindset acknowledges own shortcomings\|Scout mindset acknowledges own shortcomings]]                                                                               | 4           |
 | [[Scout mindset uses thought experiments to test for motivated reasoning\|Scout mindset uses thought experiments to test for motivated reasoning]]                         | 4           |
 | [[Taking a stand triggers the consistency principle\|Taking a stand triggers the consistency principle]]                                                                   | 4           |
 | [[Between stimulus and response, man has the freedom to choose\|Between stimulus and response, man has the freedom to choose]]                                             | 3           |
 | [[Criticism affecting identity predisposes soldier mindset\|Criticism affecting identity predisposes soldier mindset]]                                                     | 3           |
-| [[Scout mindset acknowledges own shortcomings\|Scout mindset acknowledges own shortcomings]]                                                                               | 3           |
+| [[Extrinsic rewards can crowd out intrinsic motivation\|Extrinsic rewards can crowd out intrinsic motivation]]                                                             | 3           |
 | [[Social proof is most influential under three conditions\|Social proof is most influential under three conditions]]                                                       | 3           |
 | [[What others do is the stimulus, not the cause, of feelings\|What others do is the stimulus, not the cause, of feelings]]                                                 | 3           |
-| [[Extrinsic rewards can crowd out intrinsic motivation\|Extrinsic rewards can crowd out intrinsic motivation]]                                                             | 2           |
 | [[Opportunity Cost is the sum of all the benefits provided by the options not chosen\|Opportunity Cost is the sum of all the benefits provided by the options not chosen]] | 2           |
 | [[Tactical Empathy understands another's feelings and mindset\|Tactical Empathy understands another's feelings and mindset]]                                               | 2           |
 | [[The two halves of the brain speak different languages\|The two halves of the brain speak different languages]]                                                           | 2           |

@@ -17,6 +17,6 @@
 | File                                                                                                                        | Links |
 | --------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Superforecasting is the intersection of range and mindset\|Superforecasting is the intersection of range and mindset]] | 9     |
-| [[Fixed mindset believes abilities are set in stone\|Fixed mindset believes abilities are set in stone]]                 | 4     |
+| [[Fixed mindset believes abilities are set in stone\|Fixed mindset believes abilities are set in stone]]                 | 5     |
 
 { .block-language-dataview}

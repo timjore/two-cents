@@ -22,7 +22,7 @@
 | [[Influence can only be manipulative or inspirational\|Influence can only be manipulative or inspirational]]                                             | 6     |
 | [[Organizations entrenched in what they do need to return to why they do it\|Organizations entrenched in what they do need to return to why they do it]] | 6     |
 | [[Visionaries only succeed together with implementers\|Visionaries only succeed together with implementers]]                                             | 5     |
-| [[Organizations focused on competitors become entrenched\|Organizations focused on competitors become entrenched]]                                       | 3     |
 | [[Leadership requires a vision and ability to communicate it\|Leadership requires a vision and ability to communicate it]]                               | 3     |
+| [[Organizations focused on competitors become entrenched\|Organizations focused on competitors become entrenched]]                                       | 3     |
 
 { .block-language-dataview}

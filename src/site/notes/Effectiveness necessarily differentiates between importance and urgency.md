@@ -6,7 +6,7 @@
 
 Tasks that are important do not always inherently feel urgent. By contrast, some tasks that feel terribly urgent are not important. An effective means of differentiating between the two is through the use of a 2-axis chart (made popular by American president Dwight D. Eisenhower):
 
-![Attachments/8e4f67963b567ead113646ab2771b50b_MD5.jpeg](/img/user/Attachments/8e4f67963b567ead113646ab2771b50b_MD5.jpeg)
+![Eisenhower Matrix.jpeg](/img/user/Attachments/Eisenhower%20Matrix.jpeg)
 
 **Important Tasks** (top half of the diagram):
 

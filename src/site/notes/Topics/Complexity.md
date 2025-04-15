@@ -8,8 +8,8 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Frame creation resolves complex problems in nine steps\|Frame creation resolves complex problems in nine steps]]                                                     | 29    |
 | [[Challenges are now open, complex, dynamic, and networked\|Challenges are now open, complex, dynamic, and networked]]                                                 | 27    |
+| [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]                                                                               | 22    |
 | [[Design practice can address open, complex, dynamic, networked challenges\|Design practice can address open, complex, dynamic, networked challenges]]                 | 22    |
-| [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]                                                                               | 20    |
 | [[Coevolution simultaneously develops the formulation of and solution to a problem\|Coevolution simultaneously develops the formulation of and solution to a problem]] | 18    |
 | [[Complex networks have unique topological features\|Complex networks have unique topological features]]                                                               | 18    |
 | [[Faint signals are whispers from the future\|Faint signals are whispers from the future]]                                                                             | 18    |
@@ -33,15 +33,16 @@
 | [[Leadership becomes more important with increasing complexity\|Leadership becomes more important with increasing complexity]]                                         | 8     |
 | [[Solutions to complex problems are based on pattern recognition\|Solutions to complex problems are based on pattern recognition]]                                     | 8     |
 | [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                                       | 8     |
+| [[Checklists ensure success in complex conditions\|Checklists ensure success in complex conditions]]                                                                   | 7     |
 | [[Disruptive innovations are complex\|Disruptive innovations are complex]]                                                                                             | 7     |
 | [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]]                     | 7     |
 | [[One or two high leverage behaviors produce maximum change\|One or two high leverage behaviors produce maximum change]]                                               | 7     |
 | [[Solutions to complex problems are rooted in context\|Solutions to complex problems are rooted in context]]                                                           | 7     |
 | [[Appraisal of a complex problem’s context is objective\|Appraisal of a complex problem’s context is objective]]                                                       | 6     |
 | [[Bright spots show positive deviance\|Bright spots show positive deviance]]                                                                                           | 6     |
+| [[Complex problems can be solved at the periphery\|Complex problems can be solved at the periphery]]                                                                   | 6     |
 | [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]]                                     | 6     |
 | [[Large systems tend to disintegrate during development\|Large systems tend to disintegrate during development]]                                                       | 6     |
-| [[Checklists ensure success in complex conditions\|Checklists ensure success in complex conditions]]                                                                   | 5     |
 | [[Globalization is a complex system\|Globalization is a complex system]]                                                                                               | 5     |
 | [[Maps of connectivity reveal strategic dynamics\|Maps of connectivity reveal strategic dynamics]]                                                                     | 5     |
 | [[Solutions to complex problems depend on creation of themes\|Solutions to complex problems depend on creation of themes]]                                             | 5     |

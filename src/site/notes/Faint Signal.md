@@ -23,6 +23,7 @@ These provide indices of notes in similar domains:
 - [[Topics/Cognition\|Cognition]]
 - [[Topics/Cognitive Bias\|Cognitive Bias]]
 - [[Topics/Complexity\|Complexity]]
+- [[Topics/Effectiveness\|Effectiveness]]
 - [[Topics/Frame Innovation\|Frame Innovation]]
 - [[Topics/Leadership\|Leadership]]
 - [[Topics/Metacognition\|Metacognition]]

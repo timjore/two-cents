@@ -24,8 +24,8 @@
 | [[Admitting uncertainty is not necessarily indicative of lack of expertise\|Admitting uncertainty is not necessarily indicative of lack of expertise]] | 4     |
 | [[Epistemic confidence pertains to truth\|Epistemic confidence pertains to truth]]                                                                     | 4     |
 | [[Making good decisions in ambiguous scenarios requires elastic thinking\|Making good decisions in ambiguous scenarios requires elastic thinking]]     | 4     |
+| [[Scout mindset acknowledges own shortcomings\|Scout mindset acknowledges own shortcomings]]                                                           | 4     |
 | [[Scout mindset uses thought experiments to test for motivated reasoning\|Scout mindset uses thought experiments to test for motivated reasoning]]     | 4     |
 | [[Criticism affecting identity predisposes soldier mindset\|Criticism affecting identity predisposes soldier mindset]]                                 | 3     |
-| [[Scout mindset acknowledges own shortcomings\|Scout mindset acknowledges own shortcomings]]                                                           | 3     |
 
 { .block-language-dataview}

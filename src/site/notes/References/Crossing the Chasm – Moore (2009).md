@@ -17,7 +17,7 @@
 | File                                                                                                                                                        | Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Early majority is motivated by why rather than what\|Early majority is motivated by why rather than what]]                                             | 11    |
-| [[Visionaries and pragmatists are fundamentally different in how they think\|Visionaries and pragmatists are fundamentally different in how they think]] | 9     |
+| [[Visionaries and pragmatists are fundamentally different in how they think\|Visionaries and pragmatists are fundamentally different in how they think]] | 10    |
 | [[Visionaries alienate pragmatists in four ways\|Visionaries alienate pragmatists in four ways]]                                                         | 7     |
 | [[Early majority will not shift until someone they trust does first\|Early majority will not shift until someone they trust does first]]                 | 6     |
 

@@ -40,7 +40,7 @@ The “rigorous language for the description of networks is found in graph theor
 
 | File                                                                                                                                                  | Total Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Liquid Networks foster innovation\|Liquid Networks foster innovation]]                                                                           | 19          |
+| [[Liquid Networks foster innovation\|Liquid Networks foster innovation]]                                                                           | 20          |
 | [[Complex networks have unique topological features\|Complex networks have unique topological features]]                                           | 18          |
 | [[Power Law distributions\|Power Law distributions]]                                                                                               | 12          |
 | [[Simple rules tame complexity\|Simple rules tame complexity]]                                                                                     | 11          |

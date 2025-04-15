@@ -18,6 +18,6 @@
 | ------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Pressure to meet a target value changes the system or the data\|Pressure to meet a target value changes the system or the data]] | 11    |
 | [[Metric fixation invites gaming\|Metric fixation invites gaming]]                                                                 | 5     |
-| [[Extrinsic rewards can crowd out intrinsic motivation\|Extrinsic rewards can crowd out intrinsic motivation]]                     | 2     |
+| [[Extrinsic rewards can crowd out intrinsic motivation\|Extrinsic rewards can crowd out intrinsic motivation]]                     | 3     |
 
 { .block-language-dataview}

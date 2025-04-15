@@ -32,6 +32,10 @@ Complicated contexts, unlike simple ones, ==may contain multiple right answers==
 
 In a complicated context, at least one right answer exists. In a complex context, however, ==right answers can’t be ferreted out==.
 
+Furthermore, solutions to complex problems are bespoke and so cannot be systematized or optimized, as in the example of raising children:
+
+> Complex problems are ones like raising a child. Once you learn how to send a rocket to the moon, you can repeat the process with other rockets and perfect it. One rocket is like another rocket. But not so with raising a child …. Every child is unique. ==Although raising one child may provide experience, **it does not guarantee success with the next child**.==[^3]
+
 ## ==Chaotic== Contexts: The Domain of Rapid Response
 
 In a chaotic context, searching for right answers would be pointless: The ==relationships between cause and effect are impossible to determine== because they shift constantly and no manageable patterns 
@@ -48,3 +52,4 @@ see also:
 - [[Strategic forecasting guides decision-making and catalyzes innovation\|Strategic forecasting guides decision-making and catalyzes innovation]]
 
 
+[^3]: [[References/The Checklist Manifesto – Gawande (2009)\|The Checklist Manifesto – Gawande (2009)]], 49.

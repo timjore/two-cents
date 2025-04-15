@@ -16,7 +16,7 @@
 
 | File                                                                                                                                                                | Links |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]] | 32    |
+| [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]] | 33    |
 | [[Divergent ideas come from the right brain\|Divergent ideas come from the right brain]]                                                                         | 7     |
 
 { .block-language-dataview}

@@ -16,7 +16,7 @@
 
 | File                                                                                                  | Links |
 | ----------------------------------------------------------------------------------------------------- | ----- |
-| [[Three questions form the essence of innovation\|Three questions form the essence of innovation]] | 11    |
+| [[Three questions form the essence of innovation\|Three questions form the essence of innovation]] | 12    |
 | [[Divergent ideas come from the right brain\|Divergent ideas come from the right brain]]           | 7     |
 
 { .block-language-dataview}

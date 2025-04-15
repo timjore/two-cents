@@ -16,13 +16,13 @@
 
 | File                                                                                                                                                                | Links |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]] | 32    |
+| [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]] | 33    |
 | [[Resilience Thinking creates antifragile systems\|Resilience Thinking creates antifragile systems]]                                                             | 15    |
 | [[Complex systems are characterized by VUCA\|Complex systems are characterized by VUCA]]                                                                         | 14    |
-| [[Leading like a gardener creates shared consciousness\|Leading like a gardener creates shared consciousness]]                                                   | 12    |
-| [[Shared consciousness maximizes availability of strategic information\|Shared consciousness maximizes availability of strategic information]]                   | 12    |
-| [[Empowered execution enables effective adaptation to threats and opportunities\|Empowered execution enables effective adaptation to threats and opportunities]] | 11    |
-| [[Smart autonomy is freedom to act according to strategic intent\|Smart autonomy is freedom to act according to strategic intent]]                               | 10    |
+| [[Leading like a gardener creates shared consciousness\|Leading like a gardener creates shared consciousness]]                                                   | 14    |
+| [[Shared consciousness maximizes availability of strategic information\|Shared consciousness maximizes availability of strategic information]]                   | 14    |
+| [[Empowered execution enables effective adaptation to threats and opportunities\|Empowered execution enables effective adaptation to threats and opportunities]] | 12    |
+| [[Smart autonomy is freedom to act according to strategic intent\|Smart autonomy is freedom to act according to strategic intent]]                               | 12    |
 | [[All-Channel Networks can function without hierarchies\|All-Channel Networks can function without hierarchies]]                                                 | 8     |
 | [[Antifragile systems are configured for adaptability\|Antifragile systems are configured for adaptability]]                                                     | 8     |
 | [[Leadership becomes more important with increasing complexity\|Leadership becomes more important with increasing complexity]]                                   | 8     |
