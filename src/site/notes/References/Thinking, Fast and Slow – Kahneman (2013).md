@@ -20,7 +20,7 @@
 | [[Planning fallacy confuses “best-guess” with “best-case” scenario\|Planning fallacy confuses “best-guess” with “best-case” scenario]]                       | 13    |
 | [[Premortem works backward from an undesirable outcome in order to prevent it\|Premortem works backward from an undesirable outcome in order to prevent it]] | 11    |
 | [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]]                                                                           | 11    |
-| [[Intuition is pattern recognition\|Intuition is pattern recognition]]                                                                                       | 9     |
+| [[Intuition is pattern recognition\|Intuition is pattern recognition]]                                                                                       | 10    |
 | [[Positive Test Strategy reinforces Confirmation Bias\|Positive Test Strategy reinforces Confirmation Bias]]                                                 | 9     |
 | [[Superforecasting is the intersection of range and mindset\|Superforecasting is the intersection of range and mindset]]                                     | 9     |
 | [[Loss aversion values avoiding losses more than achieving gains\|Loss aversion values avoiding losses more than achieving gains]]                           | 8     |

@@ -16,7 +16,7 @@
 
 | File                                                                                                                                                                | Links |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]] | 33    |
+| [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]] | 34    |
 | [[Resilience Thinking creates antifragile systems\|Resilience Thinking creates antifragile systems]]                                                             | 15    |
 | [[Complex systems are characterized by VUCA\|Complex systems are characterized by VUCA]]                                                                         | 14    |
 | [[Leading like a gardener creates shared consciousness\|Leading like a gardener creates shared consciousness]]                                                   | 14    |

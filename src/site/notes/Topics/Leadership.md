@@ -29,12 +29,13 @@
 | [[Emerging markets are decreasingly attractive as organizations get larger\|Emerging markets are decreasingly attractive as organizations get larger]]                   | 8           |
 | [[Influence focuses on results\|Influence focuses on results]]                                                                                                           | 8           |
 | [[Leadership becomes more important with increasing complexity\|Leadership becomes more important with increasing complexity]]                                           | 8           |
+| [[Inquiry into complex issues is seldom rewarded\|Inquiry into complex issues is seldom rewarded]]                                                                       | 8           |
 | [[Tribalism is human nature\|Tribalism is human nature]]                                                                                                                 | 7           |
 | [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]                                                                             | 7           |
 | [[Change efforts are undermined by three measurement mistakes\|Change efforts are undermined by three measurement mistakes]]                                             | 6           |
-| [[Complex problems can be solved at the periphery\|Complex problems can be solved at the periphery]]                                                                     | 6           |
 | [[Disruptive innovation requires plans for learning rather than implementation\|Disruptive innovation requires plans for learning rather than implementation]]           | 6           |
 | [[Leadership is maintaining full engagement from your group\|Leadership is maintaining full engagement from your group]]                                                 | 6           |
+| [[Complex problems can be solved at the periphery\|Complex problems can be solved at the periphery]]                                                                     | 5           |
 | [[In decentralized social systems leadership is by influence\|In decentralized social systems leadership is by influence]]                                               | 5           |
 | [[Innovator’s dilemma is about first-mover advantage\|Innovator’s dilemma is about first-mover advantage]]                                                               | 5           |
 | [[Perseverance balances faith and honesty\|Perseverance balances faith and honesty]]                                                                                     | 5           |

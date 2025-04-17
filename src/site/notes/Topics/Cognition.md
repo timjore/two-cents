@@ -6,7 +6,7 @@
 
 | File                                                                                                                                                                        | Total Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]]         | 33          |
+| [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]]         | 34          |
 | [[Scouts frequently update their maps\|Scouts frequently update their maps]]                                                                                             | 27          |
 | [[Lateral thinking is range in action\|Lateral thinking is range in action]]                                                                                             | 20          |
 | [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]                                                           | 18          |
@@ -22,6 +22,7 @@
 | [[Ambiguity aversion favors the known over the unknown\|Ambiguity aversion favors the known over the unknown]]                                                           | 10          |
 | [[It is impossible to teach a man what he thinks he already knows\|It is impossible to teach a man what he thinks he already knows]]                                     | 10          |
 | [[Wicked learning environments prevent learning\|Wicked learning environments prevent learning]]                                                                         | 10          |
+| [[Adjacent Possible is the edge of the future\|Adjacent Possible is the edge of the future]]                                                                             | 9           |
 | [[Creating frames overcomes the adoption problem\|Creating frames overcomes the adoption problem]]                                                                       | 9           |
 | [[Elastic Thinking is parallel and integrative\|Elastic Thinking is parallel and integrative]]                                                                           | 9           |
 | [[Listen to the Suck with Curiosity\|Listen to the Suck with Curiosity]]                                                                                                 | 9           |
@@ -29,7 +30,6 @@
 | [[Superforecasting is the intersection of range and mindset\|Superforecasting is the intersection of range and mindset]]                                                 | 9           |
 | [[The price of knowledge is a change in lexicon\|The price of knowledge is a change in lexicon]]                                                                         | 9           |
 | [[Think slow, act fast is the secret of success\|Think slow, act fast is the secret of success]]                                                                         | 9           |
-| [[Adjacent Possible is the edge of the future\|Adjacent Possible is the edge of the future]]                                                                             | 8           |
 | [[Concept maps are graphical representations of mental models\|Concept maps are graphical representations of mental models]]                                             | 8           |
 | [[Elastic Thinking can hold two contradictory ideas simultaneously\|Elastic Thinking can hold two contradictory ideas simultaneously]]                                   | 8           |
 | [[Lexicons constrain the range of possible belief\|Lexicons constrain the range of possible belief]]                                                                     | 8           |
@@ -45,6 +45,8 @@
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                               | 7           |
 | [[The clarity of a map is not easily distinguished from its accuracy\|The clarity of a map is not easily distinguished from its accuracy]]                               | 7           |
 | [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]                                                                             | 7           |
+| [[Scientific thinking is understanding something before it is observed\|Scientific thinking is understanding something before it is observed]]                           | 7           |
+| [[Generative learning requires systemic thinking\|Generative learning requires systemic thinking]]                                                                       | 7           |
 | [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                                             | 6           |
 | [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]]                                       | 6           |
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                               | 6           |

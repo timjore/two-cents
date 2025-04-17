@@ -37,13 +37,13 @@
 | [[Reframing shifts perspective to see things in a new way\|Reframing shifts perspective to see things in a new way]]                                                   | 12    |
 | [[Creative events bridge problems and solutions\|Creative events bridge problems and solutions]]                                                                       | 11    |
 | [[Open problems have unclear or permeable borders\|Open problems have unclear or permeable borders]]                                                                   | 11    |
+| [[Complex problems have many interconnected elements\|Complex problems have many interconnected elements]]                                                             | 10    |
 | [[Networked problems influence each other\|Networked problems influence each other]]                                                                                   | 10    |
-| [[Complex problems have many interconnected elements\|Complex problems have many interconnected elements]]                                                             | 9     |
 | [[Complex problems require new thinking\|Complex problems require new thinking]]                                                                                       | 9     |
 | [[Creating frames overcomes the adoption problem\|Creating frames overcomes the adoption problem]]                                                                     | 9     |
 | [[Dynamic problems add elements and shift connections over time\|Dynamic problems add elements and shift connections over time]]                                       | 9     |
+| [[Solutions to complex problems are based on pattern recognition\|Solutions to complex problems are based on pattern recognition]]                                     | 9     |
 | [[Solving complex problems avoids simplification\|Solving complex problems avoids simplification]]                                                                     | 9     |
-| [[Solutions to complex problems are based on pattern recognition\|Solutions to complex problems are based on pattern recognition]]                                     | 8     |
 | [[Solutions to complex problems are rooted in context\|Solutions to complex problems are rooted in context]]                                                           | 7     |
 | [[Appraisal of a complex problem’s context is objective\|Appraisal of a complex problem’s context is objective]]                                                       | 6     |
 | [[People tend to adopt their own ideas\|People tend to adopt their own ideas]]                                                                                         | 5     |

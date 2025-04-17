@@ -21,8 +21,8 @@
 | [[Fostering a discourse shapes behavior\|Fostering a discourse shapes behavior]]                                                                         | 14          |
 | [[Creative events bridge problems and solutions\|Creative events bridge problems and solutions]]                                                         | 11          |
 | [[Creating frames overcomes the adoption problem\|Creating frames overcomes the adoption problem]]                                                       | 9           |
+| [[Solutions to complex problems are based on pattern recognition\|Solutions to complex problems are based on pattern recognition]]                       | 9           |
 | [[Solving complex problems avoids simplification\|Solving complex problems avoids simplification]]                                                       | 9           |
-| [[Solutions to complex problems are based on pattern recognition\|Solutions to complex problems are based on pattern recognition]]                       | 8           |
 | [[Solutions to complex problems are rooted in context\|Solutions to complex problems are rooted in context]]                                             | 7           |
 | [[Appraisal of a complex problem’s context is objective\|Appraisal of a complex problem’s context is objective]]                                         | 6           |
 | [[Solutions to complex problems depend on creation of themes\|Solutions to complex problems depend on creation of themes]]                               | 5           |

@@ -16,7 +16,7 @@
 
 | File                                                                                                                                    | Links |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Systems image their design groups\|Systems image their design groups]]                                                             | 7     |
+| [[Systems image their design groups\|Systems image their design groups]]                                                             | 8     |
 | [[Large systems tend to disintegrate during development\|Large systems tend to disintegrate during development]]                     | 6     |
 | [[Organizations expand when prestige is correlated to budget size\|Organizations expand when prestige is correlated to budget size]] | 5     |
 

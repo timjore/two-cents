@@ -17,7 +17,7 @@ The five “technologies” are:
 
 Systems Thinking, according to Senge, is the fifth discipline as it is “the discipline that integrates the disciplines, fusing them into a coherent body of theory and practice.”[^2]
 
-> But systems thinking also needs the disciplines of building shared vision, mental models, team learning, and personal mastery to realize its potential. **Building shared vision** fosters a commitment to the long term. **Mental models** focus on the openness needed to unearth shortcomings in our present ways of seeing the world. **Team learning** develops the skills of groups of people to look for the larger picture beyond individual perspectives. And **personal mastery** fosters the personal motivation to continually learn how our actions affect our world. Without personal mastery, people are so steeped in the reactive mindset (“someone/something else is creating my problems”) that they are deeply threatened by the systems perspective.[^3]
+> But ==systems thinking also needs the disciplines of building shared vision, mental models, team learning, and personal mastery to realize its potential==. **Building shared vision** fosters a commitment to the long term. **Mental models** focus on the openness needed to unearth shortcomings in our present ways of seeing the world. **Team learning** develops the skills of groups of people to look for the larger picture beyond individual perspectives. And **personal mastery** fosters the personal motivation to continually learn how our actions affect our world. Without personal mastery, people are so steeped in the reactive mindset (“someone/something else is creating my problems”) that they are deeply threatened by the systems perspective.[^3]
 
 ---
 

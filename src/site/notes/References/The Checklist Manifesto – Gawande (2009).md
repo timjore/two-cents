@@ -16,12 +16,12 @@
 
 | File                                                                                                                                                | Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]                                                         | 22    |
+| [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]                                                         | 21    |
 | [[Integrative, Macroscopic Thinking is antithetical to higher education\|Integrative, Macroscopic Thinking is antithetical to higher education]] | 13    |
 | [[Building habits reduces cognitive strain\|Building habits reduces cognitive strain]]                                                           | 10    |
-| [[Checklists ensure success in complex conditions\|Checklists ensure success in complex conditions]]                                             | 7     |
-| [[Checklists establish a higher standard of baseline performance\|Checklists establish a higher standard of baseline performance]]               | 7     |
-| [[Complex problems can be solved at the periphery\|Complex problems can be solved at the periphery]]                                             | 6     |
-| [[Checklists account for the mundane but essential tasks\|Checklists account for the mundane but essential tasks]]                               | 5     |
+| [[Checklists ensure success in complex conditions\|Checklists ensure success in complex conditions]]                                             | 6     |
+| [[Checklists establish a higher standard of baseline performance\|Checklists establish a higher standard of baseline performance]]               | 6     |
+| [[Complex problems can be solved at the periphery\|Complex problems can be solved at the periphery]]                                             | 5     |
+| [[Checklists account for the mundane but essential tasks\|Checklists account for the mundane but essential tasks]]                               | 4     |
 
 { .block-language-dataview}
