@@ -7,7 +7,7 @@
 
 Humans naturally understand predictable, linear systems that are causal and consistent. Complex adaptive systems are altogether different, in that they “==do not change in a predictable, linear, incremental fashion.== They have the potential to **exist in more than one kind of regime** (sometimes referred to as “alternate stable states”) in which their function, structure, and feedbacks are different. Shocks and disturbances to these systems (e.g., fires, floods, wars, market changes) can drive them across a threshold into a different regime, frequently with unwelcome surprises.”[^1]
 
-Complex adaptive systems are unpredictable, because they exhibit [[Staging/Emergence\|emergent behavior]].
+Complex adaptive systems are unpredictable, because they exhibit [[Emergence is non-linear behavior of a system\|emergent behavior]].
 
 > The complexity of the many linkages and feedbacks that make up a social-ecological system is such that ==we can **never predict with certainty** what the exact response will be to any intervention in the system==. Complex adaptive systems have emergent behavior; that is, ==the emergent behavior of the system **cannot be predicted by understanding the individual mechanics of its component parts** or any pair of interactions==.[^2]
 

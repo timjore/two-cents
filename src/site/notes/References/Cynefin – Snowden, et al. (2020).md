@@ -15,7 +15,7 @@
 
 | File                                                                                          | Links |
 | --------------------------------------------------------------------------------------------- | ----- |
-| [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]   | 21    |
+| [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]   | 22    |
 | [[Faint signals are whispers from the future\|Faint signals are whispers from the future]] | 18    |
 
 { .block-language-dataview}

@@ -19,7 +19,7 @@ Bahcall differentiates between an “outcome mindset” and a “[[Systems minds
 
 McChrystal notes that NASA succeeded in sending men to the moon and back in part because they implemented systems engineering, built on Systems Thinking:
 
-> NASA leadership understood that, ==when creating an interactive product, confining specialists to a silo was stupid: **high-level success depended on low-level inefficiencies.**== (see: [[Staging/Emergence\|Emergence]])... What Mueller instituted was known as “systems engineering” or “systems management,” an approach built on the foundation of “systems thinking.” This approach, contrary to [[Staging/Reductionism\|Reductionism]], believes that ==one cannot understand a part of a system without having at least **a rudimentary understanding of the whole**.== It was the organizational manifestation of this insight that imbued NASA with the **adaptive, emergent intelligence** it needed to put a man on the moon.[^2]
+> NASA leadership understood that, ==when creating an interactive product, confining specialists to a silo was stupid: **high-level success depended on low-level inefficiencies.**== ... What Mueller instituted was known as “systems engineering” or “systems management,” an approach built on the foundation of “systems thinking.” This approach, contrary to [[Staging/Reductionism\|Reductionism]], believes that ==one cannot understand a part of a system without having at least **a rudimentary understanding of the whole**.== It was the organizational manifestation of this insight that imbued NASA with the **adaptive, emergent intelligence** it needed to put a man on the moon.[^2]
 
 Note: Systems engineering means “understanding not only your own piece of the engineered product, but also how it fits with the other pieces and contributes to the product’s overall objectives.”[^3]
 
@@ -38,6 +38,7 @@ See also:
 - [[Systems mindset examines the quality of decisions, not just outcomes\|Systems mindset examines the quality of decisions, not just outcomes]]
 - [[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]]
 - [[Complex systems are characterized by VUCA\|Complex systems are characterized by VUCA]]
+- [[Emergence is non-linear behavior of a system\|Emergence is non-linear behavior of a system]]
 
 [^1]: [[References/Loonshots – Bahcall (2019)\|Loonshots – Bahcall (2019)]], ch. 5, § “How to Win at Chess.”
 [^2]:  [[References/Team of Teams – McChrystal, et al. (2015)\|Team of Teams – McChrystal, et al. (2015)]], ch. 7, § “New Metal Alloys, Some of Which Have Not Yet Been Invented”

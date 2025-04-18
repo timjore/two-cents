@@ -50,6 +50,6 @@ see also:
 - [[Scale magnifies complexity\|Scale magnifies complexity]]
 - [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]
 - [[Strategic forecasting guides decision-making and catalyzes innovation\|Strategic forecasting guides decision-making and catalyzes innovation]]
-
+- [[Emergence is non-linear behavior of a system\|Emergence is non-linear behavior of a system]]
 
 [^3]: [[References/The Checklist Manifesto – Gawande (2009)\|The Checklist Manifesto – Gawande (2009)]], 49.

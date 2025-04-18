@@ -8,8 +8,8 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Frame creation resolves complex problems in nine steps\|Frame creation resolves complex problems in nine steps]]                                                     | 29    |
 | [[Challenges are now open, complex, dynamic, and networked\|Challenges are now open, complex, dynamic, and networked]]                                                 | 27    |
+| [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]                                                                               | 22    |
 | [[Design practice can address open, complex, dynamic, networked challenges\|Design practice can address open, complex, dynamic, networked challenges]]                 | 22    |
-| [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]                                                                               | 21    |
 | [[Coevolution simultaneously develops the formulation of and solution to a problem\|Coevolution simultaneously develops the formulation of and solution to a problem]] | 18    |
 | [[Complex networks have unique topological features\|Complex networks have unique topological features]]                                                               | 18    |
 | [[Faint signals are whispers from the future\|Faint signals are whispers from the future]]                                                                             | 18    |
@@ -43,6 +43,7 @@
 | [[Checklists ensure success in complex conditions\|Checklists ensure success in complex conditions]]                                                                   | 6     |
 | [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]]                                     | 6     |
 | [[Large systems tend to disintegrate during development\|Large systems tend to disintegrate during development]]                                                       | 6     |
+| [[Systems thinking accounts for events, structure, and behavior (over time)\|Systems thinking accounts for events, structure, and behavior (over time)]]               | 6     |
 | [[Complex problems can be solved at the periphery\|Complex problems can be solved at the periphery]]                                                                   | 5     |
 | [[Globalization is a complex system\|Globalization is a complex system]]                                                                                               | 5     |
 | [[Maps of connectivity reveal strategic dynamics\|Maps of connectivity reveal strategic dynamics]]                                                                     | 5     |

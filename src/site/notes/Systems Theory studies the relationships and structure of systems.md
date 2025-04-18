@@ -6,7 +6,7 @@
 
 #strategic 
 
-> ==Systems theory is **the interdisciplinary study of systems**.== A system is a cohesive conglomeration of interrelated and interdependent parts which can be natural or human-made. Every system is bounded by space and time, influenced by its environment, defined by its structure and purpose, and expressed through its functioning. A system may be more than the sum of its parts if it expresses synergy or [[Staging/Emergence\|Emergence]].[^1]
+> ==Systems theory is **the interdisciplinary study of systems**.== A system is a cohesive conglomeration of interrelated and interdependent parts which can be natural or human-made. Every system is bounded by space and time, influenced by its environment, defined by its structure and purpose, and expressed through its functioning. A system may be more than the sum of its parts if it expresses synergy or [[Emergence is non-linear behavior of a system\|emergence]].[^1]
 
 Meadows notes the importance of understanding the relationship between structure and behavior in order to understand the behavior that is latent in the system itself:
 

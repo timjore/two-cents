@@ -17,10 +17,10 @@
 | File                                                                                                                                            | Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Learning organizations implement five component technologies\|Learning organizations implement five component technologies]]               | 12    |
+| [[Structure influences behavior\|Structure influences behavior]]                                                                             | 12    |
+| [[Complex situations have multiple levels of explanation\|Complex situations have multiple levels of explanation]]                           | 10    |
+| [[Structural explanations address underlying causes\|Structural explanations address underlying causes]]                                     | 10    |
 | [[Building shared vision results in intrinsic motivation\|Building shared vision results in intrinsic motivation]]                           | 9     |
-| [[Structure influences behavior\|Structure influences behavior]]                                                                             | 9     |
-| [[Complex situations have multiple levels of explanation\|Complex situations have multiple levels of explanation]]                           | 9     |
-| [[Structural explanations address underlying causes\|Structural explanations address underlying causes]]                                     | 9     |
 | [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]             | 8     |
 | [[Inquiry into complex issues is seldom rewarded\|Inquiry into complex issues is seldom rewarded]]                                           | 8     |
 | [[Ideas are like leaves floating on collective thinking\|Ideas are like leaves floating on collective thinking]]                             | 7     |

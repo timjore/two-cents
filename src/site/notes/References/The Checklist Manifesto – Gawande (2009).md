@@ -16,7 +16,7 @@
 
 | File                                                                                                                                                | Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]                                                         | 21    |
+| [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]                                                         | 22    |
 | [[Integrative, Macroscopic Thinking is antithetical to higher education\|Integrative, Macroscopic Thinking is antithetical to higher education]] | 13    |
 | [[Building habits reduces cognitive strain\|Building habits reduces cognitive strain]]                                                           | 10    |
 | [[Checklists ensure success in complex conditions\|Checklists ensure success in complex conditions]]                                             | 6     |

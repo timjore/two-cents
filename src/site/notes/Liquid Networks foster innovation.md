@@ -30,6 +30,8 @@ see also:
 - [[Specialization tends to reduce range\|Specialization tends to reduce range]]
 - [[Efficiency is purchased by a loss in flexibility\|Efficiency is purchased by a loss in flexibility]]
 - [[Staging/Generalists are better positioned for the future than specialists\|Generalists are better positioned for the future than specialists]]
+- [[Faint signals are whispers from the future\|Faint signals are whispers from the future]]
+- [[Emergence is non-linear behavior of a system\|Emergence is non-linear behavior of a system]]
 
 [^1]:  source: [[References/Where Good Ideas Come From – Johnson (2011)\|Where Good Ideas Come From – Johnson (2011)]], 47.
 [^2]: Ibid., 128.

@@ -21,6 +21,7 @@
 | [[Complex systems are characterized by VUCA\|Complex systems are characterized by VUCA]]                                                                         | 14    |
 | [[Leading like a gardener creates shared consciousness\|Leading like a gardener creates shared consciousness]]                                                   | 14    |
 | [[Shared consciousness maximizes availability of strategic information\|Shared consciousness maximizes availability of strategic information]]                   | 14    |
+| [[Emergence is non-linear behavior of a system\|Emergence is non-linear behavior of a system]]                                                                   | 13    |
 | [[Empowered execution enables effective adaptation to threats and opportunities\|Empowered execution enables effective adaptation to threats and opportunities]] | 12    |
 | [[Smart autonomy is freedom to act according to strategic intent\|Smart autonomy is freedom to act according to strategic intent]]                               | 12    |
 | [[All-Channel Networks can function without hierarchies\|All-Channel Networks can function without hierarchies]]                                                 | 8     |

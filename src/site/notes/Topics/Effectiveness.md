@@ -6,10 +6,10 @@
 
 | File                                                                                                                                                    | Total Links |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Structure influences behavior\|Structure influences behavior]]                                                                                     | 12          |
 | [[Building habits reduces cognitive strain\|Building habits reduces cognitive strain]]                                                               | 10          |
 | [[Thinking from right to left begins with the goal\|Thinking from right to left begins with the goal]]                                               | 10          |
 | [[Think slow, act fast is the secret of success\|Think slow, act fast is the secret of success]]                                                     | 9           |
-| [[Structure influences behavior\|Structure influences behavior]]                                                                                     | 9           |
 | [[Successful projects develop a clear, informed understanding of the goal\|Successful projects develop a clear, informed understanding of the goal]] | 8           |
 | [[Generative learning requires systemic thinking\|Generative learning requires systemic thinking]]                                                   | 7           |
 | [[Checklists ensure success in complex conditions\|Checklists ensure success in complex conditions]]                                                 | 6           |

@@ -9,6 +9,7 @@ The structure in which people exist and function has a shaping (constraining or 
 
 > ==When placed in the **same system**, people,== however different, ==tend to produce **similar results**==.[^1]
 
+This is because [[System structure produces behavior revealed as events over time\|System structure produces behavior revealed as events over time]].
 
 ---
 #design #systems #effectiveness 
