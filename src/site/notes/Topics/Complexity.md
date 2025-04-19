@@ -38,12 +38,12 @@
 | [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]]                     | 7     |
 | [[One or two high leverage behaviors produce maximum change\|One or two high leverage behaviors produce maximum change]]                                               | 7     |
 | [[Solutions to complex problems are rooted in context\|Solutions to complex problems are rooted in context]]                                                           | 7     |
+| [[Systems thinking accounts for events, structure, and behavior (over time)\|Systems thinking accounts for events, structure, and behavior (over time)]]               | 7     |
 | [[Appraisal of a complex problem’s context is objective\|Appraisal of a complex problem’s context is objective]]                                                       | 6     |
 | [[Bright spots show positive deviance\|Bright spots show positive deviance]]                                                                                           | 6     |
 | [[Checklists ensure success in complex conditions\|Checklists ensure success in complex conditions]]                                                                   | 6     |
 | [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]]                                     | 6     |
 | [[Large systems tend to disintegrate during development\|Large systems tend to disintegrate during development]]                                                       | 6     |
-| [[Systems thinking accounts for events, structure, and behavior (over time)\|Systems thinking accounts for events, structure, and behavior (over time)]]               | 6     |
 | [[Complex problems can be solved at the periphery\|Complex problems can be solved at the periphery]]                                                                   | 5     |
 | [[Globalization is a complex system\|Globalization is a complex system]]                                                                                               | 5     |
 | [[Maps of connectivity reveal strategic dynamics\|Maps of connectivity reveal strategic dynamics]]                                                                     | 5     |

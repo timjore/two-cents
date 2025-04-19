@@ -27,6 +27,7 @@ Kahneman observes:
 
 > ==The world in our heads is not a precise replica of reality==; our expectations about the frequency of events are distorted by the prevalence and emotional intensity of the messages to which we are exposed. (see [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]])
 
+
 ---
 #cognition #metacognition #strategic #strategic-cartography 
 

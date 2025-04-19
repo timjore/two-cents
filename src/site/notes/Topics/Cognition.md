@@ -58,13 +58,14 @@
 | [[Organizations expand when prestige is correlated to budget size\|Organizations expand when prestige is correlated to budget size]]                                     | 5           |
 | [[People tend to adopt their own ideas\|People tend to adopt their own ideas]]                                                                                           | 5           |
 | [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                                   | 5           |
+| [[The map is not the territory\|The map is not the territory]]                                                                                                           | 5           |
 | [[Tools both illuminate and limit our understanding\|Tools both illuminate and limit our understanding]]                                                                 | 5           |
 | [[Writing clarifies thinking\|Writing clarifies thinking]]                                                                                                               | 5           |
 | [[Locking down of a problem leads to frozen thinking\|Locking down of a problem leads to frozen thinking]]                                                               | 4           |
 | [[Making good decisions in ambiguous scenarios requires elastic thinking\|Making good decisions in ambiguous scenarios requires elastic thinking]]                       | 4           |
 | [[Occam's razor leads to first principles thinking\|Occam's razor leads to first principles thinking]]                                                                   | 4           |
 | [[Strategic capability is required for thinking your way out of difficult positions\|Strategic capability is required for thinking your way out of difficult positions]] | 4           |
-| [[The map is not the territory\|The map is not the territory]]                                                                                                           | 4           |
+| [[Everything we think we know about the world is a model\|Everything we think we know about the world is a model]]                                                       | 4           |
 | [[Intuition delivers overly extreme predictions\|Intuition delivers overly extreme predictions]]                                                                         | 3           |
 | [[Trustworthy vs. Trusted\|Trustworthy vs. Trusted]]                                                                                                                     | 3           |
 | [[Post hoc ergo propter hoc\|Post hoc ergo propter hoc]]                                                                                                                 | 1           |

@@ -21,9 +21,9 @@
 | [[Resilience Thinking creates antifragile systems\|Resilience Thinking creates antifragile systems]]                                                         | 15    |
 | [[General resilience depends on diversity, modularity, and feedbacks\|General resilience depends on diversity, modularity, and feedbacks]]                   | 14    |
 | [[Optimization aims to hold a system in an optimal state\|Optimization aims to hold a system in an optimal state]]                                           | 11    |
+| [[Resilience is the capacity to absorb shocks and retain function\|Resilience is the capacity to absorb shocks and retain function]]                         | 11    |
 | [[Complex adaptive systems are unpredictable and non-linear\|Complex adaptive systems are unpredictable and non-linear]]                                     | 10    |
 | [[Diversity of a system affects resilience\|Diversity of a system affects resilience]]                                                                       | 10    |
-| [[Resilience is the capacity to absorb shocks and retain function\|Resilience is the capacity to absorb shocks and retain function]]                         | 10    |
 | [[Resilient systems require both specified and general resilience\|Resilient systems require both specified and general resilience]]                         | 9     |
 | [[Systems cannot be held in an optimal state\|Systems cannot be held in an optimal state]]                                                                   | 9     |
 | [[Modularity of a system affects resilience\|Modularity of a system affects resilience]]                                                                     | 8     |

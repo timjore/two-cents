@@ -16,11 +16,11 @@
 | [[Structural explanations address underlying causes\|Structural explanations address underlying causes]]                                                                                           | 10          |
 | [[Loss aversion values avoiding losses more than achieving gains\|Loss aversion values avoiding losses more than achieving gains]]                                                                 | 8           |
 | [[Negativity dominance processes the bad more thoroughly than the good\|Negativity dominance processes the bad more thoroughly than the good]]                                                     | 8           |
-| [[Mental models influence how we think and act\|Mental models influence how we think and act]]                                                                                                     | 7           |
+| [[Mental models influence how we think and act\|Mental models influence how we think and act]]                                                                                                     | 8           |
 | [[Complexifying overcomes binary bias\|Complexifying overcomes binary bias]]                                                                                                                       | 5           |
 | [[Decentralized systems are incomprehensible to centralized worldviews\|Decentralized systems are incomprehensible to centralized worldviews]]                                                     | 5           |
 | [[It is difficult to provide someone with a solution for a problem they do not think they have\|It is difficult to provide someone with a solution for a problem they do not think they have]]     | 5           |
+| [[The map is not the territory\|The map is not the territory]]                                                                                                                                     | 5           |
 | [[What you see is all there is\|What you see is all there is]]                                                                                                                                     | 5           |
-| [[The map is not the territory\|The map is not the territory]]                                                                                                                                     | 4           |
 
 { .block-language-dataview}
