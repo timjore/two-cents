@@ -16,7 +16,7 @@
 | File                                                                                                                                        | Links |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Lateral thinking is range in action\|Lateral thinking is range in action]]                                                             | 20    |
-| [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]                           | 18    |
+| [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]                           | 19    |
 | [[Specialization tends to reduce range\|Specialization tends to reduce range]]                                                           | 14    |
 | [[Wicked learning environments prevent learning\|Wicked learning environments prevent learning]]                                         | 10    |
 | [[Superforecasting is the intersection of range and mindset\|Superforecasting is the intersection of range and mindset]]                 | 9     |

@@ -17,7 +17,7 @@
 | File                                                                                                                                                        | Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Systems Theory studies the relationships and structure of systems\|Systems Theory studies the relationships and structure of systems]]                 | 9     |
-| [[Systems thinking accounts for events, structure, and behavior (over time)\|Systems thinking accounts for events, structure, and behavior (over time)]] | 7     |
+| [[Systems thinking accounts for events, structure, and behavior (over time)\|Systems thinking accounts for events, structure, and behavior (over time)]] | 8     |
 | [[System structure produces behavior revealed as events over time\|System structure produces behavior revealed as events over time]]                     | 5     |
 | [[Everything we think we know about the world is a model\|Everything we think we know about the world is a model]]                                       | 4     |
 

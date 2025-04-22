@@ -6,10 +6,10 @@
 
 | File                                                                                                                                                                        | Total Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]]         | 34          |
+| [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]]         | 35          |
 | [[Scouts frequently update their maps\|Scouts frequently update their maps]]                                                                                             | 27          |
 | [[Lateral thinking is range in action\|Lateral thinking is range in action]]                                                                                             | 20          |
-| [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]                                                           | 18          |
+| [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]                                                           | 19          |
 | [[Creating frames improves cognition\|Creating frames improves cognition]]                                                                                               | 15          |
 | [[First Principles thinking allows you to see the obvious hiding in plain sight\|First Principles thinking allows you to see the obvious hiding in plain sight]]         | 15          |
 | [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                                 | 14          |
@@ -30,6 +30,7 @@
 | [[Superforecasting is the intersection of range and mindset\|Superforecasting is the intersection of range and mindset]]                                                 | 9           |
 | [[The price of knowledge is a change in lexicon\|The price of knowledge is a change in lexicon]]                                                                         | 9           |
 | [[Think slow, act fast is the secret of success\|Think slow, act fast is the secret of success]]                                                                         | 9           |
+| [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                                         | 9           |
 | [[Concept maps are graphical representations of mental models\|Concept maps are graphical representations of mental models]]                                             | 8           |
 | [[Elastic Thinking can hold two contradictory ideas simultaneously\|Elastic Thinking can hold two contradictory ideas simultaneously]]                                   | 8           |
 | [[Lexicons constrain the range of possible belief\|Lexicons constrain the range of possible belief]]                                                                     | 8           |
@@ -37,7 +38,6 @@
 | [[Path dependence shapes what we do next\|Path dependence shapes what we do next]]                                                                                       | 8           |
 | [[Reference-class forecasting overcomes the planning fallacy\|Reference-class forecasting overcomes the planning fallacy]]                                               | 8           |
 | [[Rough Consensus enables forward progress\|Rough Consensus enables forward progress]]                                                                                   | 8           |
-| [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                                         | 8           |
 | [[Analogical thinking uses a known example to explain something new\|Analogical thinking uses a known example to explain something new]]                                 | 7           |
 | [[Divergent ideas come from the right brain\|Divergent ideas come from the right brain]]                                                                                 | 7           |
 | [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]                                                                             | 7           |

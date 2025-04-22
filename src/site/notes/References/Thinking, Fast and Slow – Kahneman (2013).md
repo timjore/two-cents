@@ -23,10 +23,10 @@
 | [[Intuition is pattern recognition\|Intuition is pattern recognition]]                                                                                       | 10    |
 | [[Positive Test Strategy reinforces Confirmation Bias\|Positive Test Strategy reinforces Confirmation Bias]]                                                 | 9     |
 | [[Superforecasting is the intersection of range and mindset\|Superforecasting is the intersection of range and mindset]]                                     | 9     |
+| [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                             | 9     |
 | [[Loss aversion values avoiding losses more than achieving gains\|Loss aversion values avoiding losses more than achieving gains]]                           | 8     |
 | [[Reference-class forecasting overcomes the planning fallacy\|Reference-class forecasting overcomes the planning fallacy]]                                   | 8     |
 | [[Superforecasters think differently\|Superforecasters think differently]]                                                                                   | 8     |
-| [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                             | 8     |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                   | 7     |
 | [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                                 | 6     |
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                   | 6     |

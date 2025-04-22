@@ -42,9 +42,9 @@ The “rigorous language for the description of networks is found in graph theor
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Liquid Networks foster innovation\|Liquid Networks foster innovation]]                                                                           | 20          |
 | [[Complex networks have unique topological features\|Complex networks have unique topological features]]                                           | 18          |
-| [[Emergence is non-linear behavior of a system\|Emergence is non-linear behavior of a system]]                                                     | 13          |
+| [[Emergence is non-linear behavior of a system\|Emergence is non-linear behavior of a system]]                                                     | 14          |
 | [[Power Law distributions\|Power Law distributions]]                                                                                               | 12          |
-| [[Simple rules tame complexity\|Simple rules tame complexity]]                                                                                     | 11          |
+| [[Simple rules tame complexity\|Simple rules tame complexity]]                                                                                     | 12          |
 | [[All-Channel Networks can function without hierarchies\|All-Channel Networks can function without hierarchies]]                                   | 8           |
 | [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]] | 7           |
 | [[Ideology is the glue that holds decentralized organizations together\|Ideology is the glue that holds decentralized organizations together]]     | 7           |
