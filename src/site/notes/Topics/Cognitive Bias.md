@@ -27,11 +27,11 @@
 | [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]                                                               | 7           |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                 | 7           |
 | [[Selection Bias happens when the sample is not representative\|Selection Bias happens when the sample is not representative]]                             | 7           |
+| [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                     | 7           |
 | [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                               | 6           |
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                 | 6           |
 | [[Bias for action can mask a bias against thinking\|Bias for action can mask a bias against thinking]]                                                     | 5           |
 | [[Complexifying overcomes binary bias\|Complexifying overcomes binary bias]]                                                                               | 5           |
-| [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                     | 5           |
 | [[Survivorship bias focuses only on successful examples\|Survivorship bias focuses only on successful examples]]                                           | 5           |
 | [[Bandwagon bias is social proof\|Bandwagon bias is social proof]]                                                                                         | 4           |
 | [[Scout mindset uses thought experiments to test for motivated reasoning\|Scout mindset uses thought experiments to test for motivated reasoning]]         | 4           |

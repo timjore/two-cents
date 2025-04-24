@@ -16,7 +16,7 @@
 
 | File                                                                                                                                                                                | Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Low-leverage interventions are alluring because they work in the short term\|Low-leverage interventions are alluring because they work in the short term]]                     | 14    |
+| [[Low-leverage interventions are alluring because they work in the short term\|Low-leverage interventions are alluring because they work in the short term]]                     | 15    |
 | [[Structure influences behavior\|Structure influences behavior]]                                                                                                                 | 13    |
 | [[Structural explanations address underlying causes\|Structural explanations address underlying causes]]                                                                         | 13    |
 | [[Learning organizations implement five component technologies\|Learning organizations implement five component technologies]]                                                   | 12    |
@@ -26,16 +26,19 @@
 | [[Building shared vision results in intrinsic motivation\|Building shared vision results in intrinsic motivation]]                                                               | 9     |
 | [[Mental models influence how we think and act\|Mental models influence how we think and act]]                                                                                   | 8     |
 | [[Inquiry into complex issues is seldom rewarded\|Inquiry into complex issues is seldom rewarded]]                                                                               | 8     |
+| [[Compensating feedback offsets interventions\|Compensating feedback offsets interventions]]                                                                                     | 8     |
 | [[Non-systemic solutions are addictive\|Non-systemic solutions are addictive]]                                                                                                   | 8     |
 | [[Ideas are like leaves floating on collective thinking\|Ideas are like leaves floating on collective thinking]]                                                                 | 7     |
 | [[Generative learning requires systemic thinking\|Generative learning requires systemic thinking]]                                                                               | 7     |
-| [[Compensating feedback offsets interventions\|Compensating feedback offsets interventions]]                                                                                     | 7     |
 | [[Non-systemic thinking relies on familiar (but ineffective) solutions\|Non-systemic thinking relies on familiar (but ineffective) solutions]]                                   | 7     |
+| [[Leverage in the right location is more effective than the amount used\|Leverage in the right location is more effective than the amount used]]                                 | 7     |
 | [[Systems archetypes embody the key to systems thinking\|Systems archetypes embody the key to systems thinking]]                                                                 | 7     |
+| [[Creation of a process also creates secondary processes which limit it\|Creation of a process also creates secondary processes which limit it]]                                 | 7     |
+| [[Addressing symptoms shifts the burden from addressing fundamental causes\|Addressing symptoms shifts the burden from addressing fundamental causes]]                           | 7     |
 | [[Team learning is thinking together\|Team learning is thinking together]]                                                                                                       | 6     |
-| [[Leverage in the right location is more effective than the amount used\|Leverage in the right location is more effective than the amount used]]                                 | 6     |
 | [[Systems are integrative, cohesive, and indivisible\|Systems are integrative, cohesive, and indivisible]]                                                                       | 6     |
 | [[Structures of which we are unaware hold us prisoner\|Structures of which we are unaware hold us prisoner]]                                                                     | 6     |
+| [[Symptomatic solutions exacerbate fundamental causes\|Symptomatic solutions exacerbate fundamental causes]]                                                                     | 6     |
 | [[Personal mastery is life in service of your highest aspirations\|Personal mastery is life in service of your highest aspirations]]                                             | 5     |
 | [[Learning organizations create their own future\|Learning organizations create their own future]]                                                                               | 5     |
 | [[Systems grow best at their optimal rate, not faster\|Systems grow best at their optimal rate, not faster]]                                                                     | 5     |

@@ -28,10 +28,10 @@
 | [[Reference-class forecasting overcomes the planning fallacy\|Reference-class forecasting overcomes the planning fallacy]]                                   | 8     |
 | [[Superforecasters think differently\|Superforecasters think differently]]                                                                                   | 8     |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                   | 7     |
+| [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                       | 7     |
 | [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                                 | 6     |
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                   | 6     |
 | [[Pattern recognition primes decision-making\|Pattern recognition primes decision-making]]                                                                   | 6     |
-| [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                       | 5     |
 | [[What you see is all there is\|What you see is all there is]]                                                                                               | 5     |
 | [[Small sample sizes means variations will fluctuate wildly\|Small sample sizes means variations will fluctuate wildly]]                                     | 4     |
 | [[Intuition delivers overly extreme predictions\|Intuition delivers overly extreme predictions]]                                                             | 3     |

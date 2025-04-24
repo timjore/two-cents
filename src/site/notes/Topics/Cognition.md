@@ -43,6 +43,7 @@
 | [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]                                                                             | 7           |
 | [[Ideas are like leaves floating on collective thinking\|Ideas are like leaves floating on collective thinking]]                                                         | 7           |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                               | 7           |
+| [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                                   | 7           |
 | [[The clarity of a map is not easily distinguished from its accuracy\|The clarity of a map is not easily distinguished from its accuracy]]                               | 7           |
 | [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]                                                                             | 7           |
 | [[Scientific thinking is understanding something before it is observed\|Scientific thinking is understanding something before it is observed]]                           | 7           |
@@ -57,7 +58,6 @@
 | [[Metaphors form the basis of our ability to think\|Metaphors form the basis of our ability to think]]                                                                   | 5           |
 | [[Organizations expand when prestige is correlated to budget size\|Organizations expand when prestige is correlated to budget size]]                                     | 5           |
 | [[People tend to adopt their own ideas\|People tend to adopt their own ideas]]                                                                                           | 5           |
-| [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                                   | 5           |
 | [[The map is not the territory\|The map is not the territory]]                                                                                                           | 5           |
 | [[Tools both illuminate and limit our understanding\|Tools both illuminate and limit our understanding]]                                                                 | 5           |
 | [[Writing clarifies thinking\|Writing clarifies thinking]]                                                                                                               | 5           |
