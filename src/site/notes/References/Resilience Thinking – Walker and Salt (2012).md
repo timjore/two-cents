@@ -15,7 +15,7 @@
 
 | File                                                                                                                                                            | Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Efficiency is purchased by a loss in flexibility\|Efficiency is purchased by a loss in flexibility]]                                                       | 22    |
+| [[Efficiency is purchased by a loss in flexibility\|Efficiency is purchased by a loss in flexibility]]                                                       | 23    |
 | [[Resilience Thinking understands thresholds and adaptive cycles\|Resilience Thinking understands thresholds and adaptive cycles]]                           | 18    |
 | [[Resilience Thinking embraces the reality that things change\|Resilience Thinking embraces the reality that things change]]                                 | 17    |
 | [[Resilience Thinking creates antifragile systems\|Resilience Thinking creates antifragile systems]]                                                         | 15    |
@@ -24,9 +24,9 @@
 | [[Resilience is the capacity to absorb shocks and retain function\|Resilience is the capacity to absorb shocks and retain function]]                         | 11    |
 | [[Complex adaptive systems are unpredictable and non-linear\|Complex adaptive systems are unpredictable and non-linear]]                                     | 10    |
 | [[Diversity of a system affects resilience\|Diversity of a system affects resilience]]                                                                       | 10    |
+| [[Modularity of a system affects resilience\|Modularity of a system affects resilience]]                                                                     | 10    |
 | [[Resilient systems require both specified and general resilience\|Resilient systems require both specified and general resilience]]                         | 9     |
 | [[Systems cannot be held in an optimal state\|Systems cannot be held in an optimal state]]                                                                   | 9     |
-| [[Modularity of a system affects resilience\|Modularity of a system affects resilience]]                                                                     | 8     |
 | [[Optimizing a system reduces its resilience\|Optimizing a system reduces its resilience]]                                                                   | 8     |
 | [[Adaptability is the capacity of actors to manage the resilience of a system\|Adaptability is the capacity of actors to manage the resilience of a system]] | 7     |
 | [[Resilience is the distance between the system and its nearest threshold\|Resilience is the distance between the system and its nearest threshold]]         | 7     |

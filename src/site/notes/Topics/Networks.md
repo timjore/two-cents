@@ -42,7 +42,7 @@ The “rigorous language for the description of networks is found in graph theor
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Liquid Networks foster innovation\|Liquid Networks foster innovation]]                                                                           | 20          |
 | [[Complex networks have unique topological features\|Complex networks have unique topological features]]                                           | 18          |
-| [[Emergence is non-linear behavior of a system\|Emergence is non-linear behavior of a system]]                                                     | 14          |
+| [[Emergence is non-linear behavior of a system\|Emergence is non-linear behavior of a system]]                                                     | 15          |
 | [[Power Law distributions\|Power Law distributions]]                                                                                               | 12          |
 | [[Simple rules tame complexity\|Simple rules tame complexity]]                                                                                     | 12          |
 | [[All-Channel Networks can function without hierarchies\|All-Channel Networks can function without hierarchies]]                                   | 8           |

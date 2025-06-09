@@ -26,8 +26,8 @@
 | [[Frame creation considers all stakeholders of the problem and solution\|Frame creation considers all stakeholders of the problem and solution]]                       | 20    |
 | [[Frame creation develops a plan for transformation\|Frame creation develops a plan for transformation]]                                                               | 20    |
 | [[Frame creation identifies common themes as the basis for frames\|Frame creation identifies common themes as the basis for frames]]                                   | 20    |
-| [[Frame creation is composed of ten principles\|Frame creation is composed of ten principles]]                                                                         | 20    |
 | [[Frame creation learns practices and scenarios that may suggest a solution\|Frame creation learns practices and scenarios that may suggest a solution]]               | 20    |
+| [[Frame creation is composed of ten principles\|Frame creation is composed of ten principles]]                                                                         | 20    |
 | [[Frame creation seeks to understand the root factors of stakeholders\|Frame creation seeks to understand the root factors of stakeholders]]                           | 20    |
 | [[Coevolution simultaneously develops the formulation of and solution to a problem\|Coevolution simultaneously develops the formulation of and solution to a problem]] | 18    |
 | [[Developing problem situations allows reframing\|Developing problem situations allows reframing]]                                                                     | 18    |
@@ -53,7 +53,7 @@
 | [[Design expertise has seven levels\|Design expertise has seven levels]]                                                                                               | 4     |
 | [[Locking down of a problem leads to frozen thinking\|Locking down of a problem leads to frozen thinking]]                                                             | 4     |
 | [[Solutions to complex problems depends on a clear frame\|Solutions to complex problems depends on a clear frame]]                                                     | 4     |
-| [[Solving complex problems requires having the right participants\|Solving complex problems requires having the right participants]]                                   | 3     |
 | [[Solving complex problems requires laying considerable groundwork\|Solving complex problems requires laying considerable groundwork]]                                 | 3     |
+| [[Solving complex problems requires having the right participants\|Solving complex problems requires having the right participants]]                                   | 3     |
 
 { .block-language-dataview}

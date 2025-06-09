@@ -4,7 +4,7 @@
 
 # Efficiency is purchased by a loss in flexibility
 
-Increasing the stability and efficiency of a system comes at the cost of flexibility. As a system (e.g., an organization, an ecosystem, etc.) grows, the system tends to optimize for efficiency and stability—finding the one best way to do something and only doing it that way. ==The drive for stability and efficiency leads to increased fragility and risk to the system.==
+Increasing the stability and efficiency of a system comes at the cost of flexibility. As a system (e.g., an organization, an ecosystem, etc.) grows, the system tends to optimize for efficiency and stability—finding the one best way to do something and only doing it that way. ==The drive for stability and efficiency leads to **increased fragility and risk to the system**.==
 
 > The growth rate slows as connectedness increases, the system becomes more and more rigid, and resilience declines. ==The cost of efficiency is a **loss in flexibility**==. Different ways of performing the same function (redundancy) are eliminated in favor of doing the function in just the most efficient way. ==Increasing dependence on existing structures and processes renders the system increasingly vulnerable to disturbance. **Such a system is increasingly stable—but over a decreasing range of conditions**.==[^1] 
 

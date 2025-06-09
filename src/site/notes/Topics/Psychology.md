@@ -40,8 +40,8 @@
 | [[Criticism affecting identity predisposes soldier mindset\|Criticism affecting identity predisposes soldier mindset]]                                                     | 3           |
 | [[Extrinsic rewards can crowd out intrinsic motivation\|Extrinsic rewards can crowd out intrinsic motivation]]                                                             | 3           |
 | [[Social proof is most influential under three conditions\|Social proof is most influential under three conditions]]                                                       | 3           |
-| [[What others do is the stimulus, not the cause, of feelings\|What others do is the stimulus, not the cause, of feelings]]                                                 | 3           |
 | [[Stanford Prison Experiment\|Stanford Prison Experiment]]                                                                                                                 | 3           |
+| [[What others do is the stimulus, not the cause, of feelings\|What others do is the stimulus, not the cause, of feelings]]                                                 | 3           |
 | [[Opportunity Cost is the sum of all the benefits provided by the options not chosen\|Opportunity Cost is the sum of all the benefits provided by the options not chosen]] | 2           |
 | [[Tactical Empathy understands another's feelings and mindset\|Tactical Empathy understands another's feelings and mindset]]                                               | 2           |
 | [[The two halves of the brain speak different languages\|The two halves of the brain speak different languages]]                                                           | 2           |

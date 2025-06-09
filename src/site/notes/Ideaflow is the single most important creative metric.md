@@ -19,4 +19,4 @@ see also:
 - [[Quality arises from quantity\|Quality arises from quantity]]
 
 [^1]: [[References/Ideaflow – Utley and Klebahn (2022)\|Ideaflow – Utley and Klebahn (2022)]], ch. 1, § “Every Problem is an Idea Problem”
-[^2]: [[References/Ideaflow – Utley and Klebahn (2022)\|Ideaflow – Utley and Klebahn (2022)]], ch. 1, § “Measuring Ideaflow”
+[^2]: Ibid., ch. 1, § “Measuring Ideaflow”

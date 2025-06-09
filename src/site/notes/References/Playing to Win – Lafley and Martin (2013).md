@@ -19,8 +19,8 @@
 | [[Strategy is the answer to five questions\|Strategy is the answer to five questions]]                                                                                   | 12    |
 | [[Strategy identifies management systems needed for winning\|Strategy identifies management systems needed for winning]]                                                 | 11    |
 | [[Strategy narrows the competitive field\|Strategy narrows the competitive field]]                                                                                       | 11    |
-| [[Strategy defines the choices for winning in a chosen field\|Strategy defines the choices for winning in a chosen field]]                                               | 10    |
 | [[Strategy identifies capabilities needed for winning in a chosen field\|Strategy identifies capabilities needed for winning in a chosen field]]                         | 10    |
+| [[Strategy defines the choices for winning in a chosen field\|Strategy defines the choices for winning in a chosen field]]                                               | 10    |
 | [[Strategy is focused on a winning aspiration\|Strategy is focused on a winning aspiration]]                                                                             | 10    |
 | [[Reverse-engineering focuses strategic options\|Reverse-engineering focuses strategic options]]                                                                         | 8     |
 | [[Specifying conditions reverse engineers a possibility\|Specifying conditions reverse engineers a possibility]]                                                         | 4     |

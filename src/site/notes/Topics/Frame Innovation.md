@@ -14,8 +14,8 @@
 | [[Frame creation considers all stakeholders of the problem and solution\|Frame creation considers all stakeholders of the problem and solution]]         | 20          |
 | [[Frame creation develops a plan for transformation\|Frame creation develops a plan for transformation]]                                                 | 20          |
 | [[Frame creation identifies common themes as the basis for frames\|Frame creation identifies common themes as the basis for frames]]                     | 20          |
-| [[Frame creation is composed of ten principles\|Frame creation is composed of ten principles]]                                                           | 20          |
 | [[Frame creation learns practices and scenarios that may suggest a solution\|Frame creation learns practices and scenarios that may suggest a solution]] | 20          |
+| [[Frame creation is composed of ten principles\|Frame creation is composed of ten principles]]                                                           | 20          |
 | [[Frame creation seeks to understand the root factors of stakeholders\|Frame creation seeks to understand the root factors of stakeholders]]             | 20          |
 | [[Creating frames improves cognition\|Creating frames improves cognition]]                                                                               | 15          |
 | [[Fostering a discourse shapes behavior\|Fostering a discourse shapes behavior]]                                                                         | 14          |
@@ -30,7 +30,7 @@
 | [[Solving complex problems requires understanding the context\|Solving complex problems requires understanding the context]]                             | 5           |
 | [[Design expertise has seven levels\|Design expertise has seven levels]]                                                                                 | 4           |
 | [[Solutions to complex problems depends on a clear frame\|Solutions to complex problems depends on a clear frame]]                                       | 4           |
-| [[Solving complex problems requires having the right participants\|Solving complex problems requires having the right participants]]                     | 3           |
 | [[Solving complex problems requires laying considerable groundwork\|Solving complex problems requires laying considerable groundwork]]                   | 3           |
+| [[Solving complex problems requires having the right participants\|Solving complex problems requires having the right participants]]                     | 3           |
 
 { .block-language-dataview}

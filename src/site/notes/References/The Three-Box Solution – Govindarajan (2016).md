@@ -16,6 +16,6 @@
 
 | File                                                                                                                                                                | Links |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]] | 35    |
+| [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]] | 38    |
 
 { .block-language-dataview}

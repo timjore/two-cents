@@ -7,7 +7,7 @@
 
 A system that implements a modular design by linking the system’s components together is less likely to fail. This is because it will be better able to withstand unanticipated shocks (e.g., [[Black Swan events are rare, impactful, and retrospectively predictable\|Black Swans]]).
 
-> It’s no small accomplishment to drastically reduce costs and boost speeds. But ==modularization does more than that; it **radically reduces risk**==—to such an extent that modularization may be the most effective way to “cut the tail,” as recommended in chapter 6. ([185](file:///Users/timj/Dropbox/Library/Book/How%20Big%20Things%20Get%20Done_Flyvbjerg_Gardner_2023.pdf))[^1]
+> It’s no small accomplishment to drastically reduce costs and boost speeds. But ==modularization does more than that; it **radically reduces risk**==—to such an extent that modularization may be the most effective way to “cut the tail,” as recommended in chapter 6.[^1]
 
 
 ---
