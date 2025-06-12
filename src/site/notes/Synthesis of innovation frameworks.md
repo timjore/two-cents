@@ -6,7 +6,7 @@
 
 A synthesis of innovation frameworks and concepts, as described in various books:
 
-![Framework for Innovation.jpeg](/img/user/Attachments/Framework%20for%20Innovation.jpeg)
+![Flow of Innovation.jpg](/img/user/Attachments/Flow%20of%20Innovation.jpg)
 
 ---
 #innovation #synthesis

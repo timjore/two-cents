@@ -9,6 +9,12 @@ Malicious acts are far more likely to be explained by incompetence, stupidity, o
 
 > Hard to trace in its origin, Hanlon’s Razor states that ==we should not attribute to malice that which is more easily explained by stupidity==. In a complex world, using this model helps us avoid paranoia and ideology. By not generally assuming that bad results are the fault of a bad actor, we look for options instead of missing opportunities. This model reminds us that people do make mistakes. It demands that we ask if there is another reasonable explanation for the events that have occurred. The explanation most likely to be right is the one that contains the least amount of intent.[^1]
 
+Some variants are also helpful:
+
+> Never attribute to malice or stupidity that which can be explained by moderately rational individuals following incentives in a complex system. —Douglas W. Hubbard
+
+> Any sufficiently advanced incompetence is indistinguishable from malice. —Grey’s Law
+
 ----
 #cognition #bias 
 

@@ -16,8 +16,8 @@
 
 | File                                                                            | Links |
 | ------------------------------------------------------------------------------- | ----- |
-| [[Self-regulating systems are modular\|Self-regulating systems are modular]] | 8     |
-| [[Healthy systems are self-regulating\|Healthy systems are self-regulating]] | 6     |
-| [[Self-regulating systems are small\|Self-regulating systems are small]]     | 4     |
+| [[Self-regulating systems are modular\|Self-regulating systems are modular]] | 7     |
+| [[Healthy systems are self-regulating\|Healthy systems are self-regulating]] | 5     |
+| [[Self-regulating systems are small\|Self-regulating systems are small]]     | 3     |
 
 { .block-language-dataview}
