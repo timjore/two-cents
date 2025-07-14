@@ -22,8 +22,8 @@
 | [[Paradigm shifts create a new framework of thinking\|Paradigm shifts create a new framework of thinking]]                   | 12    |
 | [[New paradigms are preceded by crisis\|New paradigms are preceded by crisis]]                                               | 10    |
 | [[Paradigm changes are preceded by awareness and recognition\|Paradigm changes are preceded by awareness and recognition]]   | 10    |
-| [[New paradigms tend to emerge all at once\|New paradigms tend to emerge all at once]]                                       | 8     |
 | [[New paradigms tend to be invented by newcomers\|New paradigms tend to be invented by newcomers]]                           | 8     |
+| [[New paradigms tend to emerge all at once\|New paradigms tend to emerge all at once]]                                       | 8     |
 | [[Paradigm arguments are circular\|Paradigm arguments are circular]]                                                         | 8     |
 | [[Crises do not always lead to new paradigms\|Crises do not always lead to new paradigms]]                                   | 6     |
 | [[Topics/Paradigm Shifts\|Paradigm Shifts]]                                                                                  | 4     |

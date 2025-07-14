@@ -23,8 +23,8 @@
 | [[Modularity of a system affects resilience\|Modularity of a system affects resilience]]                                                                         | 10          |
 | [[Resilient systems require both specified and general resilience\|Resilient systems require both specified and general resilience]]                             | 9           |
 | [[Systems cannot be held in an optimal state\|Systems cannot be held in an optimal state]]                                                                       | 9           |
+| [[Adaptability is the capacity of actors to manage the resilience of a system\|Adaptability is the capacity of actors to manage the resilience of a system]]     | 8           |
 | [[Optimizing a system reduces its resilience\|Optimizing a system reduces its resilience]]                                                                       | 8           |
-| [[Adaptability is the capacity of actors to manage the resilience of a system\|Adaptability is the capacity of actors to manage the resilience of a system]]     | 7           |
 | [[Resilience is the distance between the system and its nearest threshold\|Resilience is the distance between the system and its nearest threshold]]             | 7           |
 | [[Systems of nature tend to follow an adaptive cycle\|Systems of nature tend to follow an adaptive cycle]]                                                       | 7           |
 | [[Consistency of rigid management processes decreases flexibility\|Consistency of rigid management processes decreases flexibility]]                             | 6           |

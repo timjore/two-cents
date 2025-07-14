@@ -24,10 +24,10 @@
 | [[Ambiguity aversion favors the known over the unknown\|Ambiguity aversion favors the known over the unknown]]                                             | 10          |
 | [[Overcome loss aversion with hands-on experience\|Overcome loss aversion with hands-on experience]]                                                       | 9           |
 | [[Positive Test Strategy reinforces Confirmation Bias\|Positive Test Strategy reinforces Confirmation Bias]]                                               | 9           |
+| [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                     | 8           |
 | [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]                                                               | 7           |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                 | 7           |
 | [[Selection Bias happens when the sample is not representative\|Selection Bias happens when the sample is not representative]]                             | 7           |
-| [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                     | 7           |
 | [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                               | 6           |
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                 | 6           |
 | [[Bias for action can mask a bias against thinking\|Bias for action can mask a bias against thinking]]                                                     | 5           |
