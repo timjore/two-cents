@@ -26,8 +26,8 @@
 | [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                             | 9     |
 | [[Loss aversion values avoiding losses more than achieving gains\|Loss aversion values avoiding losses more than achieving gains]]                           | 8     |
 | [[Reference-class forecasting overcomes the planning fallacy\|Reference-class forecasting overcomes the planning fallacy]]                                   | 8     |
-| [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                       | 8     |
 | [[Superforecasters think differently\|Superforecasters think differently]]                                                                                   | 8     |
+| [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                       | 8     |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                   | 7     |
 | [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                                 | 6     |
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                   | 6     |
