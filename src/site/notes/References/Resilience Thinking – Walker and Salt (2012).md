@@ -16,8 +16,8 @@
 | File                                                                                                                                                            | Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Efficiency is purchased by a loss in flexibility\|Efficiency is purchased by a loss in flexibility]]                                                       | 23    |
+| [[Resilience Thinking embraces the reality that things change\|Resilience Thinking embraces the reality that things change]]                                 | 18    |
 | [[Resilience Thinking understands thresholds and adaptive cycles\|Resilience Thinking understands thresholds and adaptive cycles]]                           | 18    |
-| [[Resilience Thinking embraces the reality that things change\|Resilience Thinking embraces the reality that things change]]                                 | 17    |
 | [[Resilience Thinking creates antifragile systems\|Resilience Thinking creates antifragile systems]]                                                         | 15    |
 | [[General resilience depends on diversity, modularity, and feedbacks\|General resilience depends on diversity, modularity, and feedbacks]]                   | 14    |
 | [[Optimization aims to hold a system in an optimal state\|Optimization aims to hold a system in an optimal state]]                                           | 11    |

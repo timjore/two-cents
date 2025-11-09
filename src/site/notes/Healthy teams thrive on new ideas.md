@@ -13,5 +13,6 @@
 
 See also:
 - [[Ideaflow is the single most important creative metric\|Ideaflow is the single most important creative metric]]
+- [[Innovation requires an organizational culture that values it\|Innovation requires an organizational culture that values it]]
 
 [^1]: [[References/The Myths of Innovation – Berkun (2010)\|The Myths of Innovation – Berkun (2010)]], ch. 7, § “The life of ideas”

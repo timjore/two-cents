@@ -6,8 +6,8 @@
 
 | File                                                                                                                                                                | Total Links |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Resilience Thinking embraces the reality that things change\|Resilience Thinking embraces the reality that things change]]                                     | 18          |
 | [[Resilience Thinking understands thresholds and adaptive cycles\|Resilience Thinking understands thresholds and adaptive cycles]]                               | 18          |
-| [[Resilience Thinking embraces the reality that things change\|Resilience Thinking embraces the reality that things change]]                                     | 17          |
 | [[Resilience Thinking creates antifragile systems\|Resilience Thinking creates antifragile systems]]                                                             | 15          |
 | [[Resilience is the key to overcoming the innovator’s dilemma\|Resilience is the key to overcoming the innovator’s dilemma]]                                     | 15          |
 | [[General resilience depends on diversity, modularity, and feedbacks\|General resilience depends on diversity, modularity, and feedbacks]]                       | 14          |

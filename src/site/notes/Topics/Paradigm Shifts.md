@@ -6,12 +6,12 @@
 
 | File                                                                                                                                                                                                                              | Total Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Paradigms can have phenomenal longevity\|Paradigms can have phenomenal longevity]]                                                                                                                                           | 17          |
+| [[Paradigms can have phenomenal longevity\|Paradigms can have phenomenal longevity]]                                                                                                                                           | 18          |
 | [[Paradigm shifts reconstruct the field from new fundamentals\|Paradigm shifts reconstruct the field from new fundamentals]]                                                                                                   | 16          |
 | [[Paradigms change when they can no longer address anomalies\|Paradigms change when they can no longer address anomalies]]                                                                                                     | 16          |
-| [[Reframing shifts perspective to see things in a new way\|Reframing shifts perspective to see things in a new way]]                                                                                                           | 13          |
+| [[Reframing shifts perspective to see things in a new way\|Reframing shifts perspective to see things in a new way]]                                                                                                           | 14          |
+| [[Paradigm shifts create a new framework of thinking\|Paradigm shifts create a new framework of thinking]]                                                                                                                     | 13          |
 | [[New paradigms are incommensurable with previous ones\|New paradigms are incommensurable with previous ones]]                                                                                                                 | 12          |
-| [[Paradigm shifts create a new framework of thinking\|Paradigm shifts create a new framework of thinking]]                                                                                                                     | 12          |
 | [[Teachers of a tradition tend to resist its correction\|Teachers of a tradition tend to resist its correction]]                                                                                                               | 12          |
 | [[Bed of Procrustes\|Bed of Procrustes]]                                                                                                                                                                                       | 11          |
 | [[Early majority is motivated by why rather than what\|Early majority is motivated by why rather than what]]                                                                                                                   | 11          |
@@ -29,8 +29,10 @@
 | [[Crises do not always lead to new paradigms\|Crises do not always lead to new paradigms]]                                                                                                                                     | 6           |
 | [[Groups whose identity is defined by changing a paradigm become committed to preserving the original paradigm\|Groups whose identity is defined by changing a paradigm become committed to preserving the original paradigm]] | 6           |
 | [[Inter-paradigm communication requires paradigmatic bilingualism\|Inter-paradigm communication requires paradigmatic bilingualism]]                                                                                           | 6           |
+| [[Innovations always threaten someone in power\|Innovations always threaten someone in power]]                                                                                                                                 | 6           |
 | [[An idea can fail in any number of ways\|An idea can fail in any number of ways]]                                                                                                                                             | 4           |
 | [[Making good decisions in ambiguous scenarios requires elastic thinking\|Making good decisions in ambiguous scenarios requires elastic thinking]]                                                                             | 4           |
+| [[Nothing is more perilous than introducing a new order of things\|Nothing is more perilous than introducing a new order of things]]                                                                                           | 2           |
 
 { .block-language-dataview}
 

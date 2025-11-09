@@ -6,8 +6,8 @@
 
 | File                                                                                                                                                                                                  | Total Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Paradigms can have phenomenal longevity\|Paradigms can have phenomenal longevity]]                                                                                                               | 18          |
 | [[Dichotomous thinking simplistically resolves ambiguity\|Dichotomous thinking simplistically resolves ambiguity]]                                                                                 | 17          |
-| [[Paradigms can have phenomenal longevity\|Paradigms can have phenomenal longevity]]                                                                                                               | 17          |
 | [[Paradigms change when they can no longer address anomalies\|Paradigms change when they can no longer address anomalies]]                                                                         | 16          |
 | [[Structural explanations address underlying causes\|Structural explanations address underlying causes]]                                                                                           | 13          |
 | [[It is difficult to make someone understand what their salary depends on them not understanding\|It is difficult to make someone understand what their salary depends on them not understanding]] | 12          |

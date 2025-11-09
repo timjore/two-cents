@@ -34,7 +34,7 @@
 | [[Exploring themes leads to solutions\|Exploring themes leads to solutions]]                                                                                           | 17    |
 | [[Creating frames improves cognition\|Creating frames improves cognition]]                                                                                             | 15    |
 | [[Fostering a discourse shapes behavior\|Fostering a discourse shapes behavior]]                                                                                       | 14    |
-| [[Reframing shifts perspective to see things in a new way\|Reframing shifts perspective to see things in a new way]]                                                   | 13    |
+| [[Reframing shifts perspective to see things in a new way\|Reframing shifts perspective to see things in a new way]]                                                   | 14    |
 | [[Creative events bridge problems and solutions\|Creative events bridge problems and solutions]]                                                                       | 11    |
 | [[Open problems have unclear or permeable borders\|Open problems have unclear or permeable borders]]                                                                   | 11    |
 | [[Complex problems have many interconnected elements\|Complex problems have many interconnected elements]]                                                             | 10    |

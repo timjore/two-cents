@@ -14,6 +14,6 @@
 
 | File                                                              | Links |
 | ----------------------------------------------------------------- | ----- |
-| [[Quality arises from quantity\|Quality arises from quantity]] | 9     |
+| [[Quality arises from quantity\|Quality arises from quantity]] | 10    |
 
 { .block-language-dataview}

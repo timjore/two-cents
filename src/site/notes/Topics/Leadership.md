@@ -6,7 +6,7 @@
 
 | File                                                                                                                                                                                | Total Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Disruptive innovation is antithetical to good management\|Disruptive innovation is antithetical to good management]]                                                           | 26          |
+| [[Disruptive innovation is antithetical to good management\|Disruptive innovation is antithetical to good management]]                                                           | 28          |
 | [[Results are produced by vital behaviors\|Results are produced by vital behaviors]]                                                                                             | 16          |
 | [[Changing things requires directing the Rider and motivating the Elephant\|Changing things requires directing the Rider and motivating the Elephant]]                           | 15          |
 | [[Changing things happens in the opposite direction\|Changing things happens in the opposite direction]]                                                                         | 14          |
@@ -48,12 +48,12 @@
 | [[Disruptive innovations tend to flourish in new organizations\|Disruptive innovations tend to flourish in new organizations]]                                                   | 4           |
 | [[Epistemic confidence pertains to truth\|Epistemic confidence pertains to truth]]                                                                                               | 4           |
 | [[Impact of disruptive innovations cannot be predicted\|Impact of disruptive innovations cannot be predicted]]                                                                   | 4           |
+| [[Innovation requires an organizational culture that values it\|Innovation requires an organizational culture that values it]]                                                   | 4           |
 | [[Incumbents often invent what later destroys them\|Incumbents often invent what later destroys them]]                                                                           | 4           |
 | [[Need for distribution of authority is commensurate to an organization’s size.\|Need for distribution of authority is commensurate to an organization’s size.]]                 | 4           |
 | [[Strategic capability is required for thinking your way out of difficult positions\|Strategic capability is required for thinking your way out of difficult positions]]         | 4           |
 | [[Strategy formulation is an iterative process\|Strategy formulation is an iterative process]]                                                                                   | 4           |
 | [[Good decision-making does not mix values with facts\|Good decision-making does not mix values with facts]]                                                                     | 3           |
-| [[Innovation requires an organizational culture that values it\|Innovation requires an organizational culture that values it]]                                                   | 3           |
 | [[Leadership requires a vision and ability to communicate it\|Leadership requires a vision and ability to communicate it]]                                                       | 3           |
 | [[Organizations focused on competitors become entrenched\|Organizations focused on competitors become entrenched]]                                                               | 3           |
 | [[Spiral of Silence means the price of speaking out rises over time\|Spiral of Silence means the price of speaking out rises over time]]                                         | 2           |

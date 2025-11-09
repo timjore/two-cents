@@ -7,7 +7,7 @@
 | File                                                                                                                                                                        | Total Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]]         | 38          |
-| [[Scouts frequently update their maps\|Scouts frequently update their maps]]                                                                                             | 27          |
+| [[Scouts frequently update their maps\|Scouts frequently update their maps]]                                                                                             | 28          |
 | [[Lateral thinking is range in action\|Lateral thinking is range in action]]                                                                                             | 21          |
 | [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]                                                           | 19          |
 | [[Creating frames improves cognition\|Creating frames improves cognition]]                                                                                               | 15          |
@@ -15,9 +15,9 @@
 | [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                                 | 14          |
 | [[Fostering a discourse shapes behavior\|Fostering a discourse shapes behavior]]                                                                                         | 14          |
 | [[Motivated reasoning is the soldier mindset\|Motivated reasoning is the soldier mindset]]                                                                               | 14          |
+| [[Paradigm shifts create a new framework of thinking\|Paradigm shifts create a new framework of thinking]]                                                               | 13          |
 | [[Planning fallacy confuses “best-guess” with “best-case” scenario\|Planning fallacy confuses “best-guess” with “best-case” scenario]]                                   | 13          |
 | [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]                                                                             | 12          |
-| [[Paradigm shifts create a new framework of thinking\|Paradigm shifts create a new framework of thinking]]                                                               | 12          |
 | [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]]                                                                                       | 11          |
 | [[Ambiguity aversion favors the known over the unknown\|Ambiguity aversion favors the known over the unknown]]                                                           | 10          |
 | [[It is impossible to teach a man what he thinks he already knows\|It is impossible to teach a man what he thinks he already knows]]                                     | 10          |

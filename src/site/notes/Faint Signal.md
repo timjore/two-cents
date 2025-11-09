@@ -7,7 +7,7 @@
 
 ![FaintSignal.png|280](/img/user/Attachments/FaintSignal.png)
 
-# Faint Signal
+# Faint Signal Research
 
 An active cultivation of thoughts and ideas across a broad range of topics. Start with one of these:
 

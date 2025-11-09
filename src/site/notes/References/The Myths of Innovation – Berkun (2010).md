@@ -14,13 +14,18 @@
 
 
 
-| File                                                                                                        | Links |
-| ----------------------------------------------------------------------------------------------------------- | ----- |
-| [[Innovation is the final piece of a complex puzzle\|Innovation is the final piece of a complex puzzle]] | 5     |
-| [[Innovators confront eight challenges\|Innovators confront eight challenges]]                           | 5     |
-| [[Healthy teams thrive on new ideas\|Healthy teams thrive on new ideas]]                                 | 4     |
-| [[New ideas demand new perspectives\|New ideas demand new perspectives]]                                 | 4     |
-| [[Big insights arise from idleness\|Big insights arise from idleness]]                                   | 4     |
-| [[Creative people easily connect unrelated ideas\|Creative people easily connect unrelated ideas]]       | 4     |
+| File                                                                                                            | Links |
+| --------------------------------------------------------------------------------------------------------------- | ----- |
+| [[Good ideas come from lots of ideas\|Good ideas come from lots of ideas]]                                   | 7     |
+| [[Innovators confront eight challenges\|Innovators confront eight challenges]]                               | 6     |
+| [[Innovations always threaten someone in power\|Innovations always threaten someone in power]]               | 6     |
+| [[Healthy teams thrive on new ideas\|Healthy teams thrive on new ideas]]                                     | 5     |
+| [[Innovation is the final piece of a complex puzzle\|Innovation is the final piece of a complex puzzle]]     | 5     |
+| [[Big insights arise from idleness\|Big insights arise from idleness]]                                       | 5     |
+| [[Innovation balances drive with rethinking\|Innovation balances drive with rethinking]]                     | 5     |
+| [[Ideas result in change, which is generally resisted\|Ideas result in change, which is generally resisted]] | 5     |
+| [[New ideas demand new perspectives\|New ideas demand new perspectives]]                                     | 4     |
+| [[Creative people easily connect unrelated ideas\|Creative people easily connect unrelated ideas]]           | 4     |
+| [[Five practices optimize for successful innovation\|Five practices optimize for successful innovation]]     | 4     |
 
 { .block-language-dataview}
