@@ -6,7 +6,7 @@
 
 
 ![Faint Signal Research.jpg|280](/img/user/Attachments/Faint%20Signal%20Research.jpg)
-
+ 
 # Faint Signal Research
 
 An active cultivation of thoughts and ideas across a broad range of topics. Start with one of these:
