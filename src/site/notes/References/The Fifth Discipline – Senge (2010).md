@@ -26,12 +26,12 @@
 | [[Mental models influence how we think and act\|Mental models influence how we think and act]]                                                                                   | 9     |
 | [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                                                 | 9     |
 | [[Compensating feedback offsets interventions\|Compensating feedback offsets interventions]]                                                                                     | 8     |
+| [[Ideas are like leaves floating on collective thinking\|Ideas are like leaves floating on collective thinking]]                                                                 | 8     |
 | [[Inquiry into complex issues is seldom rewarded\|Inquiry into complex issues is seldom rewarded]]                                                                               | 8     |
 | [[Non-systemic solutions are addictive\|Non-systemic solutions are addictive]]                                                                                                   | 8     |
 | [[Addressing symptoms shifts the burden from addressing fundamental causes\|Addressing symptoms shifts the burden from addressing fundamental causes]]                           | 7     |
 | [[Creation of a process also creates secondary processes which limit it\|Creation of a process also creates secondary processes which limit it]]                                 | 7     |
 | [[Generative learning requires systemic thinking\|Generative learning requires systemic thinking]]                                                                               | 7     |
-| [[Ideas are like leaves floating on collective thinking\|Ideas are like leaves floating on collective thinking]]                                                                 | 7     |
 | [[Leverage in the right location is more effective than the amount used\|Leverage in the right location is more effective than the amount used]]                                 | 7     |
 | [[Non-systemic thinking relies on familiar (but ineffective) solutions\|Non-systemic thinking relies on familiar (but ineffective) solutions]]                                   | 7     |
 | [[Systems archetypes embody the key to systems thinking\|Systems archetypes embody the key to systems thinking]]                                                                 | 7     |

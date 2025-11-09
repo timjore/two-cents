@@ -8,7 +8,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]]         | 38          |
 | [[Scouts frequently update their maps\|Scouts frequently update their maps]]                                                                                             | 27          |
-| [[Lateral thinking is range in action\|Lateral thinking is range in action]]                                                                                             | 20          |
+| [[Lateral thinking is range in action\|Lateral thinking is range in action]]                                                                                             | 21          |
 | [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]                                                           | 19          |
 | [[Creating frames improves cognition\|Creating frames improves cognition]]                                                                                               | 15          |
 | [[First Principles thinking allows you to see the obvious hiding in plain sight\|First Principles thinking allows you to see the obvious hiding in plain sight]]         | 15          |
@@ -31,19 +31,19 @@
 | [[The price of knowledge is a change in lexicon\|The price of knowledge is a change in lexicon]]                                                                         | 9           |
 | [[Think slow, act fast is the secret of success\|Think slow, act fast is the secret of success]]                                                                         | 9           |
 | [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                                         | 9           |
+| [[Analogical thinking uses a known example to explain something new\|Analogical thinking uses a known example to explain something new]]                                 | 8           |
 | [[Concept maps are graphical representations of mental models\|Concept maps are graphical representations of mental models]]                                             | 8           |
 | [[Elastic Thinking can hold two contradictory ideas simultaneously\|Elastic Thinking can hold two contradictory ideas simultaneously]]                                   | 8           |
+| [[Ideas are like leaves floating on collective thinking\|Ideas are like leaves floating on collective thinking]]                                                         | 8           |
 | [[Lexicons constrain the range of possible belief\|Lexicons constrain the range of possible belief]]                                                                     | 8           |
 | [[Near misses lead to taking unwise risks\|Near misses lead to taking unwise risks]]                                                                                     | 8           |
 | [[Path dependence shapes what we do next\|Path dependence shapes what we do next]]                                                                                       | 8           |
 | [[Reference-class forecasting overcomes the planning fallacy\|Reference-class forecasting overcomes the planning fallacy]]                                               | 8           |
 | [[Rough Consensus enables forward progress\|Rough Consensus enables forward progress]]                                                                                   | 8           |
 | [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                                   | 8           |
-| [[Analogical thinking uses a known example to explain something new\|Analogical thinking uses a known example to explain something new]]                                 | 7           |
 | [[Divergent ideas come from the right brain\|Divergent ideas come from the right brain]]                                                                                 | 7           |
 | [[Generative learning requires systemic thinking\|Generative learning requires systemic thinking]]                                                                       | 7           |
 | [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]                                                                             | 7           |
-| [[Ideas are like leaves floating on collective thinking\|Ideas are like leaves floating on collective thinking]]                                                         | 7           |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                               | 7           |
 | [[Scientific thinking is understanding something before it is observed\|Scientific thinking is understanding something before it is observed]]                           | 7           |
 | [[The clarity of a map is not easily distinguished from its accuracy\|The clarity of a map is not easily distinguished from its accuracy]]                               | 7           |

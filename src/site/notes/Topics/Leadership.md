@@ -6,7 +6,7 @@
 
 | File                                                                                                                                                                                | Total Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Disruptive innovation is antithetical to good management\|Disruptive innovation is antithetical to good management]]                                                           | 25          |
+| [[Disruptive innovation is antithetical to good management\|Disruptive innovation is antithetical to good management]]                                                           | 26          |
 | [[Results are produced by vital behaviors\|Results are produced by vital behaviors]]                                                                                             | 16          |
 | [[Changing things requires directing the Rider and motivating the Elephant\|Changing things requires directing the Rider and motivating the Elephant]]                           | 15          |
 | [[Changing things happens in the opposite direction\|Changing things happens in the opposite direction]]                                                                         | 14          |

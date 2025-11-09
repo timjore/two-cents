@@ -16,6 +16,6 @@
 
 | File                                                                                                                | Links |
 | ------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Fundamental insight can trigger disruptive innovation\|Fundamental insight can trigger disruptive innovation]] | 8     |
+| [[Fundamental insight can trigger disruptive innovation\|Fundamental insight can trigger disruptive innovation]] | 9     |
 
 { .block-language-dataview}

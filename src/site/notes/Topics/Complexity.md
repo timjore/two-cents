@@ -16,8 +16,8 @@
 | [[Faint signals are whispers from the future\|Faint signals are whispers from the future]]                                                                                       | 18    |
 | [[Complex systems are characterized by VUCA\|Complex systems are characterized by VUCA]]                                                                                         | 14    |
 | [[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]]                                                                                         | 13    |
+| [[Reframing shifts perspective to see things in a new way\|Reframing shifts perspective to see things in a new way]]                                                             | 13    |
 | [[Power Law distributions\|Power Law distributions]]                                                                                                                             | 12    |
-| [[Reframing shifts perspective to see things in a new way\|Reframing shifts perspective to see things in a new way]]                                                             | 12    |
 | [[Simple rules tame complexity\|Simple rules tame complexity]]                                                                                                                   | 12    |
 | [[1% is Halfway\|1% is Halfway]]                                                                                                                                                 | 11    |
 | [[Open problems have unclear or permeable borders\|Open problems have unclear or permeable borders]]                                                                             | 11    |
