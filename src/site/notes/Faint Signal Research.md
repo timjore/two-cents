@@ -16,7 +16,7 @@ An active cultivation of thoughts and ideas across a broad range of topics. Star
 - [[Lateral thinking is range in action\|Lateral thinking is range in action]]
 - [[Premortem works backward from an undesirable outcome in order to prevent it\|Premortem works backward from an undesirable outcome in order to prevent it]]
 - [[Groups whose identity is defined by changing a paradigm become committed to preserving the original paradigm\|Groups whose identity is defined by changing a paradigm become committed to preserving the original paradigm]]
-
+ 
 ## Maps of Concepts
 
 These provide indices of notes in similar domains:
