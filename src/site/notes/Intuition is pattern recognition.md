@@ -20,3 +20,4 @@ See also:
  - [[Solutions to complex problems are based on pattern recognition\|Solutions to complex problems are based on pattern recognition]]
 
 [^1]: [[References/Thinking, Fast and Slow – Kahneman (2013)\|Thinking, Fast and Slow – Kahneman (2013)]], ch. 22 § “Intuition as Recognition.”
+[^2]: Ibid.
