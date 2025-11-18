@@ -24,7 +24,7 @@
 | [[Ambiguity aversion favors the known over the unknown\|Ambiguity aversion favors the known over the unknown]]                                             | 10          |
 | [[Overcome loss aversion with hands-on experience\|Overcome loss aversion with hands-on experience]]                                                       | 9           |
 | [[Positive Test Strategy reinforces Confirmation Bias\|Positive Test Strategy reinforces Confirmation Bias]]                                               | 9           |
-| [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                     | 8           |
+| [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                     | 9           |
 | [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]                                                               | 7           |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                 | 7           |
 | [[Selection Bias happens when the sample is not representative\|Selection Bias happens when the sample is not representative]]                             | 7           |

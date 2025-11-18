@@ -15,7 +15,7 @@
 
 | File                                                                                                                                                      | Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Scouts frequently update their maps\|Scouts frequently update their maps]]                                                                           | 28    |
+| [[Scouts frequently update their maps\|Scouts frequently update their maps]]                                                                           | 29    |
 | [[Motivated reasoning is the soldier mindset\|Motivated reasoning is the soldier mindset]]                                                             | 14    |
 | [[Positive Test Strategy reinforces Confirmation Bias\|Positive Test Strategy reinforces Confirmation Bias]]                                           | 9     |
 | [[Superforecasting is the intersection of range and mindset\|Superforecasting is the intersection of range and mindset]]                               | 9     |

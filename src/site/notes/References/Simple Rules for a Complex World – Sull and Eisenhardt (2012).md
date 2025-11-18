@@ -16,6 +16,6 @@
 
 | File                                                              | Links |
 | ----------------------------------------------------------------- | ----- |
-| [[Simple rules tame complexity\|Simple rules tame complexity]] | 12    |
+| [[Simple rules tame complexity\|Simple rules tame complexity]] | 13    |
 
 { .block-language-dataview}

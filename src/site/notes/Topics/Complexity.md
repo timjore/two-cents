@@ -17,8 +17,8 @@
 | [[Complex systems are characterized by VUCA\|Complex systems are characterized by VUCA]]                                                                                         | 14    |
 | [[Reframing shifts perspective to see things in a new way\|Reframing shifts perspective to see things in a new way]]                                                             | 14    |
 | [[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]]                                                                                         | 13    |
+| [[Simple rules tame complexity\|Simple rules tame complexity]]                                                                                                                   | 13    |
 | [[Power Law distributions\|Power Law distributions]]                                                                                                                             | 12    |
-| [[Simple rules tame complexity\|Simple rules tame complexity]]                                                                                                                   | 12    |
 | [[1% is Halfway\|1% is Halfway]]                                                                                                                                                 | 11    |
 | [[Open problems have unclear or permeable borders\|Open problems have unclear or permeable borders]]                                                                             | 11    |
 | [[Complex problems have many interconnected elements\|Complex problems have many interconnected elements]]                                                                       | 10    |

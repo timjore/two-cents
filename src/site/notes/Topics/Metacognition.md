@@ -18,10 +18,10 @@
 | [[Loss aversion values avoiding losses more than achieving gains\|Loss aversion values avoiding losses more than achieving gains]]                                                                 | 8           |
 | [[Negativity dominance processes the bad more thoroughly than the good\|Negativity dominance processes the bad more thoroughly than the good]]                                                     | 8           |
 | [[Systems thinking is a discipline for seeing inter-relationships\|Systems thinking is a discipline for seeing inter-relationships]]                                                               | 7           |
+| [[The map is not the territory\|The map is not the territory]]                                                                                                                                     | 6           |
 | [[Complexifying overcomes binary bias\|Complexifying overcomes binary bias]]                                                                                                                       | 5           |
 | [[Decentralized systems are incomprehensible to centralized worldviews\|Decentralized systems are incomprehensible to centralized worldviews]]                                                     | 5           |
 | [[It is difficult to provide someone with a solution for a problem they do not think they have\|It is difficult to provide someone with a solution for a problem they do not think they have]]     | 5           |
-| [[The map is not the territory\|The map is not the territory]]                                                                                                                                     | 5           |
 | [[What you see is all there is\|What you see is all there is]]                                                                                                                                     | 5           |
 
 { .block-language-dataview}
