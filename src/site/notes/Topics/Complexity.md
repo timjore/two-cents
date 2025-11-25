@@ -14,7 +14,7 @@
 | [[Coevolution simultaneously develops the formulation of and solution to a problem\|Coevolution simultaneously develops the formulation of and solution to a problem]]           | 18    |
 | [[Complex networks have unique topological features\|Complex networks have unique topological features]]                                                                         | 18    |
 | [[Faint signals are whispers from the future\|Faint signals are whispers from the future]]                                                                                       | 18    |
-| [[Complex systems are characterized by VUCA\|Complex systems are characterized by VUCA]]                                                                                         | 14    |
+| [[Complex systems are characterized by VUCA\|Complex systems are characterized by VUCA]]                                                                                         | 15    |
 | [[Reframing shifts perspective to see things in a new way\|Reframing shifts perspective to see things in a new way]]                                                             | 14    |
 | [[Complex systems exhibit emergent behavior\|Complex systems exhibit emergent behavior]]                                                                                         | 13    |
 | [[Simple rules tame complexity\|Simple rules tame complexity]]                                                                                                                   | 13    |
@@ -35,6 +35,8 @@
 | [[Inquiry into complex issues is seldom rewarded\|Inquiry into complex issues is seldom rewarded]]                                                                               | 8     |
 | [[Leadership becomes more important with increasing complexity\|Leadership becomes more important with increasing complexity]]                                                   | 8     |
 | [[Systems thinking accounts for events, structure, and behavior (over time)\|Systems thinking accounts for events, structure, and behavior (over time)]]                         | 8     |
+| [[OODA Loop\|OODA Loop]]                                                                                                                                                         | 8     |
+| [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]]                                               | 7     |
 | [[Disruptive innovations are complex\|Disruptive innovations are complex]]                                                                                                       | 7     |
 | [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]]                               | 7     |
 | [[One or two high leverage behaviors produce maximum change\|One or two high leverage behaviors produce maximum change]]                                                         | 7     |
@@ -42,12 +44,11 @@
 | [[Appraisal of a complex problem’s context is objective\|Appraisal of a complex problem’s context is objective]]                                                                 | 6     |
 | [[Bright spots show positive deviance\|Bright spots show positive deviance]]                                                                                                     | 6     |
 | [[Checklists ensure success in complex conditions\|Checklists ensure success in complex conditions]]                                                                             | 6     |
-| [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]]                                               | 6     |
 | [[Large systems tend to disintegrate during development\|Large systems tend to disintegrate during development]]                                                                 | 6     |
+| [[Maps of connectivity reveal strategic dynamics\|Maps of connectivity reveal strategic dynamics]]                                                                               | 6     |
 | [[Complex problems can be solved at the periphery\|Complex problems can be solved at the periphery]]                                                                             | 5     |
 | [[Effects of interventions in systems of dynamic complexity are not immediately obvious\|Effects of interventions in systems of dynamic complexity are not immediately obvious]] | 5     |
 | [[Globalization is a complex system\|Globalization is a complex system]]                                                                                                         | 5     |
-| [[Maps of connectivity reveal strategic dynamics\|Maps of connectivity reveal strategic dynamics]]                                                                               | 5     |
 | [[Solving complex problems requires intentional follow-through\|Solving complex problems requires intentional follow-through]]                                                   | 5     |
 | [[Solutions to complex problems depend on creation of themes\|Solutions to complex problems depend on creation of themes]]                                                       | 5     |
 | [[Solving complex problems requires understanding the context\|Solving complex problems requires understanding the context]]                                                     | 5     |

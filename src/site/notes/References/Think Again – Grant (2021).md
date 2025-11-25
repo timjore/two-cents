@@ -15,7 +15,7 @@
 
 | File                                                                                                                  | Links |
 | --------------------------------------------------------------------------------------------------------------------- | ----- |
-| [[Scouts frequently update their maps\|Scouts frequently update their maps]]                                       | 29    |
+| [[Scouts frequently update their maps\|Scouts frequently update their maps]]                                       | 31    |
 | [[Dichotomous thinking simplistically resolves ambiguity\|Dichotomous thinking simplistically resolves ambiguity]] | 17    |
 | [[Complexifying overcomes binary bias\|Complexifying overcomes binary bias]]                                       | 5     |
 

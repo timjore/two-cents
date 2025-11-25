@@ -7,7 +7,7 @@
 | File                                                                                                                                                                        | Total Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [[Systems Thinking perceives the relationships and structure of complex systems\|Systems Thinking perceives the relationships and structure of complex systems]]         | 38          |
-| [[Scouts frequently update their maps\|Scouts frequently update their maps]]                                                                                             | 29          |
+| [[Scouts frequently update their maps\|Scouts frequently update their maps]]                                                                                             | 31          |
 | [[Lateral thinking is range in action\|Lateral thinking is range in action]]                                                                                             | 21          |
 | [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]                                                           | 19          |
 | [[Creating frames improves cognition\|Creating frames improves cognition]]                                                                                               | 15          |
@@ -22,7 +22,9 @@
 | [[Ambiguity aversion favors the known over the unknown\|Ambiguity aversion favors the known over the unknown]]                                                           | 10          |
 | [[It is impossible to teach a man what he thinks he already knows\|It is impossible to teach a man what he thinks he already knows]]                                     | 10          |
 | [[Wicked learning environments prevent learning\|Wicked learning environments prevent learning]]                                                                         | 10          |
+| [[Every logical model of reality must be continuously refined\|Every logical model of reality must be continuously refined]]                                             | 10          |
 | [[Adjacent Possible is the edge of the future\|Adjacent Possible is the edge of the future]]                                                                             | 9           |
+| [[Concept maps are graphical representations of mental models\|Concept maps are graphical representations of mental models]]                                             | 9           |
 | [[Creating frames overcomes the adoption problem\|Creating frames overcomes the adoption problem]]                                                                       | 9           |
 | [[Elastic Thinking is parallel and integrative\|Elastic Thinking is parallel and integrative]]                                                                           | 9           |
 | [[Listen to the Suck with Curiosity\|Listen to the Suck with Curiosity]]                                                                                                 | 9           |
@@ -33,7 +35,6 @@
 | [[Think slow, act fast is the secret of success\|Think slow, act fast is the secret of success]]                                                                         | 9           |
 | [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                                         | 9           |
 | [[Analogical thinking uses a known example to explain something new\|Analogical thinking uses a known example to explain something new]]                                 | 8           |
-| [[Concept maps are graphical representations of mental models\|Concept maps are graphical representations of mental models]]                                             | 8           |
 | [[Elastic Thinking can hold two contradictory ideas simultaneously\|Elastic Thinking can hold two contradictory ideas simultaneously]]                                   | 8           |
 | [[Ideas are like leaves floating on collective thinking\|Ideas are like leaves floating on collective thinking]]                                                         | 8           |
 | [[Lexicons constrain the range of possible belief\|Lexicons constrain the range of possible belief]]                                                                     | 8           |
@@ -42,18 +43,18 @@
 | [[Reference-class forecasting overcomes the planning fallacy\|Reference-class forecasting overcomes the planning fallacy]]                                               | 8           |
 | [[Rough Consensus enables forward progress\|Rough Consensus enables forward progress]]                                                                                   | 8           |
 | [[The clarity of a map is not easily distinguished from its accuracy\|The clarity of a map is not easily distinguished from its accuracy]]                               | 8           |
+| [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]]                                       | 7           |
 | [[Divergent ideas come from the right brain\|Divergent ideas come from the right brain]]                                                                                 | 7           |
 | [[Generative learning requires systemic thinking\|Generative learning requires systemic thinking]]                                                                       | 7           |
 | [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]                                                                             | 7           |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                               | 7           |
 | [[Scientific thinking is understanding something before it is observed\|Scientific thinking is understanding something before it is observed]]                           | 7           |
+| [[The map is not the territory\|The map is not the territory]]                                                                                                           | 7           |
 | [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]                                                                             | 7           |
 | [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                                             | 6           |
-| [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]]                                       | 6           |
 | [[Deep learning strategies have three elements\|Deep learning strategies have three elements]]                                                                           | 6           |
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                               | 6           |
 | [[Fundamental Attribution Error blames others and exonerates me\|Fundamental Attribution Error blames others and exonerates me]]                                         | 6           |
-| [[The map is not the territory\|The map is not the territory]]                                                                                                           | 6           |
 | [[Bias for action can mask a bias against thinking\|Bias for action can mask a bias against thinking]]                                                                   | 5           |
 | [[Frightening and dangerous are two different things\|Frightening and dangerous are two different things]]                                                               | 5           |
 | [[Integrative, macroscopic thinking sees the forest and the trees\|Integrative, macroscopic thinking sees the forest and the trees]]                                     | 5           |

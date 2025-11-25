@@ -11,7 +11,7 @@ Mental models are the cognitive frameworks that we use to make sense of life. Bl
 
 
 ---
-#always-learning #metacognition 
+#always-learning #metacognition #mental-models 
 
 See also:
 - [[Analogical thinking uses a known example to explain something new\|Analogical thinking uses a known example to explain something new]]

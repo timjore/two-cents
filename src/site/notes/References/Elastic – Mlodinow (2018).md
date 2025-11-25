@@ -19,6 +19,6 @@
 | [[Paradigm shifts create a new framework of thinking\|Paradigm shifts create a new framework of thinking]]                         | 13    |
 | [[Elastic Thinking is parallel and integrative\|Elastic Thinking is parallel and integrative]]                                     | 9     |
 | [[Shifting paradigms requires macroscopic, integrative thinking\|Shifting paradigms requires macroscopic, integrative thinking]]   | 9     |
-| [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]] | 6     |
+| [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]] | 7     |
 
 { .block-language-dataview}

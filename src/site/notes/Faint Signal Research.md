@@ -47,4 +47,3 @@ These provide indices of notes in similar domains:
 
 ![by.png|120](/img/user/Attachments/by.png)
 All original content on [faintsignal.org](https://faintsignalorg) is made available under the terms of the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0).
-

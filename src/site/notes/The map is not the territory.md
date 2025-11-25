@@ -29,9 +29,10 @@ Kahneman observes:
 
 
 ---
-#cognition #metacognition #strategic #strategic-cartography 
+#cognition #metacognition #strategic #strategic-cartography #mental-models 
 
 See also:
 - [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]
 - [[Scouts frequently update their maps\|Scouts frequently update their maps]]
 - [[The clarity of a map is not easily distinguished from its accuracy\|The clarity of a map is not easily distinguished from its accuracy]]
+- [[Principles and practices in the creation of mental models\|Principles and practices in the creation of mental models]]

@@ -18,6 +18,6 @@
 | ------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Reframing shifts perspective to see things in a new way\|Reframing shifts perspective to see things in a new way]]         | 14    |
 | [[Problem-solving follows a four step process\|Problem-solving follows a four step process]]                                 | 11    |
-| [[Concept maps are graphical representations of mental models\|Concept maps are graphical representations of mental models]] | 8     |
+| [[Concept maps are graphical representations of mental models\|Concept maps are graphical representations of mental models]] | 9     |
 
 { .block-language-dataview}

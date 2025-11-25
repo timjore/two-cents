@@ -10,7 +10,7 @@ A map that is clear (and even beautiful) can be perceived as **more accurate tha
 By contrast, a map that is muddled, imprecise, and unattractive may be perceived as less accurate than it is, purely due to the negative subjective percpetion of the map.
 
 ---
-#cognition 
+#cognition #mental-models 
 
 see also:  
 - [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]

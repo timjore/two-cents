@@ -14,13 +14,14 @@ Mental models are cognitive maps — tools that help orient the thinking in ways
 - ==**All essential elements** of the cognitive topography want to be accounted for== in the mental model (see the second part of the previous point).
 - To the extent that a mental model is optimally aligned with the reality it maps, it exhibits ==a **cognitive ”harmonic resonance”** that can be observed when *others* use the model== to successfully navigate the cognitive territory. Lights come on, people “get it” in ways they had not before.
 - The most ==effective mental models are both **illuminating** and **generative**== (forming building blocks of new mental models and strategic insights).
-- ==**Never fall in love with your mental model**==, because it is still wrong in ways you do not yet have the ability to see.
+- ==**Never fall in love with your mental model**==, because it is still wrong in ways you do not yet have the ability to see. 
+- Always remember: [[Every logical model of reality must be continuously refined\|Every logical model of reality must be continuously refined]].)
 - Thus, mental models in their optimal form are indistinguishable from ==mental models in a merely highly effective form that are **in need of revision**==.
 - ==[[Scouts frequently update their maps\|Scouts frequently update their maps]]==, whereas the soldier mindset devolves into defense of their cherished mental model, even in the face of clear evidence of its need for revision.
 - Creation, testing, and revision of mental models happens best in a [[Liquid Networks foster innovation\|liquid network]] of practitioners, innovators, and others willing to hold their assumptions loosely and iterate toward maximum effectiveness.
 
 ---
-#strategic-cartography #always-learning 
+#strategic-cartography #always-learning #mental-models 
 
 See also:
 - [[The map is not the territory\|The map is not the territory]]

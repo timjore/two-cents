@@ -22,8 +22,8 @@
 | [[Learning organizations implement five component technologies\|Learning organizations implement five component technologies]]                                                   | 12    |
 | [[Systems thinking is defined by laws\|Systems thinking is defined by laws]]                                                                                                     | 12    |
 | [[Complex situations have multiple levels of explanation\|Complex situations have multiple levels of explanation]]                                                               | 11    |
+| [[Mental models influence how we think and act\|Mental models influence how we think and act]]                                                                                   | 11    |
 | [[Building shared vision results in intrinsic motivation\|Building shared vision results in intrinsic motivation]]                                                               | 9     |
-| [[Mental models influence how we think and act\|Mental models influence how we think and act]]                                                                                   | 9     |
 | [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                                                 | 9     |
 | [[Compensating feedback offsets interventions\|Compensating feedback offsets interventions]]                                                                                     | 8     |
 | [[Ideas are like leaves floating on collective thinking\|Ideas are like leaves floating on collective thinking]]                                                                 | 8     |
