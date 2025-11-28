@@ -35,7 +35,7 @@
 | [[Inquiry into complex issues is seldom rewarded\|Inquiry into complex issues is seldom rewarded]]                                                                               | 8     |
 | [[Leadership becomes more important with increasing complexity\|Leadership becomes more important with increasing complexity]]                                                   | 8     |
 | [[Systems thinking accounts for events, structure, and behavior (over time)\|Systems thinking accounts for events, structure, and behavior (over time)]]                         | 8     |
-| [[OODA Loop\|OODA Loop]]                                                                                                                                                         | 8     |
+| [[OODA Loop engages volatile, uncertain, chaotic, and ambiguous situations\|OODA Loop engages volatile, uncertain, chaotic, and ambiguous situations]]                           | 8     |
 | [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]]                                               | 7     |
 | [[Disruptive innovations are complex\|Disruptive innovations are complex]]                                                                                                       | 7     |
 | [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]]                               | 7     |

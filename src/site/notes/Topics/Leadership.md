@@ -6,7 +6,7 @@
 
 | File                                                                                                                                                                                | Total Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Disruptive innovation is antithetical to good management\|Disruptive innovation is antithetical to good management]]                                                           | 28          |
+| [[Disruptive innovation is antithetical to good management\|Disruptive innovation is antithetical to good management]]                                                           | 29          |
 | [[Results are produced by vital behaviors\|Results are produced by vital behaviors]]                                                                                             | 16          |
 | [[Changing things requires directing the Rider and motivating the Elephant\|Changing things requires directing the Rider and motivating the Elephant]]                           | 15          |
 | [[Changing things happens in the opposite direction\|Changing things happens in the opposite direction]]                                                                         | 14          |
@@ -38,6 +38,7 @@
 | [[Leadership is maintaining full engagement from your group\|Leadership is maintaining full engagement from your group]]                                                         | 6           |
 | [[Complex problems can be solved at the periphery\|Complex problems can be solved at the periphery]]                                                                             | 5           |
 | [[Defensive routines cover up underlying problems\|Defensive routines cover up underlying problems]]                                                                             | 5           |
+| [[Disruptive innovations tend to flourish in new organizations\|Disruptive innovations tend to flourish in new organizations]]                                                   | 5           |
 | [[Effects of interventions in systems of dynamic complexity are not immediately obvious\|Effects of interventions in systems of dynamic complexity are not immediately obvious]] | 5           |
 | [[In decentralized social systems leadership is by influence\|In decentralized social systems leadership is by influence]]                                                       | 5           |
 | [[Innovator’s dilemma is about first-mover advantage\|Innovator’s dilemma is about first-mover advantage]]                                                                       | 5           |
@@ -45,7 +46,6 @@
 | [[Visionaries only succeed together with implementers\|Visionaries only succeed together with implementers]]                                                                     | 5           |
 | [[Admitting uncertainty is not necessarily indicative of lack of expertise\|Admitting uncertainty is not necessarily indicative of lack of expertise]]                           | 4           |
 | [[Catalysts are fundamentally different from CEOs\|Catalysts are fundamentally different from CEOs]]                                                                             | 4           |
-| [[Disruptive innovations tend to flourish in new organizations\|Disruptive innovations tend to flourish in new organizations]]                                                   | 4           |
 | [[Epistemic confidence pertains to truth\|Epistemic confidence pertains to truth]]                                                                                               | 4           |
 | [[Impact of disruptive innovations cannot be predicted\|Impact of disruptive innovations cannot be predicted]]                                                                   | 4           |
 | [[Innovation requires an organizational culture that values it\|Innovation requires an organizational culture that values it]]                                                   | 4           |
