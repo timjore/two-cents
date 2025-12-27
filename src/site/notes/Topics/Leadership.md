@@ -20,9 +20,9 @@
 | [[Strategy narrows the competitive field\|Strategy narrows the competitive field]]                                                                                               | 11          |
 | [[Leaders cultivate an innovative environment\|Leaders cultivate an innovative environment]]                                                                                     | 10          |
 | [[Leadership is intentional influence\|Leadership is intentional influence]]                                                                                                     | 10          |
-| [[Strategy identifies capabilities needed for winning in a chosen field\|Strategy identifies capabilities needed for winning in a chosen field]]                                 | 10          |
-| [[Strategy is focused on a winning aspiration\|Strategy is focused on a winning aspiration]]                                                                                     | 10          |
 | [[Strategy defines the choices for winning in a chosen field\|Strategy defines the choices for winning in a chosen field]]                                                       | 10          |
+| [[Strategy is focused on a winning aspiration\|Strategy is focused on a winning aspiration]]                                                                                     | 10          |
+| [[Strategy identifies capabilities needed for winning in a chosen field\|Strategy identifies capabilities needed for winning in a chosen field]]                                 | 10          |
 | [[A catalyst starts and moves on from a decentralized organization\|A catalyst starts and moves on from a decentralized organization]]                                           | 9           |
 | [[Building shared vision results in intrinsic motivation\|Building shared vision results in intrinsic motivation]]                                                               | 9           |
 | [[People don’t buy what you do, they buy why you do it\|People don’t buy what you do, they buy why you do it]]                                                                   | 9           |
@@ -30,8 +30,8 @@
 | [[Influence focuses on results\|Influence focuses on results]]                                                                                                                   | 8           |
 | [[Inquiry into complex issues is seldom rewarded\|Inquiry into complex issues is seldom rewarded]]                                                                               | 8           |
 | [[Leadership becomes more important with increasing complexity\|Leadership becomes more important with increasing complexity]]                                                   | 8           |
-| [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]                                                                                     | 7           |
 | [[Tribalism is human nature\|Tribalism is human nature]]                                                                                                                         | 7           |
+| [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]                                                                                     | 7           |
 | [[Change efforts are undermined by three measurement mistakes\|Change efforts are undermined by three measurement mistakes]]                                                     | 6           |
 | [[Disruptive innovation requires plans for learning rather than implementation\|Disruptive innovation requires plans for learning rather than implementation]]                   | 6           |
 | [[Forcefulness can be an unrealized defensive strategy\|Forcefulness can be an unrealized defensive strategy]]                                                                   | 6           |
@@ -48,8 +48,8 @@
 | [[Catalysts are fundamentally different from CEOs\|Catalysts are fundamentally different from CEOs]]                                                                             | 4           |
 | [[Epistemic confidence pertains to truth\|Epistemic confidence pertains to truth]]                                                                                               | 4           |
 | [[Impact of disruptive innovations cannot be predicted\|Impact of disruptive innovations cannot be predicted]]                                                                   | 4           |
-| [[Innovation requires an organizational culture that values it\|Innovation requires an organizational culture that values it]]                                                   | 4           |
 | [[Incumbents often invent what later destroys them\|Incumbents often invent what later destroys them]]                                                                           | 4           |
+| [[Innovation requires an organizational culture that values it\|Innovation requires an organizational culture that values it]]                                                   | 4           |
 | [[Need for distribution of authority is commensurate to an organization’s size.\|Need for distribution of authority is commensurate to an organization’s size.]]                 | 4           |
 | [[Strategic capability is required for thinking your way out of difficult positions\|Strategic capability is required for thinking your way out of difficult positions]]         | 4           |
 | [[Strategy formulation is an iterative process\|Strategy formulation is an iterative process]]                                                                                   | 4           |

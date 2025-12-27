@@ -20,9 +20,9 @@
 | [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]                                                                             | 12          |
 | [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]]                                                                                       | 11          |
 | [[Ambiguity aversion favors the known over the unknown\|Ambiguity aversion favors the known over the unknown]]                                                           | 10          |
+| [[Every logical model of reality must be continuously refined\|Every logical model of reality must be continuously refined]]                                             | 10          |
 | [[It is impossible to teach a man what he thinks he already knows\|It is impossible to teach a man what he thinks he already knows]]                                     | 10          |
 | [[Wicked learning environments prevent learning\|Wicked learning environments prevent learning]]                                                                         | 10          |
-| [[Every logical model of reality must be continuously refined\|Every logical model of reality must be continuously refined]]                                             | 10          |
 | [[Adjacent Possible is the edge of the future\|Adjacent Possible is the edge of the future]]                                                                             | 9           |
 | [[Concept maps are graphical representations of mental models\|Concept maps are graphical representations of mental models]]                                             | 9           |
 | [[Creating frames overcomes the adoption problem\|Creating frames overcomes the adoption problem]]                                                                       | 9           |
@@ -56,6 +56,7 @@
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                               | 6           |
 | [[Fundamental Attribution Error blames others and exonerates me\|Fundamental Attribution Error blames others and exonerates me]]                                         | 6           |
 | [[Bias for action can mask a bias against thinking\|Bias for action can mask a bias against thinking]]                                                                   | 5           |
+| [[First principles are the simplest something can be, but not simpler\|First principles are the simplest something can be, but not simpler]]                             | 5           |
 | [[Frightening and dangerous are two different things\|Frightening and dangerous are two different things]]                                                               | 5           |
 | [[Integrative, macroscopic thinking sees the forest and the trees\|Integrative, macroscopic thinking sees the forest and the trees]]                                     | 5           |
 | [[Metaphors form the basis of our ability to think\|Metaphors form the basis of our ability to think]]                                                                   | 5           |
@@ -63,7 +64,6 @@
 | [[People tend to adopt their own ideas\|People tend to adopt their own ideas]]                                                                                           | 5           |
 | [[Tools both illuminate and limit our understanding\|Tools both illuminate and limit our understanding]]                                                                 | 5           |
 | [[Writing clarifies thinking\|Writing clarifies thinking]]                                                                                                               | 5           |
-| [[First principles are the simplest something can be, but not simpler\|First principles are the simplest something can be, but not simpler]]                             | 5           |
 | [[Everything we think we know about the world is a model\|Everything we think we know about the world is a model]]                                                       | 4           |
 | [[Locking down of a problem leads to frozen thinking\|Locking down of a problem leads to frozen thinking]]                                                               | 4           |
 | [[Making good decisions in ambiguous scenarios requires elastic thinking\|Making good decisions in ambiguous scenarios requires elastic thinking]]                       | 4           |

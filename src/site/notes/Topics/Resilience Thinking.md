@@ -34,6 +34,7 @@
 | [[Proximity to a threshold decreases the shock required to cross it\|Proximity to a threshold decreases the shock required to cross it]]                         | 5           |
 | [[Specified resilience defends against known disturbances\|Specified resilience defends against known disturbances]]                                             | 5           |
 | [[Transformability is the capacity to create a new system\|Transformability is the capacity to create a new system]]                                             | 5           |
+| [[Diverse systems are more resilient than uniform systems\|Diverse systems are more resilient than uniform systems]]                                             | 5           |
 | [[Need for distribution of authority is commensurate to an organization’s size.\|Need for distribution of authority is commensurate to an organization’s size.]] | 4           |
 
 { .block-language-dataview}

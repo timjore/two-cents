@@ -17,15 +17,15 @@
 | File                                                                                                            | Links |
 | --------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Good ideas come from lots of ideas\|Good ideas come from lots of ideas]]                                   | 6     |
-| [[Innovators confront eight challenges\|Innovators confront eight challenges]]                               | 5     |
 | [[Innovations always threaten someone in power\|Innovations always threaten someone in power]]               | 5     |
-| [[Healthy teams thrive on new ideas\|Healthy teams thrive on new ideas]]                                     | 4     |
-| [[Innovation is the final piece of a complex puzzle\|Innovation is the final piece of a complex puzzle]]     | 4     |
+| [[Innovators confront eight challenges\|Innovators confront eight challenges]]                               | 5     |
 | [[Big insights arise from idleness\|Big insights arise from idleness]]                                       | 4     |
-| [[Innovation balances drive with rethinking\|Innovation balances drive with rethinking]]                     | 4     |
+| [[Healthy teams thrive on new ideas\|Healthy teams thrive on new ideas]]                                     | 4     |
 | [[Ideas result in change, which is generally resisted\|Ideas result in change, which is generally resisted]] | 4     |
-| [[New ideas demand new perspectives\|New ideas demand new perspectives]]                                     | 3     |
+| [[Innovation balances drive with rethinking\|Innovation balances drive with rethinking]]                     | 4     |
+| [[Innovation is the final piece of a complex puzzle\|Innovation is the final piece of a complex puzzle]]     | 4     |
 | [[Creative people easily connect unrelated ideas\|Creative people easily connect unrelated ideas]]           | 3     |
 | [[Five practices optimize for successful innovation\|Five practices optimize for successful innovation]]     | 3     |
+| [[New ideas demand new perspectives\|New ideas demand new perspectives]]                                     | 3     |
 
 { .block-language-dataview}
