@@ -36,7 +36,6 @@
 | [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                                         | 9           |
 | [[Analogical thinking uses a known example to explain something new\|Analogical thinking uses a known example to explain something new]]                                 | 8           |
 | [[Elastic Thinking can hold two contradictory ideas simultaneously\|Elastic Thinking can hold two contradictory ideas simultaneously]]                                   | 8           |
-| [[Ideas are like leaves floating on collective thinking\|Ideas are like leaves floating on collective thinking]]                                                         | 8           |
 | [[Lexicons constrain the range of possible belief\|Lexicons constrain the range of possible belief]]                                                                     | 8           |
 | [[Near misses lead to taking unwise risks\|Near misses lead to taking unwise risks]]                                                                                     | 8           |
 | [[Path dependence shapes what we do next\|Path dependence shapes what we do next]]                                                                                       | 8           |
@@ -45,17 +44,18 @@
 | [[The clarity of a map is not easily distinguished from its accuracy\|The clarity of a map is not easily distinguished from its accuracy]]                               | 8           |
 | [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]]                                       | 7           |
 | [[Divergent ideas come from the right brain\|Divergent ideas come from the right brain]]                                                                                 | 7           |
-| [[Generative learning requires systemic thinking\|Generative learning requires systemic thinking]]                                                                       | 7           |
 | [[Hanlon's razor avoids paranoia and ideology\|Hanlon's razor avoids paranoia and ideology]]                                                                             | 7           |
+| [[Ideas are like leaves floating on collective thinking\|Ideas are like leaves floating on collective thinking]]                                                         | 7           |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                               | 7           |
 | [[Scientific thinking is understanding something before it is observed\|Scientific thinking is understanding something before it is observed]]                           | 7           |
 | [[The map is not the territory\|The map is not the territory]]                                                                                                           | 7           |
 | [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]                                                                             | 7           |
 | [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                                             | 6           |
-| [[Deep learning strategies have three elements\|Deep learning strategies have three elements]]                                                                           | 6           |
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                               | 6           |
 | [[Fundamental Attribution Error blames others and exonerates me\|Fundamental Attribution Error blames others and exonerates me]]                                         | 6           |
+| [[Generative learning requires systemic thinking\|Generative learning requires systemic thinking]]                                                                       | 6           |
 | [[Bias for action can mask a bias against thinking\|Bias for action can mask a bias against thinking]]                                                                   | 5           |
+| [[Deep learning strategies have three elements\|Deep learning strategies have three elements]]                                                                           | 5           |
 | [[First principles are the simplest something can be, but not simpler\|First principles are the simplest something can be, but not simpler]]                             | 5           |
 | [[Frightening and dangerous are two different things\|Frightening and dangerous are two different things]]                                                               | 5           |
 | [[Integrative, macroscopic thinking sees the forest and the trees\|Integrative, macroscopic thinking sees the forest and the trees]]                                     | 5           |
@@ -64,11 +64,11 @@
 | [[People tend to adopt their own ideas\|People tend to adopt their own ideas]]                                                                                           | 5           |
 | [[Tools both illuminate and limit our understanding\|Tools both illuminate and limit our understanding]]                                                                 | 5           |
 | [[Writing clarifies thinking\|Writing clarifies thinking]]                                                                                                               | 5           |
-| [[Everything we think we know about the world is a model\|Everything we think we know about the world is a model]]                                                       | 4           |
 | [[Locking down of a problem leads to frozen thinking\|Locking down of a problem leads to frozen thinking]]                                                               | 4           |
 | [[Making good decisions in ambiguous scenarios requires elastic thinking\|Making good decisions in ambiguous scenarios requires elastic thinking]]                       | 4           |
 | [[Occam's razor leads to first principles thinking\|Occam's razor leads to first principles thinking]]                                                                   | 4           |
 | [[Strategic capability is required for thinking your way out of difficult positions\|Strategic capability is required for thinking your way out of difficult positions]] | 4           |
+| [[Everything we think we know about the world is a model\|Everything we think we know about the world is a model]]                                                       | 3           |
 | [[Intuition delivers overly extreme predictions\|Intuition delivers overly extreme predictions]]                                                                         | 3           |
 | [[Trustworthy vs. Trusted\|Trustworthy vs. Trusted]]                                                                                                                     | 3           |
 | [[Post hoc ergo propter hoc\|Post hoc ergo propter hoc]]                                                                                                                 | 1           |

@@ -24,28 +24,28 @@
 | [[Strategy is focused on a winning aspiration\|Strategy is focused on a winning aspiration]]                                                                                     | 10          |
 | [[Strategy identifies capabilities needed for winning in a chosen field\|Strategy identifies capabilities needed for winning in a chosen field]]                                 | 10          |
 | [[A catalyst starts and moves on from a decentralized organization\|A catalyst starts and moves on from a decentralized organization]]                                           | 9           |
-| [[Building shared vision results in intrinsic motivation\|Building shared vision results in intrinsic motivation]]                                                               | 9           |
 | [[People don’t buy what you do, they buy why you do it\|People don’t buy what you do, they buy why you do it]]                                                                   | 9           |
+| [[Building shared vision results in intrinsic motivation\|Building shared vision results in intrinsic motivation]]                                                               | 8           |
 | [[Emerging markets are decreasingly attractive as organizations get larger\|Emerging markets are decreasingly attractive as organizations get larger]]                           | 8           |
 | [[Influence focuses on results\|Influence focuses on results]]                                                                                                                   | 8           |
-| [[Inquiry into complex issues is seldom rewarded\|Inquiry into complex issues is seldom rewarded]]                                                                               | 8           |
 | [[Leadership becomes more important with increasing complexity\|Leadership becomes more important with increasing complexity]]                                                   | 8           |
+| [[Inquiry into complex issues is seldom rewarded\|Inquiry into complex issues is seldom rewarded]]                                                                               | 7           |
 | [[Tribalism is human nature\|Tribalism is human nature]]                                                                                                                         | 7           |
 | [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]                                                                                     | 7           |
 | [[Change efforts are undermined by three measurement mistakes\|Change efforts are undermined by three measurement mistakes]]                                                     | 6           |
 | [[Disruptive innovation requires plans for learning rather than implementation\|Disruptive innovation requires plans for learning rather than implementation]]                   | 6           |
-| [[Forcefulness can be an unrealized defensive strategy\|Forcefulness can be an unrealized defensive strategy]]                                                                   | 6           |
 | [[Leadership is maintaining full engagement from your group\|Leadership is maintaining full engagement from your group]]                                                         | 6           |
 | [[Complex problems can be solved at the periphery\|Complex problems can be solved at the periphery]]                                                                             | 5           |
-| [[Defensive routines cover up underlying problems\|Defensive routines cover up underlying problems]]                                                                             | 5           |
 | [[Disruptive innovations tend to flourish in new organizations\|Disruptive innovations tend to flourish in new organizations]]                                                   | 5           |
-| [[Effects of interventions in systems of dynamic complexity are not immediately obvious\|Effects of interventions in systems of dynamic complexity are not immediately obvious]] | 5           |
+| [[Forcefulness can be an unrealized defensive strategy\|Forcefulness can be an unrealized defensive strategy]]                                                                   | 5           |
 | [[In decentralized social systems leadership is by influence\|In decentralized social systems leadership is by influence]]                                                       | 5           |
 | [[Innovator’s dilemma is about first-mover advantage\|Innovator’s dilemma is about first-mover advantage]]                                                                       | 5           |
 | [[Perseverance balances faith and honesty\|Perseverance balances faith and honesty]]                                                                                             | 5           |
 | [[Visionaries only succeed together with implementers\|Visionaries only succeed together with implementers]]                                                                     | 5           |
 | [[Admitting uncertainty is not necessarily indicative of lack of expertise\|Admitting uncertainty is not necessarily indicative of lack of expertise]]                           | 4           |
 | [[Catalysts are fundamentally different from CEOs\|Catalysts are fundamentally different from CEOs]]                                                                             | 4           |
+| [[Defensive routines cover up underlying problems\|Defensive routines cover up underlying problems]]                                                                             | 4           |
+| [[Effects of interventions in systems of dynamic complexity are not immediately obvious\|Effects of interventions in systems of dynamic complexity are not immediately obvious]] | 4           |
 | [[Epistemic confidence pertains to truth\|Epistemic confidence pertains to truth]]                                                                                               | 4           |
 | [[Impact of disruptive innovations cannot be predicted\|Impact of disruptive innovations cannot be predicted]]                                                                   | 4           |
 | [[Incumbents often invent what later destroys them\|Incumbents often invent what later destroys them]]                                                                           | 4           |

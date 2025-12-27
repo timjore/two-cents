@@ -32,28 +32,28 @@
 | [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                                                 | 9     |
 | [[Antifragile Systems become stronger with shocks\|Antifragile Systems become stronger with shocks]]                                                                             | 8     |
 | [[Antifragile systems are configured for adaptability\|Antifragile systems are configured for adaptability]]                                                                     | 8     |
-| [[Inquiry into complex issues is seldom rewarded\|Inquiry into complex issues is seldom rewarded]]                                                                               | 8     |
 | [[Leadership becomes more important with increasing complexity\|Leadership becomes more important with increasing complexity]]                                                   | 8     |
 | [[OODA Loop engages volatile, uncertain, chaotic, and ambiguous situations\|OODA Loop engages volatile, uncertain, chaotic, and ambiguous situations]]                           | 8     |
-| [[Systems thinking accounts for events, structure, and behavior (over time)\|Systems thinking accounts for events, structure, and behavior (over time)]]                         | 8     |
 | [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]]                                               | 7     |
 | [[Disruptive innovations are complex\|Disruptive innovations are complex]]                                                                                                       | 7     |
 | [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]]                               | 7     |
+| [[Inquiry into complex issues is seldom rewarded\|Inquiry into complex issues is seldom rewarded]]                                                                               | 7     |
 | [[One or two high leverage behaviors produce maximum change\|One or two high leverage behaviors produce maximum change]]                                                         | 7     |
 | [[Solutions to complex problems are rooted in context\|Solutions to complex problems are rooted in context]]                                                                     | 7     |
+| [[Systems thinking accounts for events, structure, and behavior (over time)\|Systems thinking accounts for events, structure, and behavior (over time)]]                         | 7     |
 | [[Appraisal of a complex problem’s context is objective\|Appraisal of a complex problem’s context is objective]]                                                                 | 6     |
 | [[Bright spots show positive deviance\|Bright spots show positive deviance]]                                                                                                     | 6     |
 | [[Checklists ensure success in complex conditions\|Checklists ensure success in complex conditions]]                                                                             | 6     |
 | [[Large systems tend to disintegrate during development\|Large systems tend to disintegrate during development]]                                                                 | 6     |
 | [[Maps of connectivity reveal strategic dynamics\|Maps of connectivity reveal strategic dynamics]]                                                                               | 6     |
 | [[Complex problems can be solved at the periphery\|Complex problems can be solved at the periphery]]                                                                             | 5     |
-| [[Effects of interventions in systems of dynamic complexity are not immediately obvious\|Effects of interventions in systems of dynamic complexity are not immediately obvious]] | 5     |
 | [[Globalization is a complex system\|Globalization is a complex system]]                                                                                                         | 5     |
 | [[Solutions to complex problems depend on creation of themes\|Solutions to complex problems depend on creation of themes]]                                                       | 5     |
 | [[Solving complex problems requires intentional follow-through\|Solving complex problems requires intentional follow-through]]                                                   | 5     |
 | [[Solving complex problems requires understanding the context\|Solving complex problems requires understanding the context]]                                                     | 5     |
 | [[Wicked problems can only be addressed by systems thinking\|Wicked problems can only be addressed by systems thinking]]                                                         | 5     |
 | [[Admitting uncertainty is not necessarily indicative of lack of expertise\|Admitting uncertainty is not necessarily indicative of lack of expertise]]                           | 4     |
+| [[Effects of interventions in systems of dynamic complexity are not immediately obvious\|Effects of interventions in systems of dynamic complexity are not immediately obvious]] | 4     |
 | [[Solutions to complex problems depends on a clear frame\|Solutions to complex problems depends on a clear frame]]                                                               | 4     |
 | [[Trailblazers amplify weak signals\|Trailblazers amplify weak signals]]                                                                                                         | 4     |
 | [[Solving complex problems requires having the right participants\|Solving complex problems requires having the right participants]]                                             | 3     |

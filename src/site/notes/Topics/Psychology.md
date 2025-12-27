@@ -26,12 +26,12 @@
 | [[Pattern recognition primes decision-making\|Pattern recognition primes decision-making]]                                                                                 | 6           |
 | [[Scouts view anomalies as puzzle pieces\|Scouts view anomalies as puzzle pieces]]                                                                                         | 6           |
 | [[Agreement is a spectrum, not a binary\|Agreement is a spectrum, not a binary]]                                                                                           | 5           |
-| [[Defensive routines cover up underlying problems\|Defensive routines cover up underlying problems]]                                                                       | 5           |
 | [[Fixed mindset believes abilities are set in stone\|Fixed mindset believes abilities are set in stone]]                                                                   | 5           |
 | [[Identity drives behavior\|Identity drives behavior]]                                                                                                                     | 5           |
 | [[People tend to adopt their own ideas\|People tend to adopt their own ideas]]                                                                                             | 5           |
 | [[What you see is all there is\|What you see is all there is]]                                                                                                             | 5           |
 | [[Consistency principle is a social anchoring effect\|Consistency principle is a social anchoring effect]]                                                                 | 4           |
+| [[Defensive routines cover up underlying problems\|Defensive routines cover up underlying problems]]                                                                       | 4           |
 | [[Epistemic confidence pertains to truth\|Epistemic confidence pertains to truth]]                                                                                         | 4           |
 | [[Psychological Safety is a prerequisite for creativity\|Psychological Safety is a prerequisite for creativity]]                                                           | 4           |
 | [[Scout mindset acknowledges own shortcomings\|Scout mindset acknowledges own shortcomings]]                                                                               | 4           |
