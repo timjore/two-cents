@@ -9,7 +9,7 @@ The teachers of an established tradition are the second to last group of people 
 Why is this? There are several reasons, including:
 
 - [[It is difficult to make someone understand what their salary depends on them not understanding\|It is difficult to make someone understand what their salary depends on them not understanding]]
-- [[It is impossible to teach a man what he thinks he already knows\|It is impossible to teach a man what he thinks he already knows]]
+- [[It is difficult to teach a man what he thinks he already knows\|It is difficult to teach a man what he thinks he already knows]]
 - [[Motivated reasoning is the soldier mindset\|Motivated reasoning is the soldier mindset]]
 - [[Paradigms can have phenomenal longevity\|Paradigms can have phenomenal longevity]]
 

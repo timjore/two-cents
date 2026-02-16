@@ -17,5 +17,6 @@ Rosling explains:
 see also:
 - [[Perception is Reality\|Perception is Reality]]
 - [[Fear Instinct hinders thinking by confusing risk with fear\|Fear Instinct hinders thinking by confusing risk with fear]]
+- [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]
 
 [^1]: [[References/Factfulness – Rosling, et al. (2018)\|Factfulness – Rosling, et al. (2018)]], ch. 4, § “Fear vs. Danger: Being Afraid of the Right Things” (p. 122).

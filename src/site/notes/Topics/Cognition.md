@@ -10,9 +10,9 @@
 | [[Scouts frequently update their maps\|Scouts frequently update their maps]]                                                                                             | 31          |
 | [[Lateral thinking is range in action\|Lateral thinking is range in action]]                                                                                             | 21          |
 | [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]                                                           | 19          |
+| [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                                 | 15          |
 | [[Creating frames improves cognition\|Creating frames improves cognition]]                                                                                               | 15          |
 | [[First Principles thinking allows you to see the obvious hiding in plain sight\|First Principles thinking allows you to see the obvious hiding in plain sight]]         | 15          |
-| [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                                 | 14          |
 | [[Fostering a discourse shapes behavior\|Fostering a discourse shapes behavior]]                                                                                         | 14          |
 | [[Motivated reasoning is the soldier mindset\|Motivated reasoning is the soldier mindset]]                                                                               | 14          |
 | [[Paradigm shifts create a new framework of thinking\|Paradigm shifts create a new framework of thinking]]                                                               | 13          |
@@ -21,7 +21,6 @@
 | [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]]                                                                                       | 11          |
 | [[Ambiguity aversion favors the known over the unknown\|Ambiguity aversion favors the known over the unknown]]                                                           | 10          |
 | [[Every logical model of reality must be continuously refined\|Every logical model of reality must be continuously refined]]                                             | 10          |
-| [[It is impossible to teach a man what he thinks he already knows\|It is impossible to teach a man what he thinks he already knows]]                                     | 10          |
 | [[Wicked learning environments prevent learning\|Wicked learning environments prevent learning]]                                                                         | 10          |
 | [[Adjacent Possible is the edge of the future\|Adjacent Possible is the edge of the future]]                                                                             | 9           |
 | [[Concept maps are graphical representations of mental models\|Concept maps are graphical representations of mental models]]                                             | 9           |
@@ -31,8 +30,8 @@
 | [[Shifting paradigms requires macroscopic, integrative thinking\|Shifting paradigms requires macroscopic, integrative thinking]]                                         | 9           |
 | [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                                   | 9           |
 | [[Superforecasting is the intersection of range and mindset\|Superforecasting is the intersection of range and mindset]]                                                 | 9           |
-| [[The price of knowledge is a change in lexicon\|The price of knowledge is a change in lexicon]]                                                                         | 9           |
 | [[Think slow, act fast is the secret of success\|Think slow, act fast is the secret of success]]                                                                         | 9           |
+| [[The price of knowledge is a change in lexicon\|The price of knowledge is a change in lexicon]]                                                                         | 9           |
 | [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                                         | 9           |
 | [[Analogical thinking uses a known example to explain something new\|Analogical thinking uses a known example to explain something new]]                                 | 8           |
 | [[Elastic Thinking can hold two contradictory ideas simultaneously\|Elastic Thinking can hold two contradictory ideas simultaneously]]                                   | 8           |
@@ -53,11 +52,11 @@
 | [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                                             | 6           |
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                               | 6           |
 | [[Fundamental Attribution Error blames others and exonerates me\|Fundamental Attribution Error blames others and exonerates me]]                                         | 6           |
+| [[Frightening and dangerous are two different things\|Frightening and dangerous are two different things]]                                                               | 6           |
 | [[Generative learning requires systemic thinking\|Generative learning requires systemic thinking]]                                                                       | 6           |
 | [[Bias for action can mask a bias against thinking\|Bias for action can mask a bias against thinking]]                                                                   | 5           |
 | [[Deep learning strategies have three elements\|Deep learning strategies have three elements]]                                                                           | 5           |
 | [[First principles are the simplest something can be, but not simpler\|First principles are the simplest something can be, but not simpler]]                             | 5           |
-| [[Frightening and dangerous are two different things\|Frightening and dangerous are two different things]]                                                               | 5           |
 | [[Integrative, macroscopic thinking sees the forest and the trees\|Integrative, macroscopic thinking sees the forest and the trees]]                                     | 5           |
 | [[Metaphors form the basis of our ability to think\|Metaphors form the basis of our ability to think]]                                                                   | 5           |
 | [[Organizations expand when prestige is correlated to budget size\|Organizations expand when prestige is correlated to budget size]]                                     | 5           |

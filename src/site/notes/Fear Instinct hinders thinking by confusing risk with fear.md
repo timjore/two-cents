@@ -22,6 +22,7 @@ To control the fear instinct, calculate the risks.
 
 See also:
 - [[Frightening and dangerous are two different things\|Frightening and dangerous are two different things]]
+- [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]
 
 Others in this series:
 1. [[Gap Instinct hinders thinking by ignoring the middle majority\|Gap Instinct hinders thinking by ignoring the middle majority]]

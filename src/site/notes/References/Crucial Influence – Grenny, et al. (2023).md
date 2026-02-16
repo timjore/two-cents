@@ -25,8 +25,8 @@
 | [[Practice one or two specific skills\|Practice one or two specific skills]]                                                 | 9     |
 | [[Influence focuses on results\|Influence focuses on results]]                                                               | 8     |
 | [[One or two high leverage behaviors produce maximum change\|One or two high leverage behaviors produce maximum change]]     | 7     |
-| [[Practice skills at the edge of ability\|Practice skills at the edge of ability]]                                           | 7     |
 | [[Practice with immediate feedback and coaching\|Practice with immediate feedback and coaching]]                             | 7     |
+| [[Practice skills at the edge of ability\|Practice skills at the edge of ability]]                                           | 7     |
 | [[Bright spots show positive deviance\|Bright spots show positive deviance]]                                                 | 6     |
 | [[Change efforts are undermined by three measurement mistakes\|Change efforts are undermined by three measurement mistakes]] | 6     |
 | [[Theory of influence asks why and how\|Theory of influence asks why and how]]                                               | 5     |

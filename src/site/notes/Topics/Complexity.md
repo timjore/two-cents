@@ -30,10 +30,10 @@
 | [[Solving complex problems avoids simplification\|Solving complex problems avoids simplification]]                                                                               | 9     |
 | [[Systems Theory studies the relationships and structure of systems\|Systems Theory studies the relationships and structure of systems]]                                         | 9     |
 | [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                                                 | 9     |
-| [[Antifragile Systems become stronger with shocks\|Antifragile Systems become stronger with shocks]]                                                                             | 8     |
 | [[Antifragile systems are configured for adaptability\|Antifragile systems are configured for adaptability]]                                                                     | 8     |
 | [[Leadership becomes more important with increasing complexity\|Leadership becomes more important with increasing complexity]]                                                   | 8     |
 | [[OODA Loop engages volatile, uncertain, chaotic, and ambiguous situations\|OODA Loop engages volatile, uncertain, chaotic, and ambiguous situations]]                           | 8     |
+| [[Antifragile Systems become stronger with shocks\|Antifragile Systems become stronger with shocks]]                                                                             | 7     |
 | [[Concept Networks are the building blocks of thoughts processes\|Concept Networks are the building blocks of thoughts processes]]                                               | 7     |
 | [[Disruptive innovations are complex\|Disruptive innovations are complex]]                                                                                                       | 7     |
 | [[Flexibility, simplicity and adaptability are simple rules of movements\|Flexibility, simplicity and adaptability are simple rules of movements]]                               | 7     |

@@ -6,7 +6,7 @@
 
 | File                                                                                                                                                                          | Total Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [[Perception is Reality\|Perception is Reality]]                                                                                                                           | 16          |
+| [[Perception is Reality\|Perception is Reality]]                                                                                                                           | 17          |
 | [[Changing things requires directing the Rider and motivating the Elephant\|Changing things requires directing the Rider and motivating the Elephant]]                     | 15          |
 | [[Growing your people cultivates identity and growth mindset\|Growing your people cultivates identity and growth mindset]]                                                 | 14          |
 | [[Intuition is pattern recognition\|Intuition is pattern recognition]]                                                                                                     | 10          |

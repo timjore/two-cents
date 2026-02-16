@@ -11,5 +11,5 @@ Even if you have the ideal solution for the problem another person may have, ==u
 
 See also:
 - [[It is difficult to make someone understand what their salary depends on them not understanding\|It is difficult to make someone understand what their salary depends on them not understanding]]
-- [[It is impossible to teach a man what he thinks he already knows\|It is impossible to teach a man what he thinks he already knows]]
+- [[It is difficult to teach a man what he thinks he already knows\|It is difficult to teach a man what he thinks he already knows]]
 - [[Perception is Reality\|Perception is Reality]]

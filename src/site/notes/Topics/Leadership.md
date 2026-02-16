@@ -21,8 +21,8 @@
 | [[Leaders cultivate an innovative environment\|Leaders cultivate an innovative environment]]                                                                                     | 10          |
 | [[Leadership is intentional influence\|Leadership is intentional influence]]                                                                                                     | 10          |
 | [[Strategy defines the choices for winning in a chosen field\|Strategy defines the choices for winning in a chosen field]]                                                       | 10          |
-| [[Strategy is focused on a winning aspiration\|Strategy is focused on a winning aspiration]]                                                                                     | 10          |
 | [[Strategy identifies capabilities needed for winning in a chosen field\|Strategy identifies capabilities needed for winning in a chosen field]]                                 | 10          |
+| [[Strategy is focused on a winning aspiration\|Strategy is focused on a winning aspiration]]                                                                                     | 10          |
 | [[A catalyst starts and moves on from a decentralized organization\|A catalyst starts and moves on from a decentralized organization]]                                           | 9           |
 | [[People don’t buy what you do, they buy why you do it\|People don’t buy what you do, they buy why you do it]]                                                                   | 9           |
 | [[Building shared vision results in intrinsic motivation\|Building shared vision results in intrinsic motivation]]                                                               | 8           |

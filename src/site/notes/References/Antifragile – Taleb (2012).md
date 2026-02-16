@@ -16,6 +16,6 @@
 | File                                                                                                    | Links |
 | ------------------------------------------------------------------------------------------------------- | ----- |
 | [[Bed of Procrustes\|Bed of Procrustes]]                                                             | 11    |
-| [[Antifragile Systems become stronger with shocks\|Antifragile Systems become stronger with shocks]] | 8     |
+| [[Antifragile Systems become stronger with shocks\|Antifragile Systems become stronger with shocks]] | 7     |
 
 { .block-language-dataview}

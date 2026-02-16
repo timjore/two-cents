@@ -16,7 +16,7 @@
 | File                                                                                                                                                            | Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Status quo bias favors the current state\|Status quo bias favors the current state]]                                                                       | 22    |
-| [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                     | 14    |
+| [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                     | 15    |
 | [[Planning fallacy confuses “best-guess” with “best-case” scenario\|Planning fallacy confuses “best-guess” with “best-case” scenario]]                       | 13    |
 | [[Premortem works backward from an undesirable outcome in order to prevent it\|Premortem works backward from an undesirable outcome in order to prevent it]] | 11    |
 | [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]]                                                                           | 11    |

@@ -19,7 +19,7 @@ This mindset is paralyzing and severely limits what can be achieved by the perso
 
 See also:
  - [[Staging/Growth mindset believes abilities can be developed\|Growth mindset believes abilities can be developed]]
- - [[It is impossible to teach a man what he thinks he already knows\|It is impossible to teach a man what he thinks he already knows]]
+ - [[It is difficult to teach a man what he thinks he already knows\|It is difficult to teach a man what he thinks he already knows]]
 
 [^1]: [[References/Mindset – Dweck (2006)\|Mindset – Dweck (2006)]], ch. 1, § “What Does All This Mean for You? The Two Mindsets.”
 [^2]: Ibid., ch. 3, § “Summary.”

@@ -16,7 +16,7 @@ Change is hard, but if it requires a person to categorically reject everything t
 See also:
  - [[Staging/Changing self-identity is a toe-in-the-door\|Changing self-identity is a toe-in-the-door]]
  - [[Constant change requires constant reformation\|Constant change requires constant reformation]]
- - [[It is impossible to teach a man what he thinks he already knows\|It is impossible to teach a man what he thinks he already knows]]
+ - [[It is difficult to teach a man what he thinks he already knows\|It is difficult to teach a man what he thinks he already knows]]
  - [[It is difficult to make someone understand what their salary depends on them not understanding\|It is difficult to make someone understand what their salary depends on them not understanding]]
 
 [^1]: [[References/Supercommunicators – Duhigg (2024)\|Supercommunicators – Duhigg (2024)]], ch. 6. Here, Duhigg quotes Matt Motta of Boston University.

@@ -6,8 +6,8 @@
 
 | File                                                                                                                                                          | Total Links |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [[Fear Instinct hinders thinking by confusing risk with fear\|Fear Instinct hinders thinking by confusing risk with fear]]                                 | 26          |
 | [[Straight Line Instinct hinders thinking by assuming trends will continue\|Straight Line Instinct hinders thinking by assuming trends will continue]]     | 26          |
-| [[Fear Instinct hinders thinking by confusing risk with fear\|Fear Instinct hinders thinking by confusing risk with fear]]                                 | 25          |
 | [[Generalization Instinct hinders thinking by using misleading categories\|Generalization Instinct hinders thinking by using misleading categories]]       | 25          |
 | [[Single Perspective Instinct hinders thinking by having only a hammer\|Single Perspective Instinct hinders thinking by having only a hammer]]             | 25          |
 | [[Blame Instinct hinders thinking by pointing fingers\|Blame Instinct hinders thinking by pointing fingers]]                                               | 24          |
@@ -18,7 +18,7 @@
 | [[Size Instinct hinders thinking by considering a number without context\|Size Instinct hinders thinking by considering a number without context]]         | 21          |
 | [[Urgency Instinct hinders thinking by exaggerating a decision's urgency\|Urgency Instinct hinders thinking by exaggerating a decision's urgency]]         | 20          |
 | [[Dichotomous thinking simplistically resolves ambiguity\|Dichotomous thinking simplistically resolves ambiguity]]                                         | 17          |
-| [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                   | 14          |
+| [[Availability Heuristic overestimates likelihood of events\|Availability Heuristic overestimates likelihood of events]]                                   | 15          |
 | [[Confirmation Bias defends one's assumptions\|Confirmation Bias defends one's assumptions]]                                                               | 12          |
 | [[Sunk Cost Fallacy avoids facing a loss\|Sunk Cost Fallacy avoids facing a loss]]                                                                         | 11          |
 | [[Ambiguity aversion favors the known over the unknown\|Ambiguity aversion favors the known over the unknown]]                                             | 10          |

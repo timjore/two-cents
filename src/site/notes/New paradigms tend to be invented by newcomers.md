@@ -16,7 +16,7 @@ New paradigms are most likely to be discovered (or invented) by people who have 
 See also:
 - [[Lateral thinking is range in action\|Lateral thinking is range in action]]
 - [[It is difficult to make someone understand what their salary depends on them not understanding\|It is difficult to make someone understand what their salary depends on them not understanding]]
-- [[It is impossible to teach a man what he thinks he already knows\|It is impossible to teach a man what he thinks he already knows]]
+- [[It is difficult to teach a man what he thinks he already knows\|It is difficult to teach a man what he thinks he already knows]]
 
 
 [^1]: [[References/The Structure of Scientific Revolutions – Kuhn (1962)\|The Structure of Scientific Revolutions – Kuhn (1962)]], ch. 8.
