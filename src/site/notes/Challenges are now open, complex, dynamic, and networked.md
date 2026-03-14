@@ -9,8 +9,8 @@ In [[Topics/Frame Innovation\|Frame Innovation]], Dorst argues that the nature o
 
 - An [[Open problems have unclear or permeable borders\|open]] problem is one where the system border is not clear, or where it is permeable. 
 - A [[Complex problems have many interconnected elements\|complex]] problem is one that consists of many elements, with numerous connections between them.
-- A [[Dynamic problems add elements and shift connections over time\|dynamic]] problem situation changes over time, with the addition of new elements and the shifting of connections (e.g., through the shifting of priorities).
-- The [[Networked problems influence each other\|networked]] nature of today’s problem situations means that they potentially influence each other constantly.
+- A [[35 Research-ln/35.01 Linked Learning/Garden/Garden/Dynamic problems add elements and shift connections over time\|dynamic]] problem situation changes over time, with the addition of new elements and the shifting of connections (e.g., through the shifting of priorities).
+- The [[35 Research-ln/35.01 Linked Learning/Garden/Garden/Networked problems influence each other\|networked]] nature of today’s problem situations means that they potentially influence each other constantly.
 
 Solving these kinds of problems requires fundamentally restructuring organizations accordingly:
 
@@ -37,8 +37,8 @@ See also:
 
 - [[Open problems have unclear or permeable borders\|Open problems have unclear or permeable borders]]
 - [[Complex problems have many interconnected elements\|Complex problems have many interconnected elements]]
-- [[Dynamic problems add elements and shift connections over time\|Dynamic problems add elements and shift connections over time]]
-- [[Networked problems influence each other\|Networked problems influence each other]]
+- [[35 Research-ln/35.01 Linked Learning/Garden/Garden/Dynamic problems add elements and shift connections over time\|35 Research-ln/35.01 Linked Learning/Garden/Garden/Dynamic problems add elements and shift connections over time]]
+- [[35 Research-ln/35.01 Linked Learning/Garden/Garden/Networked problems influence each other\|35 Research-ln/35.01 Linked Learning/Garden/Garden/Networked problems influence each other]]
 - [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]
 - [[Cynefin framework helps interpret systems\|Cynefin framework helps interpret systems]]
 - [[Complexifying overcomes binary bias\|Complexifying overcomes binary bias]]

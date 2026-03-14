@@ -23,9 +23,7 @@
 | [[Open problems have unclear or permeable borders\|Open problems have unclear or permeable borders]]                                                                             | 11    |
 | [[Complex problems have many interconnected elements\|Complex problems have many interconnected elements]]                                                                       | 10    |
 | [[Complex problems require new thinking\|Complex problems require new thinking]]                                                                                                 | 10    |
-| [[Networked problems influence each other\|Networked problems influence each other]]                                                                                             | 10    |
 | [[Wicked learning environments prevent learning\|Wicked learning environments prevent learning]]                                                                                 | 10    |
-| [[Dynamic problems add elements and shift connections over time\|Dynamic problems add elements and shift connections over time]]                                                 | 9     |
 | [[Solutions to complex problems are based on pattern recognition\|Solutions to complex problems are based on pattern recognition]]                                               | 9     |
 | [[Solving complex problems avoids simplification\|Solving complex problems avoids simplification]]                                                                               | 9     |
 | [[Systems Theory studies the relationships and structure of systems\|Systems Theory studies the relationships and structure of systems]]                                         | 9     |
@@ -46,11 +44,13 @@
 | [[Checklists ensure success in complex conditions\|Checklists ensure success in complex conditions]]                                                                             | 6     |
 | [[Large systems tend to disintegrate during development\|Large systems tend to disintegrate during development]]                                                                 | 6     |
 | [[Maps of connectivity reveal strategic dynamics\|Maps of connectivity reveal strategic dynamics]]                                                                               | 6     |
+| [[Networked problems influence each other\|Networked problems influence each other]]                                                                                             | 6     |
 | [[Complex problems can be solved at the periphery\|Complex problems can be solved at the periphery]]                                                                             | 5     |
+| [[Dynamic problems add elements and shift connections over time\|Dynamic problems add elements and shift connections over time]]                                                 | 5     |
 | [[Globalization is a complex system\|Globalization is a complex system]]                                                                                                         | 5     |
 | [[Solutions to complex problems depend on creation of themes\|Solutions to complex problems depend on creation of themes]]                                                       | 5     |
-| [[Solving complex problems requires intentional follow-through\|Solving complex problems requires intentional follow-through]]                                                   | 5     |
 | [[Solving complex problems requires understanding the context\|Solving complex problems requires understanding the context]]                                                     | 5     |
+| [[Solving complex problems requires intentional follow-through\|Solving complex problems requires intentional follow-through]]                                                   | 5     |
 | [[Wicked problems can only be addressed by systems thinking\|Wicked problems can only be addressed by systems thinking]]                                                         | 5     |
 | [[Admitting uncertainty is not necessarily indicative of lack of expertise\|Admitting uncertainty is not necessarily indicative of lack of expertise]]                           | 4     |
 | [[Effects of interventions in systems of dynamic complexity are not immediately obvious\|Effects of interventions in systems of dynamic complexity are not immediately obvious]] | 4     |

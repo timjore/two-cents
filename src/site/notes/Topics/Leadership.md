@@ -16,13 +16,13 @@
 | [[Influencing behavior engages six sources of influence\|Influencing behavior engages six sources of influence]]                                                                 | 12          |
 | [[Smart autonomy is freedom to act according to strategic intent\|Smart autonomy is freedom to act according to strategic intent]]                                               | 12          |
 | [[Pressure to meet a target value changes the system or the data\|Pressure to meet a target value changes the system or the data]]                                               | 11          |
-| [[Strategy identifies management systems needed for winning\|Strategy identifies management systems needed for winning]]                                                         | 11          |
 | [[Strategy narrows the competitive field\|Strategy narrows the competitive field]]                                                                                               | 11          |
+| [[Strategy identifies management systems needed for winning\|Strategy identifies management systems needed for winning]]                                                         | 11          |
 | [[Leaders cultivate an innovative environment\|Leaders cultivate an innovative environment]]                                                                                     | 10          |
 | [[Leadership is intentional influence\|Leadership is intentional influence]]                                                                                                     | 10          |
 | [[Strategy defines the choices for winning in a chosen field\|Strategy defines the choices for winning in a chosen field]]                                                       | 10          |
-| [[Strategy identifies capabilities needed for winning in a chosen field\|Strategy identifies capabilities needed for winning in a chosen field]]                                 | 10          |
 | [[Strategy is focused on a winning aspiration\|Strategy is focused on a winning aspiration]]                                                                                     | 10          |
+| [[Strategy identifies capabilities needed for winning in a chosen field\|Strategy identifies capabilities needed for winning in a chosen field]]                                 | 10          |
 | [[A catalyst starts and moves on from a decentralized organization\|A catalyst starts and moves on from a decentralized organization]]                                           | 9           |
 | [[People don’t buy what you do, they buy why you do it\|People don’t buy what you do, they buy why you do it]]                                                                   | 9           |
 | [[Building shared vision results in intrinsic motivation\|Building shared vision results in intrinsic motivation]]                                                               | 8           |
@@ -30,8 +30,8 @@
 | [[Influence focuses on results\|Influence focuses on results]]                                                                                                                   | 8           |
 | [[Leadership becomes more important with increasing complexity\|Leadership becomes more important with increasing complexity]]                                                   | 8           |
 | [[Inquiry into complex issues is seldom rewarded\|Inquiry into complex issues is seldom rewarded]]                                                                               | 7           |
-| [[Tribalism is human nature\|Tribalism is human nature]]                                                                                                                         | 7           |
 | [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]                                                                                     | 7           |
+| [[Tribalism is human nature\|Tribalism is human nature]]                                                                                                                         | 7           |
 | [[Change efforts are undermined by three measurement mistakes\|Change efforts are undermined by three measurement mistakes]]                                                     | 6           |
 | [[Disruptive innovation requires plans for learning rather than implementation\|Disruptive innovation requires plans for learning rather than implementation]]                   | 6           |
 | [[Leadership is maintaining full engagement from your group\|Leadership is maintaining full engagement from your group]]                                                         | 6           |

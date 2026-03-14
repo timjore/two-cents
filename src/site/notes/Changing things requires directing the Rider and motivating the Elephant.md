@@ -25,7 +25,7 @@ In [[References/Switch – Heath and Heath (2010)\|Switch]], Chip and Dan Heath 
   
 - **[[Tweaking the environment changes behavior\|Tweak the Environment]]** – When the situation changes, the behavior changes. So change the situation. 
 - **[[Building habits reduces cognitive strain\|Build Habits]]** – When behavior is habitual, it doesn’t tax the Rider. Look for ways to encourage habits. 
-- **[[Rallying the herd makes behavior contagious\|Rally the Herd]]** – Behavior is contagious. Help it spread. 
+- **[[35 Research-ln/35.01 Linked Learning/Garden/Garden/Rallying the herd makes behavior contagious\|Rally the Herd]]** – Behavior is contagious. Help it spread. 
   
 ---
 #change #psychology #leadership 

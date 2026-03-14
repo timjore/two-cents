@@ -16,6 +16,6 @@ See also:
 - [[Challenges are now open, complex, dynamic, and networked\|Challenges are now open, complex, dynamic, and networked]]
 - [[Open problems have unclear or permeable borders\|Open problems have unclear or permeable borders]]
 - [[Complex problems have many interconnected elements\|Complex problems have many interconnected elements]]
-- [[Networked problems influence each other\|Networked problems influence each other]]
+- [[35 Research-ln/35.01 Linked Learning/Garden/Garden/Networked problems influence each other\|35 Research-ln/35.01 Linked Learning/Garden/Garden/Networked problems influence each other]]
 
 [^1]: [[References/Frame Innovation – Dorst (2015)\|Frame Innovation – Dorst (2015)]], ch. 1, § “Dynamic.”

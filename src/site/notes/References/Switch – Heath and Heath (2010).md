@@ -29,7 +29,7 @@ See [[Changing things requires directing the Rider and motivating the Elephant\|
 **3- Shape the Path** (i.e. “who is doing it”)
 - [[Tweaking the environment changes behavior\|Tweak the Environment]]
 - [[Building habits reduces cognitive strain\|Build Habits]]
-- [[Rallying the herd makes behavior contagious\|Rally the Herd]] 
+- [[35 Research-ln/35.01 Linked Learning/Garden/Garden/Rallying the herd makes behavior contagious\|Rally the Herd]] 
 
 | File                                                                                                                                                      | Links |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
@@ -43,9 +43,9 @@ See [[Changing things requires directing the Rider and motivating the Elephant\|
 | [[Finding the bright spots clones what is already working\|Finding the bright spots clones what is already working]]                                   | 8     |
 | [[Tweaking the environment changes behavior\|Tweaking the environment changes behavior]]                                                               | 8     |
 | [[One or two high leverage behaviors produce maximum change\|One or two high leverage behaviors produce maximum change]]                               | 7     |
-| [[Rallying the herd makes behavior contagious\|Rallying the herd makes behavior contagious]]                                                           | 7     |
 | [[Shrinking the change reduces fear\|Shrinking the change reduces fear]]                                                                               | 7     |
 | [[Fundamental Attribution Error blames others and exonerates me\|Fundamental Attribution Error blames others and exonerates me]]                       | 6     |
 | [[Identity drives behavior\|Identity drives behavior]]                                                                                                 | 5     |
+| [[Rallying the herd makes behavior contagious\|Rallying the herd makes behavior contagious]]                                                           | 3     |
 
 { .block-language-dataview}

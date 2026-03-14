@@ -22,7 +22,7 @@ Checklists are especially important when navigating change in complex conditions
 Shaping the Path:
 - [[Tweaking the environment changes behavior\|Tweak the Environment]]
 - Build Habits
-- [[Rallying the herd makes behavior contagious\|Rally the Herd]]
+- [[35 Research-ln/35.01 Linked Learning/Garden/Garden/Rallying the herd makes behavior contagious\|Rally the Herd]]
 
 [^1]: [[References/Switch – Heath and Heath (2010)\|Switch – Heath and Heath (2010)]], ch. 9, 215. The authors quote Gollwitzer.
 [^2]: Ibid., ch. 9, 227.

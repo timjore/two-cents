@@ -15,7 +15,7 @@ Shaping behavior toward a desired result can be helped “tweaking the environme
 Shaping the Path:
 - Tweak the Environment
 - [[Building habits reduces cognitive strain\|Build Habits]]
-- [[Rallying the herd makes behavior contagious\|Rally the Herd]]
+- [[35 Research-ln/35.01 Linked Learning/Garden/Garden/Rallying the herd makes behavior contagious\|Rally the Herd]]
 
 [^1]: [[References/Switch – Heath and Heath (2010)\|Switch – Heath and Heath (2010)]], ch. 9, 188.
 [^2]: Ibid., ch. 9, 200.

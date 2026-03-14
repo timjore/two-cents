@@ -17,8 +17,8 @@
 | File                                                                                                                                                                                | Links |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | [[Low-leverage interventions are alluring because they work in the short term\|Low-leverage interventions are alluring because they work in the short term]]                     | 14    |
-| [[Structure influences behavior\|Structure influences behavior]]                                                                                                                 | 12    |
 | [[Structural explanations address underlying causes\|Structural explanations address underlying causes]]                                                                         | 12    |
+| [[Structure influences behavior\|Structure influences behavior]]                                                                                                                 | 12    |
 | [[Learning organizations implement five component technologies\|Learning organizations implement five component technologies]]                                                   | 11    |
 | [[Systems thinking is defined by laws\|Systems thinking is defined by laws]]                                                                                                     | 11    |
 | [[Complex situations have multiple levels of explanation\|Complex situations have multiple levels of explanation]]                                                               | 10    |

@@ -15,8 +15,8 @@ Problems traditionally have been defined by clear and impermeable borders. By co
 See also:
 - [[Challenges are now open, complex, dynamic, and networked\|Challenges are now open, complex, dynamic, and networked]]
 - [[Complex problems have many interconnected elements\|Complex problems have many interconnected elements]]
-- [[Dynamic problems add elements and shift connections over time\|Dynamic problems add elements and shift connections over time]]
-- [[Networked problems influence each other\|Networked problems influence each other]]
+- [[35 Research-ln/35.01 Linked Learning/Garden/Garden/Dynamic problems add elements and shift connections over time\|35 Research-ln/35.01 Linked Learning/Garden/Garden/Dynamic problems add elements and shift connections over time]]
+- [[35 Research-ln/35.01 Linked Learning/Garden/Garden/Networked problems influence each other\|35 Research-ln/35.01 Linked Learning/Garden/Garden/Networked problems influence each other]]
 - [[Wicked problems are difficult or impossible to solve\|Wicked problems are difficult or impossible to solve]]
 
 [^1]: [[References/Frame Innovation – Dorst (2015)\|Frame Innovation – Dorst (2015)]], ch. 1, § “Open.”

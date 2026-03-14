@@ -16,7 +16,7 @@ A complex problem is one that is composed of many elements, with numerous connec
 See also:
 - [[Challenges are now open, complex, dynamic, and networked\|Challenges are now open, complex, dynamic, and networked]]
 - [[Open problems have unclear or permeable borders\|Open problems have unclear or permeable borders]]
-- [[Dynamic problems add elements and shift connections over time\|Dynamic problems add elements and shift connections over time]]
-- [[Networked problems influence each other\|Networked problems influence each other]]
+- [[35 Research-ln/35.01 Linked Learning/Garden/Garden/Dynamic problems add elements and shift connections over time\|35 Research-ln/35.01 Linked Learning/Garden/Garden/Dynamic problems add elements and shift connections over time]]
+- [[35 Research-ln/35.01 Linked Learning/Garden/Garden/Networked problems influence each other\|35 Research-ln/35.01 Linked Learning/Garden/Garden/Networked problems influence each other]]
 
 [^1]: [[References/Frame Innovation – Dorst (2015)\|Frame Innovation – Dorst (2015)]], ch. 1, § “Complex.”

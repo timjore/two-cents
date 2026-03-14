@@ -17,7 +17,6 @@
 | [[Loss aversion values avoiding losses more than achieving gains\|Loss aversion values avoiding losses more than achieving gains]]                                         | 8           |
 | [[Negativity dominance processes the bad more thoroughly than the good\|Negativity dominance processes the bad more thoroughly than the good]]                             | 8           |
 | [[Path dependence shapes what we do next\|Path dependence shapes what we do next]]                                                                                         | 8           |
-| [[Rallying the herd makes behavior contagious\|Rallying the herd makes behavior contagious]]                                                                               | 7           |
 | [[Reference-class forecasting avoids uniqueness bias\|Reference-class forecasting avoids uniqueness bias]]                                                                 | 7           |
 | [[Scout mindset is the pursuit of truth\|Scout mindset is the pursuit of truth]]                                                                                           | 7           |
 | [[Disagree and commit enables unified action\|Disagree and commit enables unified action]]                                                                                 | 6           |
@@ -40,6 +39,7 @@
 | [[Between stimulus and response, man has the freedom to choose\|Between stimulus and response, man has the freedom to choose]]                                             | 3           |
 | [[Criticism affecting identity predisposes soldier mindset\|Criticism affecting identity predisposes soldier mindset]]                                                     | 3           |
 | [[Extrinsic rewards can crowd out intrinsic motivation\|Extrinsic rewards can crowd out intrinsic motivation]]                                                             | 3           |
+| [[Rallying the herd makes behavior contagious\|Rallying the herd makes behavior contagious]]                                                                               | 3           |
 | [[Social proof is most influential under three conditions\|Social proof is most influential under three conditions]]                                                       | 3           |
 | [[Stanford Prison Experiment\|Stanford Prison Experiment]]                                                                                                                 | 3           |
 | [[What others do is the stimulus, not the cause, of feelings\|What others do is the stimulus, not the cause, of feelings]]                                                 | 3           |
