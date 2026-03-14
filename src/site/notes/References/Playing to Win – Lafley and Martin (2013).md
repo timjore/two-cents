@@ -25,8 +25,8 @@
 | [[Reverse-engineering focuses strategic options\|Reverse-engineering focuses strategic options]]                                                                         | 8     |
 | [[Specifying conditions reverse engineers a possibility\|Specifying conditions reverse engineers a possibility]]                                                         | 4     |
 | [[Strategic capability is required for thinking your way out of difficult positions\|Strategic capability is required for thinking your way out of difficult positions]] | 4     |
-| [[Strategy formulation is an iterative process\|Strategy formulation is an iterative process]]                                                                           | 4     |
 | [[Strategy is formulated and communicated at every level\|Strategy is formulated and communicated at every level]]                                                       | 4     |
+| [[Strategy formulation is an iterative process\|Strategy formulation is an iterative process]]                                                                           | 4     |
 | [[Assertive inquiry moves dialog beyond argumentation\|Assertive inquiry moves dialog beyond argumentation]]                                                             | 3     |
 
 { .block-language-dataview}

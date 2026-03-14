@@ -45,5 +45,5 @@ These provide indices of notes in similar domains:
 
 ## License
 
-![by.png|120](/img/user/Attachments/by.png)
+![[35 Research-ln/35.01 Linked Learning/Garden-ln/Attachments/by.png\|120]]
 All original content on [faintsignal.org](https://faintsignalorg) is made available under the terms of the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0).

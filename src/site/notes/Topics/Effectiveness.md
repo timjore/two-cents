@@ -11,8 +11,8 @@
 | [[Thinking from right to left begins with the goal\|Thinking from right to left begins with the goal]]                                               | 10          |
 | [[Think slow, act fast is the secret of success\|Think slow, act fast is the secret of success]]                                                     | 9           |
 | [[Successful projects develop a clear, informed understanding of the goal\|Successful projects develop a clear, informed understanding of the goal]] | 8           |
-| [[Checklists establish a higher standard of baseline performance\|Checklists establish a higher standard of baseline performance]]                   | 6           |
 | [[Checklists ensure success in complex conditions\|Checklists ensure success in complex conditions]]                                                 | 6           |
+| [[Checklists establish a higher standard of baseline performance\|Checklists establish a higher standard of baseline performance]]                   | 6           |
 | [[Generative learning requires systemic thinking\|Generative learning requires systemic thinking]]                                                   | 6           |
 | [[Pareto Principle leverages effort for maximum impact\|Pareto Principle leverages effort for maximum impact]]                                       | 6           |
 | [[Systems archetypes embody the key to systems thinking\|Systems archetypes embody the key to systems thinking]]                                     | 6           |

@@ -30,8 +30,8 @@
 | [[Shifting paradigms requires macroscopic, integrative thinking\|Shifting paradigms requires macroscopic, integrative thinking]]                                         | 9           |
 | [[Substitution answers an easier, similar question instead\|Substitution answers an easier, similar question instead]]                                                   | 9           |
 | [[Superforecasting is the intersection of range and mindset\|Superforecasting is the intersection of range and mindset]]                                                 | 9           |
-| [[Think slow, act fast is the secret of success\|Think slow, act fast is the secret of success]]                                                                         | 9           |
 | [[The price of knowledge is a change in lexicon\|The price of knowledge is a change in lexicon]]                                                                         | 9           |
+| [[Think slow, act fast is the secret of success\|Think slow, act fast is the secret of success]]                                                                         | 9           |
 | [[Understanding the systemic structure is powerfully generative\|Understanding the systemic structure is powerfully generative]]                                         | 9           |
 | [[Analogical thinking uses a known example to explain something new\|Analogical thinking uses a known example to explain something new]]                                 | 8           |
 | [[Elastic Thinking can hold two contradictory ideas simultaneously\|Elastic Thinking can hold two contradictory ideas simultaneously]]                                   | 8           |
@@ -51,9 +51,9 @@
 | [[Unchecked optimism leads to project failure\|Unchecked optimism leads to project failure]]                                                                             | 7           |
 | [[Anchoring Bias pulls an unknown value toward a known anchor\|Anchoring Bias pulls an unknown value toward a known anchor]]                                             | 6           |
 | [[Familiarity is not easily distinguished from truth\|Familiarity is not easily distinguished from truth]]                                                               | 6           |
-| [[Fundamental Attribution Error blames others and exonerates me\|Fundamental Attribution Error blames others and exonerates me]]                                         | 6           |
-| [[Frightening and dangerous are two different things\|Frightening and dangerous are two different things]]                                                               | 6           |
 | [[Generative learning requires systemic thinking\|Generative learning requires systemic thinking]]                                                                       | 6           |
+| [[Frightening and dangerous are two different things\|Frightening and dangerous are two different things]]                                                               | 6           |
+| [[Fundamental Attribution Error blames others and exonerates me\|Fundamental Attribution Error blames others and exonerates me]]                                         | 6           |
 | [[Bias for action can mask a bias against thinking\|Bias for action can mask a bias against thinking]]                                                                   | 5           |
 | [[Deep learning strategies have three elements\|Deep learning strategies have three elements]]                                                                           | 5           |
 | [[First principles are the simplest something can be, but not simpler\|First principles are the simplest something can be, but not simpler]]                             | 5           |

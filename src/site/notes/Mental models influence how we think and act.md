@@ -17,6 +17,6 @@ See also:
 - [[Analogical thinking uses a known example to explain something new\|Analogical thinking uses a known example to explain something new]]
 - [[Visionaries and pragmatists are fundamentally different in how they think\|Visionaries and pragmatists are fundamentally different in how they think]]
 - [[Bed of Procrustes\|Bed of Procrustes]]
-- Topic: [[Topics/Metacognition\|Metacognition]]
+- Topic: [[35 Research-ln/35.01 Linked Learning/Garden-ln/Topics/Metacognition\|35 Research-ln/35.01 Linked Learning/Garden-ln/Topics/Metacognition]]
 
 [^1]: [[References/The Fifth Discipline – Senge (2010)\|The Fifth Discipline – Senge (2010)]], ch. 1, § “Disciplines of the Learning Organization.”
